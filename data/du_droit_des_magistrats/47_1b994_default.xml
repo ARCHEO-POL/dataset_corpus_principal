@@ -38,13 +38,13 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="650 144 650 189 711 189 711 144"/></Shape>
         </TextBlock>
-        <TextBlock HPOS="266.0"
-                   VPOS="195.0"
-                   WIDTH="845.0"
-                   HEIGHT="1549.0"
+        <TextBlock HPOS="266"
+                   VPOS="195"
+                   WIDTH="840"
+                   HEIGHT="1549"
                    ID="eSc_textblock_99e27c7f"
                    TAGREFS="BT1872">
-          <Shape><Polygon POINTS="268 195 266 1744 1105 1727 1111 196"/></Shape>
+          <Shape><Polygon POINTS="268 195 266 1744 1105 1727 1106 202"/></Shape>
         </TextBlock>
         <TextBlock HPOS="963.0"
                    VPOS="1732.0"

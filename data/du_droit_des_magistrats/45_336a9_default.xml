@@ -478,12 +478,12 @@
                     HEIGHT="65.0"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="650.0"
-                   VPOS="130.0"
-                   WIDTH="75.0"
-                   HEIGHT="50.0"
+        <TextBlock HPOS="650"
+                   VPOS="130"
+                   WIDTH="75"
+                   HEIGHT="50"
                    ID="eSc_textblock_f7c1793e"
-                   TAGREFS="BT15">
+                   TAGREFS="BT1872">
           <Shape><Polygon POINTS="650 130 650 180 725 180 725 130"/></Shape>
           <TextLine ID="eSc_line_1bb685db"
                     TAGREFS="LT8"

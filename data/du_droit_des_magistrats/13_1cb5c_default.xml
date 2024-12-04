@@ -22,13 +22,13 @@
                   VPOS="0"
                   WIDTH="1132"
                   HEIGHT="1824">
-        <TextBlock HPOS="204.0"
-                   VPOS="191.0"
-                   WIDTH="894.0"
-                   HEIGHT="1545.0"
+        <TextBlock HPOS="204"
+                   VPOS="187"
+                   WIDTH="894"
+                   HEIGHT="1549"
                    ID="eSc_textblock_dc5de63b"
                    TAGREFS="BT1872">
-          <Shape><Polygon POINTS="205 191 204 1736 812 1736 1098 1736 1096 192"/></Shape>
+          <Shape><Polygon POINTS="205 191 204 1733 812 1736 1098 1736 1097 187"/></Shape>
           <TextLine ID="eSc_line_fe08f17f"
                     TAGREFS="LT8"
                     BASELINE="222 229 675 230 1089 225" 
@@ -478,13 +478,13 @@
                     HEIGHT="120.0"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="620.0"
-                   VPOS="140.0"
-                   WIDTH="74.0"
-                   HEIGHT="49.0"
+        <TextBlock HPOS="618"
+                   VPOS="140"
+                   WIDTH="76"
+                   HEIGHT="49"
                    ID="eSc_textblock_9a9fc3ca"
                    TAGREFS="BT15">
-          <Shape><Polygon POINTS="620 140 620 187 694 189 694 140"/></Shape>
+          <Shape><Polygon POINTS="620 140 618 187 694 189 694 140"/></Shape>
           <TextLine ID="eSc_line_5b06f0e1"
                     TAGREFS="LT8"
                     BASELINE="634 184 682 185" 
