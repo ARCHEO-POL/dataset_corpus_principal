@@ -485,6 +485,27 @@
                     HEIGHT="114"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="1282.0"
+                   VPOS="3963.0"
+                   WIDTH="650.0"
+                   HEIGHT="142.0"
+                   ID="eSc_textblock_5ef4916f"
+                   TAGREFS="BT9">
+          <Shape><Polygon POINTS="1282 4105 1282 3963 1932 3963 1932 4105"/></Shape>
+          <TextLine ID="eSc_line_392bc805"
+                    BASELINE="1313 4069 1956 4080" 
+                    HPOS="1309"
+                    VPOS="3964"
+                    WIDTH="646"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="1562 3964 1558 3964 1555 3964 1555 3967 1516 3999 1312 3999 1312 4066 1309 4083 1720 4083 1730 4097 1734 4097 1734 4101 1737 4101 1741 4101 1744 4101 1951 4083 1955 4076 1955 4006 1860 3967 1857 3967 1853 3967 1699 3988 1565 3964 1562 3964"/></Shape>
+	    <String CONTENT="Digitized by Google"
+                    HPOS="1309"
+                    VPOS="3964"
+                    WIDTH="646"
+                    HEIGHT="137"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="1955.0"
                    VPOS="3943.0"
                    WIDTH="495.0"
@@ -507,14 +528,6 @@
                     HEIGHT="124"
                     WC="0.9812936186790466"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1282.0"
-                   VPOS="3963.0"
-                   WIDTH="650.0"
-                   HEIGHT="142.0"
-                   ID="eSc_textblock_5ef4916f"
-                   TAGREFS="BT9">
-          <Shape><Polygon POINTS="1282 4105 1282 3963 1932 3963 1932 4105"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
