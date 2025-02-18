@@ -9,7 +9,7 @@
     </sourceImageInformation>
   </Description>
   <Tags>
-    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2514" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head"/><OtherTag ID="BT2515" LABEL="MainZone-Entry" DESCRIPTION="block type MainZone-Entry"/><OtherTag ID="BT2516" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P"/><OtherTag ID="BT2517" LABEL="MainZone-Sp" DESCRIPTION="block type MainZone-Sp"/><OtherTag ID="BT2518" LABEL="MainZone-Continued" DESCRIPTION="block type MainZone-Continued"/><OtherTag ID="BT2519" LABEL="MarginTextZone-Notes" DESCRIPTION="block type MarginTextZone-Notes"/><OtherTag ID="BT2520" LABEL="MarginTextZone-ManuscriptAddendum" DESCRIPTION="block type MarginTextZone-ManuscriptAddendum"/><OtherTag ID="BT2521" LABEL="StampZone-Sticker" DESCRIPTION="block type StampZone-Sticker"/>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2514" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head"/><OtherTag ID="BT2515" LABEL="MainZone-Entry" DESCRIPTION="block type MainZone-Entry"/><OtherTag ID="BT2516" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P"/><OtherTag ID="BT2517" LABEL="MainZone-Sp" DESCRIPTION="block type MainZone-Sp"/><OtherTag ID="BT2518" LABEL="MainZone-Continued" DESCRIPTION="block type MainZone-Continued"/><OtherTag ID="BT2519" LABEL="MarginTextZone-Notes" DESCRIPTION="block type MarginTextZone-Notes"/><OtherTag ID="BT2520" LABEL="MarginTextZone-ManuscriptAddendum" DESCRIPTION="block type MarginTextZone-ManuscriptAddendum"/><OtherTag ID="BT2521" LABEL="StampZone-Sticker" DESCRIPTION="block type StampZone-Sticker"/><OtherTag ID="BT2659" LABEL="MainZone-ListItem" DESCRIPTION="block type MainZone-ListItem"/>
     <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT747" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
@@ -29,7 +29,7 @@
                    TAGREFS="BT2518">
           <Shape><Polygon POINTS="1082 177 1104 1768 84 1765 84 174 918 179"/></Shape>
           <TextLine ID="line_2"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="83 216 1089 210" 
                     HPOS="81"
                     VPOS="175"
@@ -58,7 +58,7 @@
                     WC="0.9611176167215619"></String>
           </TextLine>
           <TextLine ID="line_3"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="83 275 1089 267" 
                     HPOS="81"
                     VPOS="218"
@@ -87,7 +87,7 @@
                     WC="0.8933433145284653"></String>
           </TextLine>
           <TextLine ID="line_4"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="84 333 1089 329" 
                     HPOS="83.0"
                     VPOS="287.0"
@@ -102,7 +102,7 @@
                     WC="0.98357189117476"></String>
           </TextLine>
           <TextLine ID="line_5"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="84 393 1088 389" 
                     HPOS="83.0"
                     VPOS="344.0"
@@ -117,7 +117,7 @@
                     WC="0.9859346191991459"></String>
           </TextLine>
           <TextLine ID="line_6"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="83 453 1088 449" 
                     HPOS="81.0"
                     VPOS="401.0"
@@ -132,7 +132,7 @@
                     WC="0.9758921151465558"></String>
           </TextLine>
           <TextLine ID="line_7"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="85 513 1082 509" 
                     HPOS="84.0"
                     VPOS="461.0"
@@ -147,7 +147,7 @@
                     WC="0.9932204770005267"></String>
           </TextLine>
           <TextLine ID="line_8"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="85 571 1092 567" 
                     HPOS="84.0"
                     VPOS="520.0"
@@ -162,7 +162,7 @@
                     WC="0.9996809831687382"></String>
           </TextLine>
           <TextLine ID="line_9"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="85 628 1094 626" 
                     HPOS="84.0"
                     VPOS="583.0"
@@ -177,7 +177,7 @@
                     WC="0.9991237705662137"></String>
           </TextLine>
           <TextLine ID="line_10"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="85 689 1095 685" 
                     HPOS="84.0"
                     VPOS="636.0"
@@ -192,7 +192,7 @@
                     WC="0.9980023909698833"></String>
           </TextLine>
           <TextLine ID="line_11"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="84 746 1097 746" 
                     HPOS="84.0"
                     VPOS="702.0"
@@ -207,7 +207,7 @@
                     WC="0.9912427799268202"></String>
           </TextLine>
           <TextLine ID="line_12"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="91 809 1095 804" 
                     HPOS="89.0"
                     VPOS="755.0"
@@ -222,7 +222,7 @@
                     WC="0.9839402113271796"></String>
           </TextLine>
           <TextLine ID="line_13"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="87 867 1089 867" 
                     HPOS="87.0"
                     VPOS="817.0"
@@ -237,7 +237,7 @@
                     WC="0.9864522854487101"></String>
           </TextLine>
           <TextLine ID="line_14"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="88 924 1093 922" 
                     HPOS="87.0"
                     VPOS="875.0"
@@ -252,7 +252,7 @@
                     WC="0.990458185258119"></String>
           </TextLine>
           <TextLine ID="line_15"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="88 984 1097 984" 
                     HPOS="88.0"
                     VPOS="937.0"
@@ -267,7 +267,7 @@
                     WC="0.981020043293635"></String>
           </TextLine>
           <TextLine ID="line_16"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="87 1043 1097 1041" 
                     HPOS="85.0"
                     VPOS="996.0"
@@ -282,7 +282,7 @@
                     WC="0.9978724484858306"></String>
           </TextLine>
           <TextLine ID="line_17"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="87 1104 1102 1104" 
                     HPOS="87.0"
                     VPOS="1057.0"
@@ -297,7 +297,7 @@
                     WC="0.999358576277028"></String>
           </TextLine>
           <TextLine ID="line_18"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="88 1163 1099 1159" 
                     HPOS="87.0"
                     VPOS="1111.0"
@@ -312,7 +312,7 @@
                     WC="0.9994862193153018"></String>
           </TextLine>
           <TextLine ID="line_19"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="89 1223 1101 1223" 
                     HPOS="89.0"
                     VPOS="1179.0"
@@ -327,7 +327,7 @@
                     WC="0.9980994648403592"></String>
           </TextLine>
           <TextLine ID="line_20"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="89 1282 1101 1282" 
                     HPOS="89.0"
                     VPOS="1236.0"
@@ -342,7 +342,7 @@
                     WC="0.9991522603564792"></String>
           </TextLine>
           <TextLine ID="line_21"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="89 1341 1101 1341" 
                     HPOS="89.0"
                     VPOS="1293.0"
@@ -357,7 +357,7 @@
                     WC="0.9901260441922127"></String>
           </TextLine>
           <TextLine ID="line_22"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="89 1397 1101 1400" 
                     HPOS="89.0"
                     VPOS="1352.0"
@@ -372,7 +372,7 @@
                     WC="0.995442192662846"></String>
           </TextLine>
           <TextLine ID="line_23"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="91 1458 1099 1458" 
                     HPOS="91.0"
                     VPOS="1413.0"
@@ -387,7 +387,7 @@
                     WC="0.9937251250852238"></String>
           </TextLine>
           <TextLine ID="line_24"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="91 1519 1098 1515" 
                     HPOS="89.0"
                     VPOS="1471.0"
@@ -402,7 +402,7 @@
                     WC="0.9948814394997387"></String>
           </TextLine>
           <TextLine ID="line_25"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="91 1578 1101 1578" 
                     HPOS="91.0"
                     VPOS="1530.0"
@@ -417,7 +417,7 @@
                     WC="0.9961552938749624"></String>
           </TextLine>
           <TextLine ID="line_26"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="91 1635 1099 1635" 
                     HPOS="91.0"
                     VPOS="1592.0"
@@ -432,7 +432,7 @@
                     WC="0.9989749945345379"></String>
           </TextLine>
           <TextLine ID="line_27"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="91 1693 1101 1696" 
                     HPOS="91.0"
                     VPOS="1646.0"
@@ -447,7 +447,7 @@
                     WC="0.9887548444118905"></String>
           </TextLine>
           <TextLine ID="line_28"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="92 1754 925 1753" 
                     HPOS="91.0"
                     VPOS="1710.0"
@@ -470,7 +470,7 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="766 108 766 164 377 164 377 108"/></Shape>
           <TextLine ID="line_0"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="396 146 763 142" 
                     HPOS="395.0"
                     VPOS="114.0"
@@ -493,7 +493,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="1086 103 1086 170 1015 170 1015 103"/></Shape>
           <TextLine ID="line_1"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="1019 145 1076 145" 
                     HPOS="1019.0"
                     VPOS="88.0"
@@ -516,7 +516,7 @@
                    TAGREFS="BT2516">
           <Shape><Polygon POINTS="1111 1773 1111 2016 97 2016 97 1773"/></Shape>
           <TextLine ID="line_29"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="152 1814 1098 1814" 
                     HPOS="152.0"
                     VPOS="1769.0"
@@ -531,7 +531,7 @@
                     WC="0.9951884339495403"></String>
           </TextLine>
           <TextLine ID="line_30"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="92 1869 1098 1871" 
                     HPOS="91.0"
                     VPOS="1826.0"
@@ -546,7 +546,7 @@
                     WC="0.9892785251140594"></String>
           </TextLine>
           <TextLine ID="line_31"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="94 1931 1098 1931" 
                     HPOS="94.0"
                     VPOS="1889.0"
@@ -561,7 +561,7 @@
                     WC="0.9932277997334799"></String>
           </TextLine>
           <TextLine ID="line_32"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="96 1988 1098 1992" 
                     HPOS="94.0"
                     VPOS="1941.0"
@@ -584,7 +584,7 @@
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="972 2007 972 2074 844 2074 844 2007"/></Shape>
           <TextLine ID="line_33"
-                    TAGREFS="LT747"
+                    TAGREFS="LT8"
                     BASELINE="847 2052 969 2052" 
                     HPOS="847.0"
                     VPOS="2006.0"
