@@ -148,20 +148,6 @@
                     HEIGHT="79.0"
                     WC="0.9842187708074396"></String>
           </TextLine>
-          <TextLine ID="eSc_line_e36f844f"
-                    TAGREFS="LT8"
-                    BASELINE="204 580 214 580" 
-                    HPOS="204.0"
-                    VPOS="559.0"
-                    WIDTH="10.0"
-                    HEIGHT="35.0">
-            <Shape><Polygon POINTS="204 580 204 594 214 594 214 580 212 559 204 562 204 580"/></Shape>
-	    <String CONTENT=""
-                    HPOS="204.0"
-                    VPOS="559.0"
-                    WIDTH="10.0"
-                    HEIGHT="35.0"></String>
-          </TextLine>
           <TextLine ID="eSc_line_5d54e94c"
                     TAGREFS="LT8"
                     BASELINE="197 621 1383 612" 
