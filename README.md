@@ -3,8 +3,8 @@
 README
 Contributeurs
 
-    Nicolas Champeaux
     Alyzé Bianco
+    Nicolas Champeaux    
     Lorenzo Paoli
 
 Ce dossier fait partie du projet FNS Archéo-POL de l'IHR et est disponible sur le GitHub officiel.
