@@ -240,16 +240,15 @@
                    ID="eSc_textblock_f4068651"
                    TAGREFS="BT12">
           <Shape><Polygon POINTS="410 911 410 983 585 983 585 911"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_9f8f7f99"
+                    TAGREFS="LT8"
                     BASELINE="433 961 554 961" 
                     HPOS="432"
                     VPOS="915"
                     WIDTH="121"
                     HEIGHT="80">
             <Shape><Polygon POINTS="432 960 432 995 461 995 461 994 462 994 464 994 464 992 482 980 552 987 553 960 552 915 432 915 432 960"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="FIN."
                     HPOS="432"
                     VPOS="915"
                     WIDTH="121"
