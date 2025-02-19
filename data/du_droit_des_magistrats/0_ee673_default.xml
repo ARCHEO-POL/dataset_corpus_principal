@@ -254,7 +254,7 @@
                     WIDTH="54"
                     HEIGHT="121">
             <Shape><Polygon POINTS="1030 50 1014 50 982 54 982 113 979 162 995 171 996 171 998 171 999 171 1001 171 1031 162 1033 115 1031 50 1030 50"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="8"
                     HPOS="979"
                     VPOS="50"
                     WIDTH="54"
@@ -267,7 +267,7 @@
                     WIDTH="66"
                     HEIGHT="101">
             <Shape><Polygon POINTS="900 171 900 186 964 193 966 171 966 101 900 92 900 171"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="X."
                     HPOS="900"
                     VPOS="92"
                     WIDTH="66"
