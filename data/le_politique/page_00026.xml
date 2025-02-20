@@ -683,21 +683,6 @@
                     HEIGHT="62"
                     WC="0.986462350549369"></String>
           </TextLine>
-          <TextLine ID="eSc_line_5f998af5"
-                    TAGREFS="LT8"
-                    BASELINE="1135 1979 1265 1979" 
-                    HPOS="1133"
-                    VPOS="1910"
-                    WIDTH="130"
-                    HEIGHT="118">
-            <Shape><Polygon POINTS="1133 1977 1133 2000 1261 2028 1263 1977 1263 1921 1133 1910 1133 1977"/></Shape>
-	    <String CONTENT="1.Piea.."
-                    HPOS="1133"
-                    VPOS="1910"
-                    WIDTH="130"
-                    HEIGHT="118"
-                    WC="0.9315157346427441"></String>
-          </TextLine>
           <TextLine ID="line_41"
                     TAGREFS="LT8"
                     BASELINE="100 2032 712 2032 1113 2028" 
@@ -713,21 +698,6 @@
                     HEIGHT="86"
                     WC="0.9830521774291993"></String>
           </TextLine>
-          <TextLine ID="eSc_line_8574e3dd"
-                    TAGREFS="LT8"
-                    BASELINE="1135 2027 1178 2022" 
-                    HPOS="1127"
-                    VPOS="1985"
-                    WIDTH="53"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="1133 2026 1135 2056 1180 2064 1176 2021 1167 1985 1127 1987 1133 2026"/></Shape>
-	    <String CONTENT="17."
-                    HPOS="1127"
-                    VPOS="1985"
-                    WIDTH="53"
-                    HEIGHT="79"
-                    WC="0.9795065919558207"></String>
-          </TextLine>
         </TextBlock>
         <TextBlock HPOS="1130"
                    VPOS="1944"
@@ -736,6 +706,36 @@
                    ID="eSc_textblock_622f5f00"
                    TAGREFS="BT2512">
           <Shape><Polygon POINTS="1130 1944 1130 2047 1270 2047 1270 1944"/></Shape>
+          <TextLine ID="eSc_line_5f998af5"
+                    TAGREFS="LT8"
+                    BASELINE="1135 1979 1265 1979" 
+                    HPOS="1133"
+                    VPOS="1910"
+                    WIDTH="130"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1133 2000 1261 2028 1263 1977 1263 1921 1133 1910 1133 1977"/></Shape>
+	    <String CONTENT="1.Piea.."
+                    HPOS="1133"
+                    VPOS="1910"
+                    WIDTH="130"
+                    HEIGHT="118"
+                    WC="0.9315157346427441"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8574e3dd"
+                    TAGREFS="LT8"
+                    BASELINE="1135 2027 1178 2022" 
+                    HPOS="1127"
+                    VPOS="1985"
+                    WIDTH="53"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1135 2056 1180 2064 1176 2021 1167 1985 1127 1987 1133 2026"/></Shape>
+	    <String CONTENT="17."
+                    HPOS="1127"
+                    VPOS="1985"
+                    WIDTH="53"
+                    HEIGHT="79"
+                    WC="0.9795065919558207"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
