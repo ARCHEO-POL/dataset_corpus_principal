@@ -748,7 +748,7 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="281 44 281 96 549 96 549 44"/></Shape>
           <TextLine ID="line_0"
-                    TAGREFS="LT9"
+                    TAGREFS="LT8"
                     BASELINE="295 90 371 87 539 87" 
                     HPOS="292"
                     VPOS="44"
@@ -771,6 +771,7 @@
                    TAGREFS="BT2662">
           <Shape><Polygon POINTS="926 29 926 58 863 58 863 29"/></Shape>
           <TextLine ID="eSc_line_18b3af36"
+                    TAGREFS="LT8"
                     BASELINE="870 47 920 47" 
                     HPOS="868"
                     VPOS="29"
