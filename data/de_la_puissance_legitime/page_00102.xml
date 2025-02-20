@@ -21,10 +21,10 @@
                   VPOS="0"
                   WIDTH="1402"
                   HEIGHT="2338">
-        <TextBlock HPOS="312"
-                   VPOS="121"
-                   WIDTH="96"
-                   HEIGHT="57"
+        <TextBlock HPOS="312.0"
+                   VPOS="121.0"
+                   WIDTH="96.0"
+                   HEIGHT="57.0"
                    ID="block_0"
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="408 121 408 178 312 178 312 121"/></Shape>
@@ -43,10 +43,10 @@
                     HEIGHT="81.0"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="599"
-                   VPOS="119"
-                   WIDTH="452"
-                   HEIGHT="61"
+        <TextBlock HPOS="599.0"
+                   VPOS="119.0"
+                   WIDTH="452.0"
+                   HEIGHT="61.0"
                    ID="block_3"
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="1051 119 1051 180 599 180 599 119"/></Shape>
@@ -65,10 +65,10 @@
                     HEIGHT="54.0"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="306"
-                   VPOS="186"
-                   WIDTH="1025"
-                   HEIGHT="772"
+        <TextBlock HPOS="306.0"
+                   VPOS="186.0"
+                   WIDTH="1025.0"
+                   HEIGHT="772.0"
                    ID="block_2"
                    TAGREFS="BT2518">
           <Shape><Polygon POINTS="1331 186 1331 958 347 955 306 954 311 197 544 194"/></Shape>
@@ -255,10 +255,10 @@
                     HEIGHT="73.0"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="267"
-                   VPOS="965"
-                   WIDTH="1054"
-                   HEIGHT="1124"
+        <TextBlock HPOS="267.0"
+                   VPOS="965.0"
+                   WIDTH="1054.0"
+                   HEIGHT="1124.0"
                    ID="block_1"
                    TAGREFS="BT2516">
           <Shape><Polygon POINTS="1321 970 1314 1193 1285 2089 267 2086 307 965"/></Shape>
