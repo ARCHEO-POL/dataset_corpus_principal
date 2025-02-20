@@ -195,5 +195,5 @@ volume:
   metric: lines
 - count: 800
   metric: pages
-- count: 6563
+- count: 6562
   metric: regions
