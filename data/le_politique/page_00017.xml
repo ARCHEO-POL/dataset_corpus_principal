@@ -344,12 +344,11 @@
                     WIDTH="128"
                     HEIGHT="91">
             <Shape><Polygon POINTS="84 960 84 1014 131 1014 131 1012 133 1012 134 1012 134 1011 140 1006 148 998 155 1003 158 1006 159 1006 160 1006 161 1006 212 996 212 960 212 931 155 923 154 923 153 923 126 929 111 923 110 923 109 923 107 923 84 929 84 960"/></Shape>
-	    <String CONTENT="eledifs."
+	    <String CONTENT="electifs."
                     HPOS="84"
                     VPOS="923"
                     WIDTH="128"
-                    HEIGHT="91"
-                    WC="0.9200623407959938"></String>
+                    HEIGHT="91"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="262"
@@ -367,12 +366,11 @@
                     WIDTH="984"
                     HEIGHT="53">
             <Shape><Polygon POINTS="1278 805 1259 805 1240 805 1221 805 1203 805 1184 805 1165 805 1146 805 1127 805 1108 805 1090 805 1071 805 1052 805 1033 805 1014 805 995 805 977 805 958 805 939 805 920 805 901 805 882 805 864 805 845 805 826 805 807 805 788 805 770 805 751 805 732 805 713 805 694 805 675 805 657 805 638 805 623 805 299 805 301 837 301 858 1282 850 1283 832 1278 805 1278 805"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="Po. Il me ſemble que &amp; l&#x27;vn &amp; l&#x27;autre ne ſont ſi louable ¬"
                     HPOS="299"
                     VPOS="805"
                     WIDTH="984"
-                    HEIGHT="53"
-                    WC="0.9705479553452244"></String>
+                    HEIGHT="53"></String>
           </TextLine>
           <TextLine ID="eSc_line_3d5a8d0f"
                     TAGREFS="LT8"

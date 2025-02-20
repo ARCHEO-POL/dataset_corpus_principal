@@ -224,12 +224,11 @@
                     WIDTH="1017"
                     HEIGHT="62">
             <Shape><Polygon POINTS="239 697 237 719 1251 725 1254 702 1251 663 239 663 239 697"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="quand il dit qu&#x27;ils seront come nourrissiers à son Eglise,"
                     HPOS="237"
                     VPOS="663"
                     WIDTH="1017"
-                    HEIGHT="62"
-                    WC="0.9959524661302567"></String>
+                    HEIGHT="62"></String>
           </TextLine>
           <TextLine ID="line_16"
                     TAGREFS="LT8"

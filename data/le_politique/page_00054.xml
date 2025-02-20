@@ -983,7 +983,21 @@
                    HEIGHT="73"
                    ID="eSc_textblock_eb72dbb2"
                    TAGREFS="BT17">
-          <Shape><Polygon POINTS="1045 2099 1045 2026 924 2026 924 2099"/></Shape>
+          <Shape><Polygon POINTS="1045 2099 1045 2026 924 2026 928 2099"/></Shape>
+          <TextLine ID="eSc_line_9fea9fb2"
+                    TAGREFS="LT8"
+                    BASELINE="943 2063 1031 2069" 
+                    HPOS="938"
+                    VPOS="2027"
+                    WIDTH="92"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1019 2027 1000 2027 981 2027 963 2027 944 2027 942 2061 938 2095 1025 2110 1030 2068 1030 2027 1019 2027"/></Shape>
+	    <String CONTENT="13"
+                    HPOS="938"
+                    VPOS="2027"
+                    WIDTH="92"
+                    HEIGHT="83"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

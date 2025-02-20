@@ -36,7 +36,7 @@
                     WIDTH="56"
                     HEIGHT="73">
             <Shape><Polygon POINTS="246 138 244 148 261 148 280 148 298 148 300 140 300 75 246 82 246 138"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="136"
                     HPOS="244"
                     VPOS="75"
                     WIDTH="56"
@@ -156,12 +156,11 @@
                     WIDTH="626"
                     HEIGHT="81">
             <Shape><Polygon POINTS="921 88 434 88 432 155 520 163 547 152 594 163 688 152 733 165 846 154 876 169 941 169 1026 155 1052 165 1058 140 1058 90 921 88"/></Shape>
-	    <String CONTENT="Leu"
+	    <String CONTENT="MEMOIRES DE"
                     HPOS="432"
                     VPOS="88"
                     WIDTH="626"
-                    HEIGHT="81"
-                    WC="0.9682715535163879"></String>
+                    HEIGHT="81"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="213"

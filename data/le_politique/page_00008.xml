@@ -337,12 +337,11 @@
                     WIDTH="61"
                     HEIGHT="89">
             <Shape><Polygon POINTS="1127 99 1108 99 1089 99 1085 84 1070 84 1070 144 1070 157 1129 173 1131 144 1131 99 1127 99"/></Shape>
-	    <String CONTENT="67"
+	    <String CONTENT="87"
                     HPOS="1070"
                     VPOS="84"
                     WIDTH="61"
-                    HEIGHT="89"
-                    WC="0.9999983906745911"></String>
+                    HEIGHT="89"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="220"
@@ -610,7 +609,7 @@
                     WIDTH="119"
                     HEIGHT="57">
             <Shape><Polygon POINTS="920 2025 918 2038 1031 2048 1035 2040 1037 1991 922 1995 920 2025"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="F4"
                     HPOS="918"
                     VPOS="1991"
                     WIDTH="119"

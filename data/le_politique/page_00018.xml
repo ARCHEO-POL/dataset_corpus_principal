@@ -698,6 +698,20 @@
                    ID="eSc_textblock_c4f06467"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="1011 2097 1011 2053 952 2053 952 2097"/></Shape>
+          <TextLine ID="eSc_line_a6dc9bf2"
+                    TAGREFS="LT8"
+                    BASELINE="968 2090 1015 2090" 
+                    HPOS="966"
+                    VPOS="2046"
+                    WIDTH="47"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1004 2054 985 2054 966 2054 966 2088 966 2119 1013 2109 1013 2088 1013 2048 1006 2046 1004 2054"/></Shape>
+	    <String CONTENT="G"
+                    HPOS="966"
+                    VPOS="2046"
+                    WIDTH="47"
+                    HEIGHT="73"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
