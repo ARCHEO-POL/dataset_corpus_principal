@@ -92,8 +92,8 @@ characters:
   - '6'
   - '8'
   - '7'
-  - '0'
   - '9'
+  - '0'
   - œ
   - ̈
   - j
@@ -187,13 +187,13 @@ time:
 title: 'Archeo-pol : Corpus principal'
 url: https://github.com/ARCHEO-POL/dataset_corpus_principal
 volume:
-- count: 1190394
+- count: 1190521
   metric: characters
 - count: 1198
   metric: files
-- count: 40857
+- count: 40861
   metric: lines
 - count: 800
   metric: pages
-- count: 6567
+- count: 6562
   metric: regions
