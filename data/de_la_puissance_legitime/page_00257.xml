@@ -21,10 +21,10 @@
                   VPOS="0"
                   WIDTH="1436"
                   HEIGHT="2338">
-        <TextBlock HPOS="85"
-                   VPOS="172"
-                   WIDTH="1026"
-                   HEIGHT="176"
+        <TextBlock HPOS="85.0"
+                   VPOS="172.0"
+                   WIDTH="1026.0"
+                   HEIGHT="176.0"
                    ID="block_3"
                    TAGREFS="BT2518">
           <Shape><Polygon POINTS="1111 172 1107 342 599 348 85 343 88 172"/></Shape>
@@ -71,10 +71,10 @@
                     HEIGHT="69.0"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="79"
-                   VPOS="357"
-                   WIDTH="1028"
-                   HEIGHT="1657"
+        <TextBlock HPOS="79.0"
+                   VPOS="357.0"
+                   WIDTH="1028.0"
+                   HEIGHT="1657.0"
                    ID="block_4"
                    TAGREFS="BT2516">
           <Shape><Polygon POINTS="1107 358 1096 2011 79 2014 84 357 260 358"/></Shape>
@@ -471,10 +471,10 @@
                     HEIGHT="80.0"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="413"
-                   VPOS="110"
-                   WIDTH="395"
-                   HEIGHT="56"
+        <TextBlock HPOS="413.0"
+                   VPOS="110.0"
+                   WIDTH="395.0"
+                   HEIGHT="56.0"
                    ID="block_2"
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="808 110 808 166 413 166 413 110"/></Shape>
@@ -493,38 +493,15 @@
                     HEIGHT="47.0"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="825"
-                   VPOS="2016"
-                   WIDTH="105"
-                   HEIGHT="64"
-                   ID="block_0"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="930 2016 930 2080 825 2080 825 2016"/></Shape>
-          <TextLine ID="line_32"
-                    TAGREFS="LT8"
-                    BASELINE="831 2057 923 2058" 
-                    HPOS="828"
-                    VPOS="2016"
-                    WIDTH="93"
-                    HEIGHT="78">
-            <Shape><Polygon POINTS="869 2016 849 2016 830 2016 830 2055 828 2074 917 2094 921 2057 919 2022 880 2016 869 2016"/></Shape>
-	    <String CONTENT=""
-                    HPOS="828"
-                    VPOS="2016"
-                    WIDTH="93"
-                    HEIGHT="78"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1015"
-                   VPOS="120"
-                   WIDTH="95"
-                   HEIGHT="46"
+        <TextBlock HPOS="1015.0"
+                   VPOS="120.0"
+                   WIDTH="95.0"
+                   HEIGHT="46.0"
                    ID="eSc_textblock_f78066cd"
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="1015 120 1015 166 1110 166 1110 120"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_e581c463"
+                    TAGREFS="LT8"
                     BASELINE="1021 151 1100 152" 
                     HPOS="1019"
                     VPOS="85"
@@ -536,6 +513,28 @@
                     VPOS="85"
                     WIDTH="79"
                     HEIGHT="94"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="825.0"
+                   VPOS="2016.0"
+                   WIDTH="105.0"
+                   HEIGHT="64.0"
+                   ID="block_0"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="930 2016 930 2080 825 2080 825 2016"/></Shape>
+          <TextLine ID="line_32"
+                    TAGREFS="LT8"
+                    BASELINE="831 2057 923 2058" 
+                    HPOS="828.0"
+                    VPOS="2016.0"
+                    WIDTH="93.0"
+                    HEIGHT="78.0">
+            <Shape><Polygon POINTS="869 2016 849 2016 830 2016 830 2055 828 2074 917 2094 921 2057 919 2022 880 2016 869 2016"/></Shape>
+	    <String CONTENT=""
+                    HPOS="828.0"
+                    VPOS="2016.0"
+                    WIDTH="93.0"
+                    HEIGHT="78.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

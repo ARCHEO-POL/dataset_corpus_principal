@@ -107,6 +107,7 @@
                     HEIGHT="70"></String>
           </TextLine>
           <TextLine ID="eSc_line_8e05e6fb"
+                    TAGREFS="LT8"
                     BASELINE="367 452 445 455 1367 455" 
                     HPOS="364"
                     VPOS="403"
@@ -232,6 +233,7 @@
                     HEIGHT="59"></String>
           </TextLine>
           <TextLine ID="eSc_line_f780255d"
+                    TAGREFS="LT8"
                     BASELINE="352 992 1364 993" 
                     HPOS="351"
                     VPOS="944"

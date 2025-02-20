@@ -288,20 +288,6 @@
                     WIDTH="61"
                     HEIGHT="51"></String>
           </TextLine>
-          <TextLine ID="eSc_line_e0f47cf5"
-                    TAGREFS="LT8"
-                    BASELINE="369 130 389 133 414 133" 
-                    HPOS="364"
-                    VPOS="95"
-                    WIDTH="49"
-                    HEIGHT="68">
-            <Shape><Polygon POINTS="407 95 388 95 370 95 368 128 364 163 409 155 413 132 413 95 407 95"/></Shape>
-	    <String CONTENT=""
-                    HPOS="364"
-                    VPOS="95"
-                    WIDTH="49"
-                    HEIGHT="68"></String>
-          </TextLine>
         </TextBlock>
         <TextBlock HPOS="688.0"
                    VPOS="98.0"

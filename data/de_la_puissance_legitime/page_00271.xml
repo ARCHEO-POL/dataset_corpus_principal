@@ -21,10 +21,10 @@
                   VPOS="0"
                   WIDTH="551"
                   HEIGHT="2408">
-        <TextBlock HPOS="154"
-                   VPOS="1889"
-                   WIDTH="195"
-                   HEIGHT="288"
+        <TextBlock HPOS="154.0"
+                   VPOS="1889.0"
+                   WIDTH="195.0"
+                   HEIGHT="288.0"
                    ID="block_0"
                    TAGREFS="BT2521">
           <Shape><Polygon POINTS="349 1890 349 1992 349 2177 154 2177 154 1889"/></Shape>

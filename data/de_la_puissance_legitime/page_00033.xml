@@ -381,17 +381,18 @@
                     HEIGHT="74.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_414f70be"
+                    TAGREFS="LT8"
                     BASELINE="1106 174 1273 170" 
-                    HPOS="1103.0"
-                    VPOS="123.0"
-                    WIDTH="168.0"
-                    HEIGHT="103.0">
-            <Shape><Polygon POINTS="1105 173 1105 226 1213 224 1215 224 1271 201 1271 169 1267 132 1103 123 1105 173"/></Shape>
+                    HPOS="1103"
+                    VPOS="123"
+                    WIDTH="168"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1105 226 1213 224 1215 224 1271 201 1271 169 1267 132 1103 123 1105 173"/></Shape>
 	    <String CONTENT=""
-                    HPOS="1103.0"
-                    VPOS="123.0"
-                    WIDTH="168.0"
-                    HEIGHT="103.0"></String>
+                    HPOS="1103"
+                    VPOS="123"
+                    WIDTH="168"
+                    HEIGHT="103"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="96.0"

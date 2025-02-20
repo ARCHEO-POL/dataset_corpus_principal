@@ -29,7 +29,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="329 80 329 133 412 133 412 80"/></Shape>
           <TextLine ID="eSc_line_4f6a8971"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="336 124 402 124" 
                     HPOS="334"
                     VPOS="85"
@@ -51,7 +51,7 @@
                    TAGREFS="BT2518">
           <Shape><Polygon POINTS="1372 140 1372 858 337 858 337 140"/></Shape>
           <TextLine ID="line_1"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="334 183 528 178 1362 179" 
                     HPOS="333"
                     VPOS="131"
@@ -65,7 +65,7 @@
                     HEIGHT="68"></String>
           </TextLine>
           <TextLine ID="line_2"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="338 240 840 236 1357 242" 
                     HPOS="337"
                     VPOS="191"
@@ -79,7 +79,7 @@
                     HEIGHT="69"></String>
           </TextLine>
           <TextLine ID="line_3"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="338 299 715 295 1360 299" 
                     HPOS="338"
                     VPOS="251"
@@ -93,7 +93,7 @@
                     HEIGHT="65"></String>
           </TextLine>
           <TextLine ID="line_4"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="336 359 1364 356" 
                     HPOS="334"
                     VPOS="315"
@@ -107,7 +107,7 @@
                     HEIGHT="65"></String>
           </TextLine>
           <TextLine ID="line_5"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="345 416 1364 416" 
                     HPOS="345"
                     VPOS="370"
@@ -121,7 +121,7 @@
                     HEIGHT="68"></String>
           </TextLine>
           <TextLine ID="line_6"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="340 477 906 473 1362 477" 
                     HPOS="338"
                     VPOS="426"
@@ -135,7 +135,7 @@
                     HEIGHT="72"></String>
           </TextLine>
           <TextLine ID="line_7"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="341 536 1367 536" 
                     HPOS="341"
                     VPOS="489"
@@ -149,7 +149,7 @@
                     HEIGHT="70"></String>
           </TextLine>
           <TextLine ID="line_8"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="342 596 1360 593" 
                     HPOS="341"
                     VPOS="545"
@@ -163,7 +163,7 @@
                     HEIGHT="69"></String>
           </TextLine>
           <TextLine ID="line_9"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="342 656 596 650 1361 654" 
                     HPOS="341"
                     VPOS="606"
@@ -177,7 +177,7 @@
                     HEIGHT="68"></String>
           </TextLine>
           <TextLine ID="line_10"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="349 713 1362 713" 
                     HPOS="349"
                     VPOS="667"
@@ -191,7 +191,7 @@
                     HEIGHT="69"></String>
           </TextLine>
           <TextLine ID="line_11"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="346 770 1361 774" 
                     HPOS="345"
                     VPOS="726"
@@ -205,7 +205,7 @@
                     HEIGHT="78"></String>
           </TextLine>
           <TextLine ID="line_12"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="349 833 743 827" 
                     HPOS="347"
                     VPOS="786"
@@ -227,7 +227,7 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="1029 83 1029 136 670 136 670 83"/></Shape>
           <TextLine ID="line_0"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="672 118 1026 118" 
                     HPOS="670"
                     VPOS="83"
@@ -249,7 +249,7 @@
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="1367 928 1367 996 1176 996 1176 928"/></Shape>
           <TextLine ID="line_13"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="1180 978 1360 976" 
                     HPOS="1179"
                     VPOS="912"
