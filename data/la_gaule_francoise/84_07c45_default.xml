@@ -233,6 +233,7 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="641 55 641 104 196 104 196 55"/></Shape>
           <TextLine ID="line_0"
+                    TAGREFS="LT8"
                     BASELINE="194 90 648 90" 
                     HPOS="194"
                     VPOS="49"
@@ -278,6 +279,7 @@
                    TAGREFS="BT2597">
           <Shape><Polygon POINTS="806 821 807 1161 652 1162 80 1165 80 821"/></Shape>
           <TextLine ID="line_15"
+                    TAGREFS="LT8"
                     BASELINE="95 863 800 859" 
                     HPOS="92"
                     VPOS="821"
@@ -291,6 +293,7 @@
                     HEIGHT="63"></String>
           </TextLine>
           <TextLine ID="line_16"
+                    TAGREFS="LT8"
                     BASELINE="141 915 801 906" 
                     HPOS="140"
                     VPOS="867"
@@ -305,6 +308,7 @@
                     WC="0.9912516742944717"></String>
           </TextLine>
           <TextLine ID="line_17"
+                    TAGREFS="LT8"
                     BASELINE="137 965 801 957" 
                     HPOS="135"
                     VPOS="919"
@@ -319,6 +323,7 @@
                     WC="0.9984333791383883"></String>
           </TextLine>
           <TextLine ID="line_18"
+                    TAGREFS="LT8"
                     BASELINE="139 1012 774 1007" 
                     HPOS="138"
                     VPOS="968"
@@ -333,6 +338,7 @@
                     WC="0.9966352581977844"></String>
           </TextLine>
           <TextLine ID="line_21"
+                    TAGREFS="LT8"
                     BASELINE="253 1118 589 1116" 
                     HPOS="250"
                     VPOS="1046"
@@ -354,6 +360,7 @@
                    TAGREFS="BT2598">
           <Shape><Polygon POINTS="11 1179 20 1546 830 1546 830 1185"/></Shape>
           <TextLine ID="line_22"
+                    TAGREFS="LT8"
                     BASELINE="240 1234 806 1228" 
                     HPOS="239"
                     VPOS="1186"
@@ -466,7 +473,7 @@
                    TAGREFS="BT10">
           <Shape><Polygon POINTS="33 1192 33 1402 233 1402 233 1192"/></Shape>
           <TextLine ID="line_19"
-                    TAGREFS="LT9"
+                    TAGREFS="LT8"
                     BASELINE="59 1379 217 1375" 
                     HPOS="57"
                     VPOS="1334"
