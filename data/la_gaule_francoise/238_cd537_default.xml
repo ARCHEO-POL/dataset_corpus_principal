@@ -60,13 +60,13 @@
                     WC="0.9968487322330475"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="2"
-                   VPOS="252"
-                   WIDTH="818"
-                   HEIGHT="1356"
+        <TextBlock HPOS="0"
+                   VPOS="250"
+                   WIDTH="820"
+                   HEIGHT="1358"
                    ID="block_1"
                    TAGREFS="BT2664">
-          <Shape><Polygon POINTS="820 252 806 1533 534 1548 29 1608 2 259"/></Shape>
+          <Shape><Polygon POINTS="820 252 806 1533 534 1548 29 1608 0 250"/></Shape>
           <TextLine ID="line_3"
                     TAGREFS="LT8"
                     BASELINE="389 292 433 290" 
@@ -759,26 +759,26 @@
                     WC="0.9998374730348587"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="10.0"
-                   VPOS="286.0"
-                   WIDTH="221.0"
-                   HEIGHT="221.0"
+        <TextBlock HPOS="10"
+                   VPOS="286"
+                   WIDTH="221"
+                   HEIGHT="228"
                    ID="eSc_textblock_fd715baf"
                    TAGREFS="BT10">
-          <Shape><Polygon POINTS="10 286 10 507 231 507 231 286"/></Shape>
+          <Shape><Polygon POINTS="10 286 10 507 231 514 231 286"/></Shape>
           <TextLine ID="line_2"
                     TAGREFS="LT10"
-                    BASELINE="33 476 190 475" 
-                    HPOS="29.0"
-                    VPOS="298.0"
-                    WIDTH="159.0"
-                    HEIGHT="217.0">
-            <Shape><Polygon POINTS="32 511 185 515 188 474 183 299 29 298 32 475"/></Shape>
+                    BASELINE="33 476 190 477" 
+                    HPOS="32"
+                    VPOS="440"
+                    WIDTH="156"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="32 475 32 511 186 515 188 475 188 440 32 440 32 475"/></Shape>
 	    <String CONTENT="A"
-                    HPOS="29.0"
-                    VPOS="298.0"
-                    WIDTH="159.0"
-                    HEIGHT="217.0"></String>
+                    HPOS="32"
+                    VPOS="440"
+                    WIDTH="156"
+                    HEIGHT="75"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="852"
