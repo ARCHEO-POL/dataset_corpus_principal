@@ -789,12 +789,13 @@
                    TAGREFS="BT2662">
           <Shape><Polygon POINTS="940 51 940 20 852 20 852 51"/></Shape>
           <TextLine ID="eSc_line_ce17b18d"
+                    TAGREFS="LT8"
                     BASELINE="869 38 936 38" 
                     HPOS="868"
                     VPOS="20"
                     WIDTH="66"
                     HEIGHT="47">
-            <Shape><Polygon POINTS="930 20 914 20 899 20 883 20 868 20 868 37 868 66 933 67 934 37 934 20 930 20"/></Shape>
+            <Shape><Polygon POINTS="914 20 899 20 883 20 868 20 868 37 868 66 933 67 934 37 934 20 930 20"/></Shape>
 	    <String CONTENT="273"
                     HPOS="868"
                     VPOS="20"
