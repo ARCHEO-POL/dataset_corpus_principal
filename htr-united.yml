@@ -38,9 +38,9 @@ characters:
   - l
   - d
   - c
+  - ſ
   - p
   - m
-  - ſ
   - ','
   - q
   - ’
@@ -50,8 +50,8 @@ characters:
   - '&'
   - b
   - .
-  - ¬
   - v
+  - ¬
   - h
   - ́
   - ̀
@@ -61,45 +61,45 @@ characters:
   - ':'
   - E
   - C
-  - z
   - A
+  - z
   - I
   - P
   - L
   - D
-  - '-'
   - S
-  - F
   - M
-  - G
-  - V
-  - O
+  - '-'
+  - F
   - '1'
+  - G
+  - O
+  - V
   - T
   - "'"
   - (
   - )
-  - ̧
   - '2'
-  - Q
+  - ̧
   - N
+  - Q
   - '4'
   - B
   - H
   - '3'
   - '?'
-  - '6'
   - '5'
-  - '7'
+  - '6'
   - '8'
+  - '7'
   - '0'
-  - ̈
-  - '9'
   - œ
+  - '9'
+  - ̈
   - ;
-  - '!'
   - æ
   - j
+  - '!'
   - X
   - Z
   - ̂
@@ -111,22 +111,29 @@ characters:
   - J
   - U
   - 
+  - ̨
   - k
+  - ι
   - /
   - »
   - ɇ
   - '~'
-  - ̨
+  - ο
   - ß
+  - ꝰ
   - ᑕ
   - ᗅ
   - ꝯ
-  - ꝰ
+  - ·
   - Α
   - ']'
   - —
   - Æ
   - φ
+  - σ
+  - γ
+  - ς
+  - ε
   - ¡
   - ⁹
   - ω
@@ -134,18 +141,18 @@ characters:
   - ζ
   - χ
   - θ
+  - ρ
+  - α
+  - δ
+  - π
   - “
   - ⬪
-  - ε
-  - σ
   - w
   - Σ
   - ꝙ
-  - ·
   - °
   - «
   - ν
-  - ς
   - Θ
   - ¿
   - Œ
@@ -180,13 +187,13 @@ time:
 title: 'Archeo-pol : Corpus principal'
 url: https://github.com/ARCHEO-POL/dataset_corpus_principal
 volume:
-- count: 930218
+- count: 1075295
   metric: characters
-- count: 1117
+- count: 1198
   metric: files
-- count: 37167
+- count: 40860
   metric: lines
 - count: 800
   metric: pages
-- count: 6025
+- count: 6656
   metric: regions
