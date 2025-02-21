@@ -247,11 +247,12 @@
                     WIDTH="355"
                     HEIGHT="53">
             <Shape><Polygon POINTS="1002 83 982 83 963 83 943 83 924 83 904 83 885 83 865 83 846 83 826 83 807 83 787 83 767 83 764 83 760 85 746 83 728 83 709 83 689 83 670 117 670 130 1023 136 1025 117 1022 83 1002 83"/></Shape>
-	    <String CONTENT="PREFACE."
+	    <String CONTENT="PRHFACE."
                     HPOS="670"
                     VPOS="83"
                     WIDTH="355"
-                    HEIGHT="53"></String>
+                    HEIGHT="53"
+                    WC="0.9999987334012985"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1176.0"

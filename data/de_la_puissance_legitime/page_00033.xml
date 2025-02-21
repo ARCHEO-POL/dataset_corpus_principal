@@ -36,11 +36,12 @@
                     WIDTH="384"
                     HEIGHT="60">
             <Shape><Polygon POINTS="777 104 764 104 751 104 738 104 725 104 712 104 699 104 686 104 673 104 660 104 647 104 634 104 621 104 607 104 594 104 581 104 579 104 568 104 555 104 542 104 541 104 529 104 516 104 514 89 511 88 502 83 501 83 499 83 399 83 400 122 400 132 419 141 420 141 421 143 467 143 467 141 468 141 469 141 469 140 475 135 489 141 490 141 492 141 596 131 660 139 661 139 710 130 743 137 744 137 745 137 747 137 783 127 783 117 781 104 777 104"/></Shape>
-	    <String CONTENT="QVESTION."
+	    <String CONTENT="QVESTTON."
                     HPOS="399"
                     VPOS="83"
                     WIDTH="384"
-                    HEIGHT="60"></String>
+                    HEIGHT="60"
+                    WC="0.994057383802202"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1039.0"
@@ -419,11 +420,12 @@
                     WIDTH="168"
                     HEIGHT="103">
             <Shape><Polygon POINTS="1105 226 1213 224 1215 224 1271 201 1271 169 1267 132 1103 123 1105 173"/></Shape>
-	    <String CONTENT="Rom.13.1."
+	    <String CONTENT="Rom.131."
                     HPOS="1103"
                     VPOS="123"
                     WIDTH="168"
-                    HEIGHT="103"></String>
+                    HEIGHT="103"
+                    WC="0.9699730053544044"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="96.0"

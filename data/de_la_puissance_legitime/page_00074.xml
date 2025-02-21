@@ -616,11 +616,12 @@
                     WIDTH="153.0"
                     HEIGHT="40.0">
             <Shape><Polygon POINTS="301 998 288 998 275 998 262 998 249 998 236 998 224 996 211 996 198 996 193 978 192 978 159 978 159 997 158 1011 164 1017 166 1017 167 1017 168 1017 170 1017 189 1010 209 1018 210 1018 211 1018 310 1013 311 1001 310 998 301 998"/></Shape>
-	    <String CONTENT="va fidel."
+	    <String CONTENT="nu jiuer."
                     HPOS="158.0"
                     VPOS="978.0"
                     WIDTH="153.0"
-                    HEIGHT="40.0"></String>
+                    HEIGHT="40.0"
+                    WC="0.9643302957216898"></String>
           </TextLine>
           <TextLine ID="line_28"
                     TAGREFS="LT8"

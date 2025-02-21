@@ -495,12 +495,12 @@
                     WIDTH="131"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1091 237 1220 241 1222 208 1222 171 1134 153 1132 153 1130 153 1091 163 1091 208"/></Shape>
-	    <String CONTENT="Iages 4"
+	    <String CONTENT="Iuges 4"
                     HPOS="1091"
                     VPOS="153"
                     WIDTH="131"
                     HEIGHT="88"
-                    WC="0.9611176167215619"></String>
+                    WC="0.86847642489842"></String>
           </TextLine>
           <TextLine ID="eSc_line_bd75a80a"
                     TAGREFS="LT8"
@@ -515,7 +515,7 @@
                     VPOS="224"
                     WIDTH="90"
                     HEIGHT="66"
-                    WC="0.8933433145284653"></String>
+                    WC="0.9430273175239563"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="97.0"

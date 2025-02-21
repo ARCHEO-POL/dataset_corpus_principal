@@ -225,11 +225,12 @@
                     WIDTH="980"
                     HEIGHT="86">
             <Shape><Polygon POINTS="352 559 350 570 1326 584 1330 582 1328 518 1258 527 1188 516 1167 512 1106 512 1104 512 1102 512 1100 512 1098 514 1083 524 1026 524 1013 512 1007 508 1005 508 1003 508 1001 508 980 512 944 520 927 512 915 506 913 506 911 506 884 510 845 518 726 516 705 508 680 500 678 500 676 500 674 500 652 508 637 512 516 512 504 506 487 498 485 498 483 498 481 498 479 498 469 504 461 508 352 504 352 559"/></Shape>
-	    <String CONTENT="dont ils recueillent que l&#x27;Eglise, qui est le temp-"
+	    <String CONTENT="dont ils recueillent que l’Egliſe, qui eſt le tem"
                     HPOS="350"
                     VPOS="498"
                     WIDTH="980"
-                    HEIGHT="86"></String>
+                    HEIGHT="86"
+                    WC="0.989827323933037"></String>
           </TextLine>
           <TextLine ID="line_13"
                     TAGREFS="LT8"

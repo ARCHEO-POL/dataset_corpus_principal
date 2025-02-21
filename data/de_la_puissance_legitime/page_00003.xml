@@ -36,11 +36,12 @@
                     WIDTH="1020"
                     HEIGHT="104">
             <Shape><Polygon POINTS="93 185 97 218 113 206 206 216 237 200 385 200 454 212 649 198 668 210 678 210 686 200 781 206 816 194 834 206 890 194 941 204 964 192 999 204 1109 192 1111 171 1107 124 996 114 898 126 838 114 814 128 795 116 744 128 732 116 678 116 621 130 541 118 461 132 341 124 323 134 307 122 243 134 91 130 93 185"/></Shape>
-	    <String CONTENT="LES EMPEREURS THEO¬"
+	    <String CONTENT="LES EMPEREVRS THEO¬"
                     HPOS="91"
                     VPOS="114"
                     WIDTH="1020"
-                    HEIGHT="104"></String>
+                    HEIGHT="104"
+                    WC="0.9995233416557312"></String>
           </TextLine>
           <TextLine ID="line_1"
                     TAGREFS="LT8"
@@ -103,11 +104,12 @@
                     WIDTH="904"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1037 469 1017 469 998 469 978 469 959 469 951 469 937 471 894 477 875 471 869 469 861 469 842 469 840 469 834 471 806 477 758 469 744 469 725 469 705 469 699 469 660 477 633 469 627 469 610 469 600 479 555 479 536 469 530 469 510 469 491 469 471 469 452 469 432 469 413 469 405 479 343 479 237 469 237 469 218 469 220 522 226 545 231 537 1118 537 1122 520 1118 473 1050 469 1037 469"/></Shape>
-	    <String CONTENT="Eſt une choſe bien ſeante à la Maiesté d’vn"
+	    <String CONTENT="&#x27;Eſt vne choſe bien ſeante à la Maiesté d’vn"
                     HPOS="218"
                     VPOS="469"
                     WIDTH="904"
-                    HEIGHT="76"></String>
+                    HEIGHT="76"
+                    WC="0.9947641517805017"></String>
           </TextLine>
           <TextLine ID="line_5"
                     TAGREFS="LT8"
@@ -121,7 +123,8 @@
                     HPOS="216"
                     VPOS="529"
                     WIDTH="908"
-                    HEIGHT="76"></String>
+                    HEIGHT="76"
+                    WC="0.9938025620248583"></String>
           </TextLine>
           <TextLine ID="line_6"
                     TAGREFS="LT8"
@@ -259,11 +262,12 @@
                     WIDTH="76"
                     HEIGHT="134">
             <Shape><Polygon POINTS="120 605 196 605 196 586 194 471 120 483 120 586"/></Shape>
-	    <String CONTENT="C&#x27;"
+	    <String CONTENT="Q"
                     HPOS="120"
                     VPOS="471"
                     WIDTH="76"
-                    HEIGHT="134"></String>
+                    HEIGHT="134"
+                    WC="0.9999910593032837"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1063.0"
@@ -376,7 +380,8 @@
                     HPOS="116"
                     VPOS="1472"
                     WIDTH="65"
-                    HEIGHT="125"></String>
+                    HEIGHT="125"
+                    WC="0.9999618530273438"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="74"
@@ -394,12 +399,12 @@
                     WIDTH="955"
                     HEIGHT="88">
             <Shape><Polygon POINTS="701 1472 615 1480 602 1472 571 1472 534 1478 483 1472 189 1472 187 1537 374 1533 434 1548 481 1537 522 1550 561 1537 610 1552 783 1541 797 1554 1007 1545 1031 1560 1140 1545 1142 1527 1138 1478 1035 1488 933 1486 925 1474 727 1482 701 1472"/></Shape>
-	    <String CONTENT="L fit des loix aux Spartiates qui n&#x27;en auoyent"
+	    <String CONTENT="L fit des loix aux Spartiates qui n’en auoyent"
                     HPOS="187"
                     VPOS="1472"
                     WIDTH="955"
                     HEIGHT="88"
-                    WC="0.9843322440333988"></String>
+                    WC="0.9885545424793077"></String>
           </TextLine>
           <TextLine ID="line_19"
                     TAGREFS="LT8"
@@ -409,12 +414,12 @@
                     WIDTH="959"
                     HEIGHT="80">
             <Shape><Polygon POINTS="185 1599 1140 1609 1144 1585 1144 1552 1114 1543 1035 1552 1005 1539 906 1548 816 1550 803 1537 795 1537 766 1548 729 1537 707 1546 697 1535 598 1546 485 1533 465 1545 401 1531 208 1541 191 1529 185 1599"/></Shape>
-	    <String CONTENT="Epoint: &amp; fut autant renommé pour s’eſtre mon¬"
+	    <String CONTENT="point: &amp; fut autant renommé pour s’eſtre mon¬"
                     HPOS="185"
                     VPOS="1529"
                     WIDTH="959"
                     HEIGHT="80"
-                    WC="0.994171439333165"></String>
+                    WC="0.9882258332293966"></String>
           </TextLine>
           <TextLine ID="line_20"
                     TAGREFS="LT8"
@@ -499,11 +504,12 @@
                     WIDTH="204"
                     HEIGHT="72">
             <Shape><Polygon POINTS="302 1911 289 1911 276 1911 263 1911 250 1911 237 1921 224 1921 211 1921 198 1921 185 1921 172 1921 159 1921 146 1909 144 1905 122 1898 120 1936 119 1966 136 1967 137 1967 138 1967 140 1967 140 1966 151 1956 185 1958 196 1967 196 1969 197 1969 198 1969 200 1969 201 1969 202 1969 223 1957 237 1965 239 1965 240 1965 241 1965 242 1965 255 1957 320 1970 323 1940 323 1918 311 1911 302 1911"/></Shape>
-	    <String CONTENT="partient."
+	    <String CONTENT="parhent."
                     HPOS="119"
                     VPOS="1898"
                     WIDTH="204"
-                    HEIGHT="72"></String>
+                    HEIGHT="72"
+                    WC="0.8852227069437504"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="879.0"

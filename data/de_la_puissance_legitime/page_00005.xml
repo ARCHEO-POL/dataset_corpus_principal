@@ -66,11 +66,12 @@
                     WIDTH="618.0"
                     HEIGHT="108.0">
             <Shape><Polygon POINTS="293 380 295 418 321 407 348 416 349 416 350 416 352 416 353 416 388 394 430 393 539 393 548 400 549 400 551 400 552 400 553 400 581 392 620 411 625 413 626 413 627 413 669 411 670 411 672 411 672 410 673 410 685 398 740 407 755 410 756 410 757 410 763 407 794 390 820 406 824 409 825 409 826 409 828 409 909 403 909 368 904 311 874 326 779 326 765 316 757 310 756 310 755 310 753 310 696 318 633 328 621 322 604 310 603 310 601 310 600 310 427 313 426 313 383 329 371 333 291 333 293 380"/></Shape>
-	    <String CONTENT="traité d’Eſtiene Iunius"
+	    <String CONTENT="traité d’Eſtiene Iuniũs"
                     HPOS="291.0"
                     VPOS="310.0"
                     WIDTH="618.0"
-                    HEIGHT="108.0"></String>
+                    HEIGHT="108.0"
+                    WC="0.9804350423812866"></String>
           </TextLine>
           <TextLine ID="line_3"
                     TAGREFS="LT8"
@@ -122,7 +123,8 @@
                     HPOS="111"
                     VPOS="650"
                     WIDTH="58"
-                    HEIGHT="137"></String>
+                    HEIGHT="137"
+                    WC="0.9999067783355713"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="93"
@@ -144,7 +146,8 @@
                     HPOS="177.0"
                     VPOS="625.0"
                     WIDTH="927.0"
-                    HEIGHT="95.0"></String>
+                    HEIGHT="95.0"
+                    WC="0.9850131940274012"></String>
           </TextLine>
           <TextLine ID="line_6"
                     TAGREFS="LT8"
@@ -158,7 +161,8 @@
                     HPOS="173.0"
                     VPOS="689.0"
                     WIDTH="933.0"
-                    HEIGHT="88.0"></String>
+                    HEIGHT="88.0"
+                    WC="0.9722275719756172"></String>
           </TextLine>
           <TextLine ID="line_7"
                     TAGREFS="LT8"
@@ -172,7 +176,8 @@
                     HPOS="97.0"
                     VPOS="748.0"
                     WIDTH="1009.0"
-                    HEIGHT="95.0"></String>
+                    HEIGHT="95.0"
+                    WC="0.9947379773313348"></String>
           </TextLine>
           <TextLine ID="line_8"
                     TAGREFS="LT8"

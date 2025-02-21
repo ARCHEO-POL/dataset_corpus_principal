@@ -164,11 +164,12 @@
                     WIDTH="1013"
                     HEIGHT="80">
             <Shape><Polygon POINTS="311 627 311 637 338 649 406 637 437 649 534 639 558 639 635 649 663 635 916 635 964 647 982 635 1091 635 1106 645 1120 645 1168 633 1186 645 1264 635 1318 645 1322 622 1318 577 1017 569 978 581 910 571 809 581 762 571 721 581 700 571 694 571 674 581 593 573 577 585 462 585 418 573 309 583 311 627"/></Shape>
-	    <String CONTENT="montagnes, ammasse des troupes, &amp; fait la guer¬"
+	    <String CONTENT="montagnes, amaſſe des troupes, &amp; fait la guer¬"
                     HPOS="309"
                     VPOS="569"
                     WIDTH="1013"
-                    HEIGHT="80"></String>
+                    HEIGHT="80"
+                    WC="0.9879859349002009"></String>
           </TextLine>
           <TextLine ID="eSc_line_28047519"
                     TAGREFS="LT8"

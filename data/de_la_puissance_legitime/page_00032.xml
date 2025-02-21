@@ -563,11 +563,12 @@
                     WIDTH="164.0"
                     HEIGHT="74.0">
             <Shape><Polygon POINTS="194 937 194 956 311 960 313 960 315 960 354 946 354 929 350 894 210 886 208 886 206 886 204 886 190 894 194 937"/></Shape>
-	    <String CONTENT="Pſal.2.2."
+	    <String CONTENT="Pſal2.2."
                     HPOS="190.0"
                     VPOS="886.0"
                     WIDTH="164.0"
-                    HEIGHT="74.0"></String>
+                    HEIGHT="74.0"
+                    WC="0.9982818514108658"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="190.0"

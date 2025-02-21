@@ -382,11 +382,12 @@
                     WIDTH="53"
                     HEIGHT="78">
             <Shape><Polygon POINTS="1050 89 1030 89 1011 89 1011 140 1009 159 1058 167 1062 142 1062 89 1050 89"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="85"
                     HPOS="1009"
                     VPOS="89"
                     WIDTH="53"
-                    HEIGHT="78"></String>
+                    HEIGHT="78"
+                    WC="0.9999864101409912"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1089.0"
@@ -409,7 +410,7 @@
                     VPOS="516"
                     WIDTH="154"
                     HEIGHT="76"
-                    WC="0.998116172850132"></String>
+                    WC="0.9948004111647606"></String>
           </TextLine>
           <TextLine ID="eSc_line_da6e0ed3"
                     TAGREFS="LT8"
@@ -447,7 +448,7 @@
                     VPOS="707"
                     WIDTH="152"
                     HEIGHT="66"
-                    WC="0.9994011521339417"></String>
+                    WC="0.9974360242486"></String>
           </TextLine>
           <TextLine ID="eSc_line_796201df"
                     TAGREFS="LT8"
@@ -658,7 +659,7 @@
                     VPOS="1094"
                     WIDTH="156"
                     HEIGHT="75"
-                    WC="0.9919194579124451"></String>
+                    WC="0.9900264367461205"></String>
           </TextLine>
           <TextLine ID="line_22"
                     TAGREFS="LT8"
@@ -734,7 +735,7 @@
                     VPOS="1636"
                     WIDTH="129"
                     HEIGHT="60"
-                    WC="0.9825723096728325"></String>
+                    WC="0.9896123930811882"></String>
           </TextLine>
           <TextLine ID="line_30"
                     TAGREFS="LT8"

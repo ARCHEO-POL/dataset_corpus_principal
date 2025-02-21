@@ -333,7 +333,8 @@
                     HPOS="354"
                     VPOS="1217"
                     WIDTH="996"
-                    HEIGHT="94"></String>
+                    HEIGHT="94"
+                    WC="0.9915299117565155"></String>
           </TextLine>
           <TextLine ID="line_21"
                     TAGREFS="LT8"
@@ -554,11 +555,12 @@
                     WIDTH="160"
                     HEIGHT="136">
             <Shape><Polygon POINTS="181 1332 335 1322 335 1293 331 1217 263 1196 261 1196 259 1196 257 1196 255 1196 210 1225 208 1227 175 1227 179 1301"/></Shape>
-	    <String CONTENT="Oſee 5.10"
+	    <String CONTENT="ofes.1e"
                     HPOS="175"
                     VPOS="1196"
                     WIDTH="160"
-                    HEIGHT="136"></String>
+                    HEIGHT="136"
+                    WC="0.8884045737130302"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1231.0"

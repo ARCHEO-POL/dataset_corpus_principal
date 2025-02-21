@@ -525,11 +525,12 @@
                     WIDTH="935"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1096 1887 181 1891 183 1969 210 1975 243 1961 366 1975 475 1956 508 1971 514 1971 565 1954 605 1961 648 1952 693 1952 711 1967 787 1958 818 1965 853 1950 890 1963 933 1946 970 1958 1114 1956 1116 1921 1110 1887 1096 1887"/></Shape>
-	    <String CONTENT="ET pourtant, comme le Seigneur Brutus,"
+	    <String CONTENT="ET pourtant, comme le Seigneur Brutus:"
                     HPOS="181"
                     VPOS="1887"
                     WIDTH="935"
-                    HEIGHT="88"></String>
+                    HEIGHT="88"
+                    WC="0.9995819989003634"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="824.0"
@@ -570,11 +571,12 @@
                     WIDTH="59"
                     HEIGHT="105">
             <Shape><Polygon POINTS="1149 1921 1149 1948 1204 1944 1204 1919 1198 1843 1145 1850 1149 1921"/></Shape>
-	    <String CONTENT="II."
+	    <String CONTENT="11."
                     HPOS="1145"
                     VPOS="1843"
                     WIDTH="59"
-                    HEIGHT="105"></String>
+                    HEIGHT="105"
+                    WC="0.9902847409248352"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -608,11 +608,12 @@
                     WIDTH="158"
                     HEIGHT="60">
             <Shape><Polygon POINTS="1062 1685 1062 1706 1220 1700 1220 1685 1220 1656 1062 1646 1062 1685"/></Shape>
-	    <String CONTENT="de la cha-"
+	    <String CONTENT="de la chã¬"
                     HPOS="1062"
                     VPOS="1646"
                     WIDTH="158"
-                    HEIGHT="60"></String>
+                    HEIGHT="60"
+                    WC="0.9739686088128523"></String>
           </TextLine>
           <TextLine ID="eSc_line_a9ea39a3"
                     TAGREFS="LT8"
@@ -626,7 +627,8 @@
                     HPOS="1062"
                     VPOS="1693"
                     WIDTH="115"
-                    HEIGHT="66"></String>
+                    HEIGHT="66"
+                    WC="0.9599201508930751"></String>
           </TextLine>
           <TextLine ID="eSc_line_b633cb25"
                     TAGREFS="LT8"
@@ -636,11 +638,12 @@
                     WIDTH="160"
                     HEIGHT="63">
             <Shape><Polygon POINTS="1064 1786 1064 1798 1222 1796 1222 1782 1218 1735 1062 1749 1064 1786"/></Shape>
-	    <String CONTENT="comptes à"
+	    <String CONTENT="comptes à"
                     HPOS="1062"
                     VPOS="1735"
                     WIDTH="160"
-                    HEIGHT="63"></String>
+                    HEIGHT="63"
+                    WC="0.9972359120845795"></String>
           </TextLine>
           <TextLine ID="line_35"
                     TAGREFS="LT8"

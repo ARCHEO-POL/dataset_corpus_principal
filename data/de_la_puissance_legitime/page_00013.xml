@@ -81,11 +81,12 @@
                     WIDTH="1017.0"
                     HEIGHT="82.0">
             <Shape><Polygon POINTS="68 372 68 385 282 393 350 383 440 393 754 379 812 389 911 377 1017 387 1058 376 1077 383 1083 362 1079 323 1013 311 993 323 826 313 765 325 644 315 633 327 578 317 471 327 442 317 409 327 278 319 253 331 237 331 150 321 66 331 68 372"/></Shape>
-	    <String CONTENT="rement que vous aprouues par effect ces prin¬"
+	    <String CONTENT="rement que vous aprouuez par effect ces prin¬"
                     HPOS="66.0"
                     VPOS="311.0"
                     WIDTH="1017.0"
-                    HEIGHT="82.0"></String>
+                    HEIGHT="82.0"
+                    WC="0.9830812454223633"></String>
           </TextLine>
           <TextLine ID="line_5"
                     TAGREFS="LT8"
@@ -513,7 +514,7 @@
                     VPOS="75.0"
                     WIDTH="353.0"
                     HEIGHT="63.0"
-                    WC="0.9997282847762108"></String>
+                    WC="0.9998259767889977"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1020.0"

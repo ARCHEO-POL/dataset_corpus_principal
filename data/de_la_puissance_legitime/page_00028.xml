@@ -51,11 +51,12 @@
                     WIDTH="123.0"
                     HEIGHT="73.0">
             <Shape><Polygon POINTS="295 226 283 226 276 230 266 226 256 226 243 226 227 255 221 227 218 229 191 217 190 253 188 273 236 270 259 283 266 288 268 288 269 288 270 290 308 290 311 260 311 229 302 226 295 226"/></Shape>
-	    <String CONTENT="6.16, &amp;"
+	    <String CONTENT="6.6, &amp;"
                     HPOS="188.0"
                     VPOS="217.0"
                     WIDTH="123.0"
-                    HEIGHT="73.0"></String>
+                    HEIGHT="73.0"
+                    WC="0.9885093172391256"></String>
           </TextLine>
           <TextLine ID="line_2"
                     TAGREFS="LT8"
@@ -65,11 +66,12 @@
                     WIDTH="93.0"
                     HEIGHT="78.0">
             <Shape><Polygon POINTS="188 308 188 334 279 348 281 308 281 277 264 270 263 270 261 270 188 275 188 308"/></Shape>
-	    <String CONTENT="7.17."
+	    <String CONTENT="747."
                     HPOS="188.0"
                     VPOS="270.0"
                     WIDTH="93.0"
-                    HEIGHT="78.0"></String>
+                    HEIGHT="78.0"
+                    WC="0.9996188282966614"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="358.0"
@@ -591,11 +593,12 @@
                     WIDTH="153"
                     HEIGHT="114">
             <Shape><Polygon POINTS="183 771 332 777 336 755 334 683 252 685 189 663 185 751 183 771"/></Shape>
-	    <String CONTENT="2.Rois 23."
+	    <String CONTENT="ARoιzς"
                     HPOS="183"
                     VPOS="663"
                     WIDTH="153"
-                    HEIGHT="114"></String>
+                    HEIGHT="114"
+                    WC="0.8425962179899216"></String>
           </TextLine>
           <TextLine ID="line_34"
                     TAGREFS="LT8"
@@ -666,11 +669,12 @@
                     WIDTH="163"
                     HEIGHT="71">
             <Shape><Polygon POINTS="177 1005 177 1023 336 1027 338 1001 334 968 175 956 177 1005"/></Shape>
-	    <String CONTENT="1. Sam.10."
+	    <String CONTENT="LSam40"
                     HPOS="175"
                     VPOS="956"
                     WIDTH="163"
-                    HEIGHT="71"></String>
+                    HEIGHT="71"
+                    WC="0.9214715162913004"></String>
           </TextLine>
           <TextLine ID="line_37"
                     TAGREFS="LT8"
@@ -703,11 +707,12 @@
                     WIDTH="159"
                     HEIGHT="80">
             <Shape><Polygon POINTS="177 1189 177 1206 332 1216 334 1187 330 1153 281 1153 271 1150 244 1136 242 1136 240 1136 175 1142 177 1189"/></Shape>
-	    <String CONTENT="2.Chron."
+	    <String CONTENT="2.Chron¬"
                     HPOS="175"
                     VPOS="1136"
                     WIDTH="159"
-                    HEIGHT="80"></String>
+                    HEIGHT="80"
+                    WC="0.9997353032231331"></String>
           </TextLine>
           <TextLine ID="line_38"
                     TAGREFS="LT8"

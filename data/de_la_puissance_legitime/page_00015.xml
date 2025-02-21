@@ -533,11 +533,12 @@
                     WIDTH="139"
                     HEIGHT="94">
             <Shape><Polygon POINTS="1105 1611 1103 1636 1238 1644 1242 1613 1240 1550 1105 1558 1105 1611"/></Shape>
-	    <String CONTENT="Act.4.19"
+	    <String CONTENT="44.4.9"
                     HPOS="1103"
                     VPOS="1550"
                     WIDTH="139"
-                    HEIGHT="94"></String>
+                    HEIGHT="94"
+                    WC="0.9020647207895914"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -509,11 +509,12 @@
                     WIDTH="354.0"
                     HEIGHT="52.0">
             <Shape><Polygon POINTS="746 123 733 123 720 123 707 123 694 123 681 123 668 123 655 123 642 123 629 123 616 123 603 123 590 123 577 123 564 123 551 123 538 123 525 123 512 123 499 123 486 123 473 123 471 116 470 116 460 106 457 105 457 103 456 103 454 103 453 103 395 103 396 135 396 155 448 144 483 154 484 154 486 154 487 154 521 153 522 153 523 153 523 151 532 144 556 153 558 153 560 153 561 153 562 153 564 153 578 142 630 150 645 153 647 154 673 154 673 153 674 153 675 153 679 150 686 144 701 149 708 151 709 151 710 151 712 151 713 151 716 149 723 144 747 148 749 132 747 123 746 123"/></Shape>
-	    <String CONTENT="QVESTION."
+	    <String CONTENT="VESTTON."
                     HPOS="395.0"
                     VPOS="103.0"
                     WIDTH="354.0"
-                    HEIGHT="52.0"></String>
+                    HEIGHT="52.0"
+                    WC="0.997191309928894"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="997.0"
@@ -584,11 +585,12 @@
                     WIDTH="140"
                     HEIGHT="64">
             <Shape><Polygon POINTS="1077 614 1197 622 1198 622 1199 622 1217 613 1217 597 1216 558 1145 567 1128 558 1126 558 1125 558 1124 558 1121 558 1089 566 1080 558 1077 597 1077 614"/></Shape>
-	    <String CONTENT="2, &amp;c. &amp;"
+	    <String CONTENT=" &amp;c. &amp;"
                     HPOS="1077"
                     VPOS="558"
                     WIDTH="140"
-                    HEIGHT="64"></String>
+                    HEIGHT="64"
+                    WC="0.9969798425833384"></String>
           </TextLine>
           <TextLine ID="line_11"
                     TAGREFS="LT8"
@@ -636,11 +638,12 @@
                     WIDTH="139"
                     HEIGHT="74">
             <Shape><Polygon POINTS="1060 736 1058 755 1193 769 1197 740 1195 707 1060 695 1060 736"/></Shape>
-	    <String CONTENT="13,&amp; 15."
+	    <String CONTENT="13.&amp; 15."
                     HPOS="1058"
                     VPOS="695"
                     WIDTH="139"
-                    HEIGHT="74"></String>
+                    HEIGHT="74"
+                    WC="0.9435697421431541"></String>
           </TextLine>
           <TextLine ID="eSc_line_cdf5f7f2"
                     TAGREFS="LT8"
@@ -673,11 +676,12 @@
                     WIDTH="141"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1085 1741 1085 1771 1224 1774 1226 1741 1226 1704 1085 1704 1085 1741"/></Shape>
-	    <String CONTENT="1. Rois II."
+	    <String CONTENT="1. Rois n."
                     HPOS="1085"
                     VPOS="1704"
                     WIDTH="141"
-                    HEIGHT="70"></String>
+                    HEIGHT="70"
+                    WC="0.9765518605709076"></String>
           </TextLine>
           <TextLine ID="eSc_line_9752b94e"
                     TAGREFS="LT8"
@@ -687,11 +691,12 @@
                     WIDTH="39"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1082 1792 1085 1831 1119 1815 1119 1790 1113 1755 1080 1755 1082 1792"/></Shape>
-	    <String CONTENT="33."
+	    <String CONTENT="33"
                     HPOS="1080"
                     VPOS="1755"
                     WIDTH="39"
-                    HEIGHT="76"></String>
+                    HEIGHT="76"
+                    WC="0.9999921321868896"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1150.0"

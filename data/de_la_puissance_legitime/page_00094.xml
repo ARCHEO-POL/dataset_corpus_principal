@@ -112,12 +112,12 @@
                     WIDTH="971"
                     HEIGHT="96">
             <Shape><Polygon POINTS="1305 459 349 459 351 551 378 555 407 533 489 549 495 549 513 535 534 553 544 553 567 537 620 545 637 531 667 545 698 537 713 553 723 553 749 535 848 541 864 529 877 541 922 531 1067 541 1082 529 1109 549 1320 537 1316 459 1305 459"/></Shape>
-	    <String CONTENT="TROISIESME"
+	    <String CONTENT="TROISIESME QVE."
                     HPOS="349"
                     VPOS="459"
                     WIDTH="971"
                     HEIGHT="96"
-                    WC="0.9998640954494477"></String>
+                    WC="0.9999488313992818"></String>
           </TextLine>
           <TextLine ID="line_5"
                     TAGREFS="LT8"
@@ -127,12 +127,12 @@
                     WIDTH="260"
                     HEIGHT="83">
             <Shape><Polygon POINTS="717 609 717 635 975 644 977 609 977 568 717 561 717 609"/></Shape>
-	    <String CONTENT="TIOR"
+	    <String CONTENT="STION,"
                     HPOS="717"
                     VPOS="561"
                     WIDTH="260"
                     HEIGHT="83"
-                    WC="0.999998152256012"></String>
+                    WC="0.9998595714569092"></String>
           </TextLine>
           <TextLine ID="line_7"
                     TAGREFS="LT8"

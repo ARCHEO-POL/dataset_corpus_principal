@@ -494,11 +494,12 @@
                     WIDTH="991.0"
                     HEIGHT="84.0">
             <Shape><Polygon POINTS="1178 1866 1117 1866 1098 1882 1047 1870 1019 1884 969 1870 906 1886 724 1886 591 1870 574 1886 517 1876 482 1888 441 1872 298 1872 300 1942 709 1950 853 1938 871 1950 998 1950 1289 1932 1285 1884 1178 1866"/></Shape>
-	    <String CONTENT="disoit la roine de Saba au roy Salomon, qui t&#x27;a"
+	    <String CONTENT="diſoit la roine de Saba au roy Salomon, qui t’a"
                     HPOS="298.0"
                     VPOS="1866.0"
                     WIDTH="991.0"
-                    HEIGHT="84.0"></String>
+                    HEIGHT="84.0"
+                    WC="0.9884825336172226"></String>
           </TextLine>
           <TextLine ID="line_33"
                     TAGREFS="LT8"
@@ -531,11 +532,12 @@
                     WIDTH="141"
                     HEIGHT="78">
             <Shape><Polygon POINTS="126 488 126 517 267 515 267 488 265 439 185 449 173 447 150 439 148 439 146 439 144 439 126 447 126 488"/></Shape>
-	    <String CONTENT="Pſe.24.I."
+	    <String CONTENT="rſe24."
                     HPOS="126"
                     VPOS="439"
                     WIDTH="141"
-                    HEIGHT="78"></String>
+                    HEIGHT="78"
+                    WC="0.9663900931676229"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="592.0"
@@ -553,11 +555,12 @@
                     WIDTH="362.0"
                     HEIGHT="52.0">
             <Shape><Polygon POINTS="947 114 934 114 921 114 908 114 895 114 882 114 869 114 856 114 843 114 830 114 817 114 804 114 791 114 778 114 775 101 770 98 749 88 748 88 747 88 596 91 597 130 597 140 958 139 958 126 955 114 947 114"/></Shape>
-	    <String CONTENT="PREMIERE"
+	    <String CONTENT="PREMTERE"
                     HPOS="596.0"
                     VPOS="88.0"
                     WIDTH="362.0"
-                    HEIGHT="52.0"></String>
+                    HEIGHT="52.0"
+                    WC="0.9998845085501671"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="116.0"
@@ -575,11 +578,12 @@
                     WIDTH="144"
                     HEIGHT="101">
             <Shape><Polygon POINTS="119 1087 119 1120 263 1116 263 1087 263 1030 166 1019 164 1019 119 1028 119 1087"/></Shape>
-	    <String CONTENT="Iſa.66.I"
+	    <String CONTENT="Iſa661"
                     HPOS="119"
                     VPOS="1019"
                     WIDTH="144"
-                    HEIGHT="101"></String>
+                    HEIGHT="101"
+                    WC="0.8926596840222677"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="121.0"
@@ -643,11 +647,12 @@
                     WIDTH="164"
                     HEIGHT="103">
             <Shape><Polygon POINTS="123 1690 123 1722 166 1737 168 1737 169 1737 287 1733 287 1690 285 1634 123 1642 123 1690"/></Shape>
-	    <String CONTENT="Dan.2.2I"
+	    <String CONTENT="Panaai"
                     HPOS="123"
                     VPOS="1634"
                     WIDTH="164"
-                    HEIGHT="103"></String>
+                    HEIGHT="103"
+                    WC="0.9971565107504526"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="127.0"
@@ -665,11 +670,12 @@
                     WIDTH="160"
                     HEIGHT="97">
             <Shape><Polygon POINTS="125 1931 125 1977 283 1952 283 1929 279 1884 123 1880 125 1931"/></Shape>
-	    <String CONTENT="2.Chr.9.8"
+	    <String CONTENT="2Chr.98"
                     HPOS="123"
                     VPOS="1880"
                     WIDTH="160"
-                    HEIGHT="97"></String>
+                    HEIGHT="97"
+                    WC="0.9527818986347744"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1106.0"

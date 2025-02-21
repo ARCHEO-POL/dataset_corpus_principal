@@ -578,11 +578,12 @@
                     WIDTH="74"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1066 594 1066 615 1138 615 1138 592 1132 547 1064 547 1066 594"/></Shape>
-	    <String CONTENT="&amp; c."
+	    <String CONTENT="&amp;c."
                     HPOS="1064"
                     VPOS="547"
                     WIDTH="74"
-                    HEIGHT="68"></String>
+                    HEIGHT="68"
+                    WC="0.9988370935122172"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

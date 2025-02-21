@@ -570,11 +570,12 @@
                     WIDTH="141.0"
                     HEIGHT="78.0">
             <Shape><Polygon POINTS="152 1125 153 1157 290 1148 290 1119 286 1086 247 1088 244 1086 222 1079 221 1079 220 1079 218 1079 217 1079 204 1088 180 1080 179 1080 178 1080 177 1080 149 1089 152 1125"/></Shape>
-	    <String CONTENT="&amp; 9.20"
+	    <String CONTENT="&amp; 920"
                     HPOS="149.0"
                     VPOS="1079.0"
                     WIDTH="141.0"
-                    HEIGHT="78.0"></String>
+                    HEIGHT="78.0"
+                    WC="0.9999678373336792"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="125.0"

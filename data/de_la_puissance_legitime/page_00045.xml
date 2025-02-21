@@ -646,7 +646,7 @@
                     WIDTH="5"
                     HEIGHT="33">
             <Shape><Polygon POINTS="1079 1304 1080 1319 1080 1337 1084 1337"/></Shape>
-	    <String CONTENT="au 1.liu."
+	    <String CONTENT=""
                     HPOS="1079"
                     VPOS="1304"
                     WIDTH="5"
@@ -660,11 +660,12 @@
                     WIDTH="136.0"
                     HEIGHT="75.0">
             <Shape><Polygon POINTS="1083 1366 1081 1395 1214 1400 1217 1369 1215 1326 1117 1334 1110 1331 1102 1325 1101 1325 1100 1325 1098 1325 1097 1325 1083 1331 1083 1366"/></Shape>
-	    <String CONTENT="des Off¬"
+	    <String CONTENT="des off¬"
                     HPOS="1081.0"
                     VPOS="1325.0"
                     WIDTH="136.0"
-                    HEIGHT="75.0"></String>
+                    HEIGHT="75.0"
+                    WC="0.9993710517883301"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1084.0"
