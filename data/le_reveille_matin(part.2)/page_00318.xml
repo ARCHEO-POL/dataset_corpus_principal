@@ -587,21 +587,6 @@
                    ID="block_5"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="975 2042 975 2095 868 2095 868 2042"/></Shape>
-          <TextLine ID="line_34"
-                    TAGREFS="LT8"
-                    BASELINE="931 2049 938 2049" 
-                    HPOS="931.0"
-                    VPOS="2033.0"
-                    WIDTH="7.0"
-                    HEIGHT="28.0">
-            <Shape><Polygon POINTS="931 2049 931 2061 938 2061 938 2049 938 2033 931 2033 931 2049"/></Shape>
-	    <String CONTENT=""
-                    HPOS="931.0"
-                    VPOS="2033.0"
-                    WIDTH="7.0"
-                    HEIGHT="28.0"
-                    WC="0.9946923851966858"></String>
-          </TextLine>
           <TextLine ID="line_35"
                     TAGREFS="LT8"
                     BASELINE="862 2081 972 2079" 

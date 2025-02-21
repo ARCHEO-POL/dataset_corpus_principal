@@ -136,18 +136,18 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="1091 59 1091 118 477 118 477 59"/></Shape>
           <TextLine ID="line_1"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="486 108 1086 105" 
-                    HPOS="483.0"
-                    VPOS="60.0"
-                    WIDTH="602.0"
-                    HEIGHT="59.0">
+                    HPOS="483"
+                    VPOS="60"
+                    WIDTH="602"
+                    HEIGHT="59">
             <Shape><Polygon POINTS="971 60 951 60 931 60 910 60 890 60 870 60 849 60 829 60 827 60 825 62 819 60 809 60 788 60 768 60 762 60 752 65 740 60 727 60 707 60 691 60 683 65 672 60 666 60 646 60 634 60 628 65 620 60 605 60 585 60 583 60 579 65 569 60 565 60 544 60 532 60 530 62 526 60 524 60 504 60 483 60 485 107 485 119 1083 117 1085 103 1081 65 1004 60 992 60"/></Shape>
 	    <String CONTENT="DIALOGVE II."
-                    HPOS="483.0"
-                    VPOS="60.0"
-                    WIDTH="602.0"
-                    HEIGHT="59.0"
+                    HPOS="483"
+                    VPOS="60"
+                    WIDTH="602"
+                    HEIGHT="59"
                     WC="0.9999461223681768"></String>
           </TextLine>
         </TextBlock>
@@ -558,6 +558,7 @@
                     WC="0.9949104842149986"></String>
           </TextLine>
           <TextLine ID="eSc_line_fc474c36"
+                    TAGREFS="LT8"
                     BASELINE="247 1943 1269 1943" 
                     HPOS="246"
                     VPOS="1889"

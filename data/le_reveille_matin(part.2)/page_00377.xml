@@ -339,18 +339,18 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="1074 91 1074 154 496 154 496 91"/></Shape>
           <TextLine ID="line_1"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="497 134 1083 134" 
-                    HPOS="495.0"
-                    VPOS="88.0"
-                    WIDTH="587.0"
-                    HEIGHT="69.0">
+                    HPOS="495"
+                    VPOS="88"
+                    WIDTH="587"
+                    HEIGHT="69">
             <Shape><Polygon POINTS="1041 92 556 94 515 92 495 88 495 145 798 157 833 145 990 145 1021 157 1082 143 1082 96 1041 92"/></Shape>
 	    <String CONTENT="DIA LOGVE II."
-                    HPOS="495.0"
-                    VPOS="88.0"
-                    WIDTH="587.0"
-                    HEIGHT="69.0"
+                    HPOS="495"
+                    VPOS="88"
+                    WIDTH="587"
+                    HEIGHT="69"
                     WC="0.9999859974934504"></String>
           </TextLine>
         </TextBlock>

@@ -22,12 +22,12 @@
                   VPOS="0"
                   WIDTH="1400"
                   HEIGHT="2426">
-        <TextBlock HPOS="133.0"
-                   VPOS="146.0"
-                   WIDTH="1056.0"
-                   HEIGHT="829.0"
+        <TextBlock HPOS="133"
+                   VPOS="146"
+                   WIDTH="1056"
+                   HEIGHT="829"
                    ID="block_0"
-                   >
+                   TAGREFS="BT2589">
           <Shape><Polygon POINTS="133 146 1183 146 1189 972 139 975 134 169"/></Shape>
           <TextLine ID="line_2"
                     TAGREFS="LT8"
