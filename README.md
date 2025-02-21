@@ -19,20 +19,16 @@ This repository contains a directory called dataset_corpus_principal, which brin
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
 | Cosmopolite,  Eusèbe Philadelphe | [_Le reveille-matin des François et de leurs voisins_] (https://www.google.it/books/edition/Le_Reveille_matin_des_Fran%C3%A7ois_et_de_le/GBRr1rSDsQMC?hl=it&gbpv=1) | 1574 | Lyon | Le Preux | N. Champeaux |  |
 ```
-
 ```
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
 | Iunius Brutus, Stephanus | [De La Puissance Legitime du Prince] (https://doi.org/10.3931/e-rara-6435) | 1581     | Geneva   | s.n. | L. Paoli     |   |
 ```
-
 ```
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
 | Jean de Coras | Question Politique | 1569    | Berne   | s.n. | A.Bianco    | A.Bianco  |
 ```
-
-
 ```
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
