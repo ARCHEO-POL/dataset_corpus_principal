@@ -217,34 +217,19 @@
                     HEIGHT="84.0"
                     WC="0.9907784912321302"></String>
           </TextLine>
-          <TextLine ID="line_12"
+          <TextLine ID="eSc_line_9dd8f1a8"
                     TAGREFS="LT8"
-                    BASELINE="340 553 342 553" 
-                    HPOS="339.0"
-                    VPOS="452.0"
-                    WIDTH="1.0"
-                    HEIGHT="105.0">
-            <Shape><Polygon POINTS="339 543 339 551 340 557 340 551 340 452 339 452 339 543"/></Shape>
-	    <String CONTENT=""
-                    HPOS="339.0"
-                    VPOS="452.0"
-                    WIDTH="1.0"
-                    HEIGHT="105.0"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_53f2b557"
-                    TAGREFS="LT8"
-                    BASELINE="351 553 1352 566" 
-                    HPOS="348"
-                    VPOS="506"
-                    WIDTH="1002"
-                    HEIGHT="82">
-            <Shape><Polygon POINTS="350 551 348 574 491 568 524 578 526 578 528 578 529 578 563 578 765 572 771 578 773 582 775 582 775 584 777 584 779 584 781 584 824 578 863 574 890 580 923 586 925 586 978 580 1007 576 1026 580 1063 588 1065 588 1348 580 1350 565 1348 518 350 506 350 551"/></Shape>
-	    <String CONTENT="dont ils recueillent que l’Egliſe, qui eſt le tem¬"
-                    HPOS="348"
-                    VPOS="506"
-                    WIDTH="1002"
-                    HEIGHT="82"
-                    WC="0.9926983904838562"></String>
+                    BASELINE="353 561 1331 583" 
+                    HPOS="350"
+                    VPOS="498"
+                    WIDTH="980"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="352 559 350 570 1326 584 1330 582 1328 518 1258 527 1188 516 1167 512 1106 512 1104 512 1102 512 1100 512 1098 514 1083 524 1026 524 1013 512 1007 508 1005 508 1003 508 1001 508 980 512 944 520 927 512 915 506 913 506 911 506 884 510 845 518 726 516 705 508 680 500 678 500 676 500 674 500 652 508 637 512 516 512 504 506 487 498 485 498 483 498 481 498 479 498 469 504 461 508 352 504 352 559"/></Shape>
+	    <String CONTENT="dont ils recueillent que l&#x27;Eglise, qui est le temp-"
+                    HPOS="350"
+                    VPOS="498"
+                    WIDTH="980"
+                    HEIGHT="86"></String>
           </TextLine>
           <TextLine ID="line_13"
                     TAGREFS="LT8"

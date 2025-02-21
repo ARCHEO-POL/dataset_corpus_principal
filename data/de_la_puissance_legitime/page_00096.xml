@@ -44,6 +44,28 @@
                     WC="0.9999992847442627"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="629.0"
+                   VPOS="100.0"
+                   WIDTH="453.0"
+                   HEIGHT="55.0"
+                   ID="block_4"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="1082 100 1082 155 629 155 629 100"/></Shape>
+          <TextLine ID="line_1"
+                    TAGREFS="LT8"
+                    BASELINE="635 142 1075 137" 
+                    HPOS="633.0"
+                    VPOS="103.0"
+                    WIDTH="442.0"
+                    HEIGHT="56.0">
+            <Shape><Polygon POINTS="1062 131 1049 131 1036 131 1023 131 1010 131 997 131 984 131 971 131 958 131 945 131 932 131 919 131 906 131 893 131 880 131 867 131 854 131 841 131 828 131 815 128 813 111 801 103 800 103 798 103 797 103 633 103 635 142 635 151 645 159 646 159 648 159 649 159 745 151 759 150 770 151 809 157 810 157 811 157 813 157 820 151 822 150 824 151 833 158 835 158 836 158 837 158 872 151 889 149 905 151 927 157 928 157 1075 153 1075 137 1072 131 1062 131"/></Shape>
+	    <String CONTENT="TROISIESME"
+                    HPOS="633.0"
+                    VPOS="103.0"
+                    WIDTH="442.0"
+                    HEIGHT="56.0"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="343.0"
                    VPOS="408.0"
                    WIDTH="1039.0"
@@ -442,82 +464,6 @@
                     WC="0.9927805662155151"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="179.0"
-                   VPOS="443.0"
-                   WIDTH="168.0"
-                   HEIGHT="159.0"
-                   ID="block_5"
-                   TAGREFS="BT2519">
-          <Shape><Polygon POINTS="347 443 342 592 179 602 181 451"/></Shape>
-          <TextLine ID="line_28"
-                    TAGREFS="LT8"
-                    BASELINE="183 485 342 475" 
-                    HPOS="180.0"
-                    VPOS="433.0"
-                    WIDTH="162.0"
-                    HEIGHT="73.0">
-            <Shape><Polygon POINTS="183 485 183 498 241 506 242 506 244 506 277 494 279 494 301 502 302 502 303 502 305 502 342 490 342 475 336 433 302 441 280 439 267 437 266 437 264 437 263 437 263 439 262 439 261 440 255 449 180 449 183 485"/></Shape>
-	    <String CONTENT="Le peuple"
-                    HPOS="180.0"
-                    VPOS="433.0"
-                    WIDTH="162.0"
-                    HEIGHT="73.0"
-                    WC="0.9996290074454414"></String>
-          </TextLine>
-          <TextLine ID="line_29"
-                    TAGREFS="LT8"
-                    BASELINE="183 533 302 527" 
-                    HPOS="180.0"
-                    VPOS="489.0"
-                    WIDTH="122.0"
-                    HEIGHT="68.0">
-            <Shape><Polygon POINTS="183 533 184 557 255 548 301 553 302 527 300 496 262 489 261 489 259 489 258 489 258 490 249 498 228 492 227 492 226 492 180 502 183 533"/></Shape>
-	    <String CONTENT="fait les"
-                    HPOS="180.0"
-                    VPOS="489.0"
-                    WIDTH="122.0"
-                    HEIGHT="68.0"
-                    WC="0.9951698556542397"></String>
-          </TextLine>
-          <TextLine ID="line_30"
-                    TAGREFS="LT8"
-                    BASELINE="184 584 283 581" 
-                    HPOS="183.0"
-                    VPOS="553.0"
-                    WIDTH="100.0"
-                    HEIGHT="53.0">
-            <Shape><Polygon POINTS="274 574 261 574 248 574 235 574 228 557 223 553 222 553 220 553 196 553 194 553 193 553 192 553 183 559 184 584 184 606 283 592 283 581 280 574 274 574"/></Shape>
-	    <String CONTENT="Ron¬"
-                    HPOS="183.0"
-                    VPOS="553.0"
-                    WIDTH="100.0"
-                    HEIGHT="53.0"
-                    WC="0.9998203665018082"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="629.0"
-                   VPOS="100.0"
-                   WIDTH="453.0"
-                   HEIGHT="55.0"
-                   ID="block_4"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="1082 100 1082 155 629 155 629 100"/></Shape>
-          <TextLine ID="line_1"
-                    TAGREFS="LT8"
-                    BASELINE="635 142 1075 137" 
-                    HPOS="633.0"
-                    VPOS="103.0"
-                    WIDTH="442.0"
-                    HEIGHT="56.0">
-            <Shape><Polygon POINTS="1062 131 1049 131 1036 131 1023 131 1010 131 997 131 984 131 971 131 958 131 945 131 932 131 919 131 906 131 893 131 880 131 867 131 854 131 841 131 828 131 815 128 813 111 801 103 800 103 798 103 797 103 633 103 635 142 635 151 645 159 646 159 648 159 649 159 745 151 759 150 770 151 809 157 810 157 811 157 813 157 820 151 822 150 824 151 833 158 835 158 836 158 837 158 872 151 889 149 905 151 927 157 928 157 1075 153 1075 137 1072 131 1062 131"/></Shape>
-	    <String CONTENT="TROISTESME"
-                    HPOS="633.0"
-                    VPOS="103.0"
-                    WIDTH="442.0"
-                    HEIGHT="56.0"
-                    WC="0.9999769568443299"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="345.0"
                    VPOS="1720.0"
                    WIDTH="1030.0"
@@ -622,6 +568,59 @@
                     WIDTH="126.0"
                     HEIGHT="69.0"
                     WC="0.9968050003051758"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="179.0"
+                   VPOS="443.0"
+                   WIDTH="168.0"
+                   HEIGHT="159.0"
+                   ID="block_5"
+                   TAGREFS="BT2519">
+          <Shape><Polygon POINTS="347 443 342 592 179 602 181 451"/></Shape>
+          <TextLine ID="line_28"
+                    TAGREFS="LT8"
+                    BASELINE="183 485 342 475" 
+                    HPOS="180"
+                    VPOS="433"
+                    WIDTH="162"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="183 498 241 506 242 506 244 506 277 494 279 494 301 502 302 502 303 502 305 502 342 490 342 475 336 433 302 441 280 439 267 437 266 437 264 437 263 437 263 439 262 439 261 440 255 449 180 449 183 485"/></Shape>
+	    <String CONTENT="Le peuple"
+                    HPOS="180"
+                    VPOS="433"
+                    WIDTH="162"
+                    HEIGHT="73"
+                    WC="0.9996290074454414"></String>
+          </TextLine>
+          <TextLine ID="line_29"
+                    TAGREFS="LT8"
+                    BASELINE="183 533 302 527" 
+                    HPOS="180"
+                    VPOS="489"
+                    WIDTH="122"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="184 557 255 548 301 553 302 527 300 496 262 489 261 489 259 489 258 489 258 490 249 498 228 492 227 492 226 492 180 502 183 533"/></Shape>
+	    <String CONTENT="fait les"
+                    HPOS="180"
+                    VPOS="489"
+                    WIDTH="122"
+                    HEIGHT="68"
+                    WC="0.9951698556542397"></String>
+          </TextLine>
+          <TextLine ID="line_30"
+                    TAGREFS="LT8"
+                    BASELINE="184 584 283 581" 
+                    HPOS="183"
+                    VPOS="553"
+                    WIDTH="100"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="261 574 248 574 235 574 228 557 223 553 222 553 220 553 196 553 194 553 193 553 192 553 183 559 184 584 184 606 283 592 283 581 280 574 274 574"/></Shape>
+	    <String CONTENT="Ron¬"
+                    HPOS="183"
+                    VPOS="553"
+                    WIDTH="100"
+                    HEIGHT="53"
+                    WC="0.9998203665018082"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="339.0"

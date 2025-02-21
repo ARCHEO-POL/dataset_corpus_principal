@@ -43,21 +43,6 @@
                     HEIGHT="60.0"
                     WC="0.9936400002903408"></String>
           </TextLine>
-          <TextLine ID="eSc_line_f2070af0"
-                    TAGREFS="LT8"
-                    BASELINE="1092 210 1224 209" 
-                    HPOS="1091"
-                    VPOS="153"
-                    WIDTH="131"
-                    HEIGHT="88">
-            <Shape><Polygon POINTS="1091 208 1091 237 1220 241 1222 208 1222 171 1134 153 1132 153 1130 153 1091 163 1091 208"/></Shape>
-	    <String CONTENT="Iages 4"
-                    HPOS="1091"
-                    VPOS="153"
-                    WIDTH="131"
-                    HEIGHT="88"
-                    WC="0.9611176167215619"></String>
-          </TextLine>
           <TextLine ID="line_3"
                     TAGREFS="LT8"
                     BASELINE="83 275 1089 267" 
@@ -72,21 +57,6 @@
                     WIDTH="1006.0"
                     HEIGHT="74.0"
                     WC="0.9892489569527763"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_bd75a80a"
-                    TAGREFS="LT8"
-                    BASELINE="1092 267 1180 266" 
-                    HPOS="1089"
-                    VPOS="224"
-                    WIDTH="90"
-                    HEIGHT="66">
-            <Shape><Polygon POINTS="1091 266 1091 288 1165 290 1167 290 1169 290 1171 290 1171 288 1179 278 1179 264 1175 224 1089 224 1091 266"/></Shape>
-	    <String CONTENT="&amp; 5."
-                    HPOS="1089"
-                    VPOS="224"
-                    WIDTH="90"
-                    HEIGHT="66"
-                    WC="0.8933433145284653"></String>
           </TextLine>
           <TextLine ID="line_4"
                     TAGREFS="LT8"
@@ -510,6 +480,44 @@
                     WC="0.9999126195907593"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="1098"
+                   VPOS="176"
+                   WIDTH="142"
+                   HEIGHT="114"
+                   ID="eSc_textblock_5949958e"
+                   TAGREFS="BT2519">
+          <Shape><Polygon POINTS="1240 290 1240 177 1099 176 1098 290"/></Shape>
+          <TextLine ID="eSc_line_f2070af0"
+                    TAGREFS="LT8"
+                    BASELINE="1105 211 1224 209" 
+                    HPOS="1091"
+                    VPOS="153"
+                    WIDTH="131"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1091 237 1220 241 1222 208 1222 171 1134 153 1132 153 1130 153 1091 163 1091 208"/></Shape>
+	    <String CONTENT="Iages 4"
+                    HPOS="1091"
+                    VPOS="153"
+                    WIDTH="131"
+                    HEIGHT="88"
+                    WC="0.9611176167215619"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bd75a80a"
+                    TAGREFS="LT8"
+                    BASELINE="1104 267 1180 266" 
+                    HPOS="1089"
+                    VPOS="224"
+                    WIDTH="90"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1091 288 1165 290 1167 290 1169 290 1171 290 1171 288 1179 278 1179 264 1175 224 1089 224 1091 266"/></Shape>
+	    <String CONTENT="&amp; 5."
+                    HPOS="1089"
+                    VPOS="224"
+                    WIDTH="90"
+                    HEIGHT="66"
+                    WC="0.8933433145284653"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="97.0"
                    VPOS="1773.0"
                    WIDTH="1014.0"
@@ -600,14 +608,6 @@
                     HEIGHT="78.0"
                     WC="0.9836346308390299"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1089.0"
-                   VPOS="177.0"
-                   WIDTH="151.0"
-                   HEIGHT="113.0"
-                   ID="eSc_textblock_5949958e"
-                   TAGREFS="BT2519">
-          <Shape><Polygon POINTS="1240 290 1240 177 1089 177 1089 290"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

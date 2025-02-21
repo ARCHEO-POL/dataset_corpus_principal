@@ -570,19 +570,19 @@
                     HEIGHT="76.0"
                     WC="0.9968900501728057"></String>
           </TextLine>
-          <TextLine ID="line_17"
+          <TextLine ID="eSc_line_f6692cf9"
                     TAGREFS="LT8"
-                    BASELINE="1069 585 1137 581" 
-                    HPOS="1066.0"
-                    VPOS="547.0"
-                    WIDTH="3.0"
-                    HEIGHT="40.0">
-            <Shape><Polygon POINTS="1067 547 1066 548 1069 585 1069 587"/></Shape>
-	    <String CONTENT=""
-                    HPOS="1066.0"
-                    VPOS="547.0"
-                    WIDTH="3.0"
-                    HEIGHT="40.0"></String>
+                    BASELINE="1068 595 1139 594" 
+                    HPOS="1064"
+                    VPOS="547"
+                    WIDTH="74"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1066 594 1066 615 1138 615 1138 592 1132 547 1064 547 1066 594"/></Shape>
+	    <String CONTENT="&amp; c."
+                    HPOS="1064"
+                    VPOS="547"
+                    WIDTH="74"
+                    HEIGHT="68"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
