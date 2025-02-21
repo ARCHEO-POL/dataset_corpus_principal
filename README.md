@@ -34,6 +34,18 @@ This repository contains a directory called dataset_corpus_principal, which brin
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
 | Jean de Coras | [_Question Politique_] (https://books.google.ch/books?id=7cLTKl76iJsC&pg=PA355) | 1570     | London   | Barthélemy Berton | A. Bianco     | A. Bianco      |
 ```
+```
+| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
+|------------------|----------------------|----------|----------|-----------|--------------|---------------|
+| Hotman François | [La Francogallia] (https://www.digitale-sammlungen.de/en/view/bsb10177492?page=4,5) | 1573     | Munich| Jacob Stoer | L.Paoli     |   |
+```
+
+```
+| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
+|------------------|----------------------|----------|----------|-----------|--------------|---------------|
+| s.n | [Le Politique. Dialogue traittant de la puissance, authorité, & du devoir des Princese] (http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ22450210X) | 1576     | s.n | Heinrich Wolf | A.Bianco     |   |
+```
+
 
 ## How to cite
 
