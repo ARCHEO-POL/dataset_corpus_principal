@@ -1,6 +1,62 @@
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
 README
+
+# ARCHEOPOL-FR-PRINT-16
+
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
+
+This repository contains a directory called dataset_corpus_principal, which brings together a number of digitised old books segmented into pages. These writings are Monarchomaques, written by Calvinist jurists and theologians at the end of the 16th century who justified armed resistance to the King. Each page is associated with an image (.jpg or .png) and an XML transcription file (where applicable). Some books are fully or partially transcribed, others are not.
+
+
+## Content
+
+
+```
+| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
+|------------------|----------------------|----------|----------|-----------|--------------|---------------|
+| de Bèze,  Théodore | [_Du droit des Magistrats sur leurs subjets_] (https://doi.org/10.3931/e-rara-1064) | 1574     | Bern  | Jacob Stoer | N. Champeaux     |   |
+```
+```
+| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
+|------------------|----------------------|----------|----------|-----------|--------------|---------------|
+| Cosmopolite,  Eusèbe Philadelphe | [_Le reveille-matin des François et de leurs voisins_] (https://www.google.it/books/edition/Le_Reveille_matin_des_Fran%C3%A7ois_et_de_le/GBRr1rSDsQMC?hl=it&gbpv=1) | 1574 | Lyon | Le Preux | N. Champeaux |  |
+```
+
+```
+| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
+|------------------|----------------------|----------|----------|-----------|--------------|---------------|
+| Iunius Brutus, Stephanus | [De La Puissance Legitime du Prince] (https://doi.org/10.3931/e-rara-6435) | 1581     | Geneva   | s.n. | L. Paoli     |   |
+```
+
+```
+| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
+|------------------|----------------------|----------|----------|-----------|--------------|---------------|
+| Jean de Coras | Question Politique | 1569    | Berne   | s.n. | A.Bianco    | A.Bianco  |
+```
+
+```
+| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
+|------------------|----------------------|----------|----------|-----------|--------------|---------------|
+| Jean de Coras | [_Question Politique_] (https://books.google.ch/books?id=7cLTKl76iJsC&pg=PA355) | 1570     | London   | Barthélemy Berton | A.Bianco    | A.Bianco   |
+```
+
+
+## How to cite
+
+ 
+## Licences
+
+<a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg" /></a><br /> 
+
+
+Droits
+
+Licence Creative Commons
+This work is licensed under a Creative Commons Attribution 4.0 International Licence.
+
+
+
 Contributeurs
 
     Alyzé Bianco
@@ -110,56 +166,5 @@ Lorsque vous citez ou utilisez ces données dans vos travaux, veuillez inclure :
     La date d’accès (ou la version du commit si pertinent)
 
     
-# ARCHEOPOL-FR-PRINT-16
 
-![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
-
-This repository contains a directory called dataset_corpus_principal, which brings together a number of digitised old books segmented into pages. These writings are Monarchomaques, written by Calvinist jurists and theologians at the end of the 16th century who justified armed resistance to the King. Each page is associated with an image (.jpg or .png) and an XML transcription file (where applicable). Some books are fully or partially transcribed, others are not.
-
-
-## Content
-
-
-```
-| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
-|------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| de Bèze,  Théodore | [_Du droit des Magistrats sur leurs subjets_] (https://doi.org/10.3931/e-rara-1064) | 1574     | Bern  | Jacob Stoer | N. Champeaux     |   |
-```
-```
-| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
-|------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| Cosmopolite,  Eusèbe Philadelphe | [_Le reveille-matin des François et de leurs voisins_] (https://www.google.it/books/edition/Le_Reveille_matin_des_Fran%C3%A7ois_et_de_le/GBRr1rSDsQMC?hl=it&gbpv=1) | 1574 | Lyon | Le Preux | N. Champeaux |  |
-```
-
-```
-| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
-|------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| Iunius Brutus, Stephanus | [De La Puissance Legitime du Prince] (https://doi.org/10.3931/e-rara-6435) | 1581     | Geneva   | s.n. | L. Paoli     |   |
-```
-
-```
-| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
-|------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| Jean de Coras | Question Politique | 1569    | Berne   | s.n. | A.Bianco    | A.Bianco  |
-```
-
-```
-| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
-|------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| Jean de Coras | [_Question Politique_] (https://books.google.ch/books?id=7cLTKl76iJsC&pg=PA355) | 1570     | London   | Barthélemy Berton | A.Bianco    | A.Bianco   |
-```
-
-
-## How to cite
-
- 
-## Licences
-
-<a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg" /></a><br /> 
-
-
-Droits
-
-Licence Creative Commons
-This work is licensed under a Creative Commons Attribution 4.0 International Licence.
     
