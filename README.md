@@ -9,7 +9,7 @@ This repository contains a directory called dataset_corpus_principal, which brin
 ## Content
 
 
-|```
+```
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
 | de Bèze,  Théodore | [_Du droit des Magistrats sur leurs subjets_] (https://doi.org/10.3931/e-rara-1064) | 1574     | Bern  | Jacob Stoer | N. Champeaux     |   |
@@ -43,7 +43,7 @@ This repository contains a directory called dataset_corpus_principal, which brin
 ```
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| s.n | [Le Politique. *Dialogue traittant de la puissance, authorité, & du devoir des Princese*] (http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ22450210X) | 1576     | s.n | Heinrich Wolf | A.Bianco     |   |
+| s.n | [Le Politique. *Dialogue traittant de la puissance, authorité, & du devoir des Princese*] (http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ22450210X) | 1576     | s.n | Heinrich Wolf | A.Bianco et SIR CHAMPEAUX     |   |
 ```
 
 
