@@ -29,21 +29,6 @@
                    ID="block_0"
                    TAGREFS="BT20">
           <Shape><Polygon POINTS="1173 859 1173 1140 888 1140 888 859"/></Shape>
-          <TextLine ID="line_0"
-                    TAGREFS="LT765"
-                    BASELINE="971 1097 1049 1108" 
-                    HPOS="970.0"
-                    VPOS="1052.0"
-                    WIDTH="84.0"
-                    HEIGHT="71.0">
-            <Shape><Polygon POINTS="970 1105 1026 1123 1027 1123 1029 1123 1030 1123 1047 1116 1049 1108 1054 1063 991 1063 978 1052 971 1097 970 1105"/></Shape>
-	    <String CONTENT="*10"
-                    HPOS="970.0"
-                    VPOS="1052.0"
-                    WIDTH="84.0"
-                    HEIGHT="71.0"
-                    WC="0.9997769395510355"></String>
-          </TextLine>
         </TextBlock>
         <TextBlock HPOS="898.0"
                    VPOS="2284.0"
@@ -52,23 +37,6 @@
                    ID="eSc_textblock_e82f90fc"
                    TAGREFS="BT9">
           <Shape><Polygon POINTS="898 2284 898 2366 1221 2366 1221 2284"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="line_1"
-                    TAGREFS="LT765"
-                    BASELINE="912 2330 1189 2326" 
-                    HPOS="911.0"
-                    VPOS="2290.0"
-                    WIDTH="278.0"
-                    HEIGHT="61.0">
-            <Shape><Polygon POINTS="912 2330 912 2345 1095 2341 1099 2342 1114 2350 1115 2350 1117 2351 1157 2351 1157 2350 1158 2350 1189 2341 1189 2326 1188 2301 1149 2290 1147 2290 1146 2290 1145 2290 1143 2290 1126 2302 1123 2303 1121 2302 1109 2297 1107 2297 1106 2297 1105 2297 1103 2297 1094 2303 1091 2305 1089 2303 1062 2291 1061 2291 1024 2291 1023 2291 1022 2291 1020 2291 1020 2293 1007 2305 1004 2309 911 2309 912 2330"/></Shape>
-	    <String CONTENT="9ubedn Google"
-                    HPOS="911.0"
-                    VPOS="2290.0"
-                    WIDTH="278.0"
-                    HEIGHT="61.0"
-                    WC="0.9313643116217393"></String>
-          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

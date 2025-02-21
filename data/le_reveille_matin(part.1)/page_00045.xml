@@ -37,7 +37,7 @@
                     WIDTH="53"
                     HEIGHT="81">
             <Shape><Polygon POINTS="274 150 272 170 287 176 289 176 291 176 293 176 323 158 325 152 325 105 311 95 309 95 307 95 305 95 303 95 274 105 274 150"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="6"
                     HPOS="272"
                     VPOS="95"
                     WIDTH="53"
@@ -585,14 +585,6 @@
                     HEIGHT="53"
                     WC="0.9961729943752289"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1318.0"
-                   VPOS="75.0"
-                   WIDTH="90.0"
-                   HEIGHT="105.0"
-                   ID="eSc_textblock_1a8ff5f4"
-                   TAGREFS="BT8">
-          <Shape><Polygon POINTS="1318 75 1318 180 1408 180 1408 75"/></Shape>
         </TextBlock>
         <TextBlock HPOS="515.0"
                    VPOS="2336.0"

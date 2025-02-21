@@ -44,6 +44,21 @@
                     HEIGHT="93"
                     WC="0.9499928885036044"></String>
           </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT10"
+                    BASELINE="468 284 900 273" 
+                    HPOS="467"
+                    VPOS="225"
+                    WIDTH="433"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="468 309 492 309 492 308 493 308 495 308 496 307 522 289 554 299 555 299 556 299 740 287 756 292 789 301 790 301 791 301 825 300 826 300 828 300 849 285 852 284 858 285 884 291 885 291 887 291 900 283 900 273 897 242 803 240 789 226 789 225 787 225 786 225 758 225 756 225 755 225 754 225 754 226 746 233 736 226 735 226 734 226 689 226 688 226 687 226 685 226 685 228 668 245 648 238 646 238 645 238 644 238 620 248 591 240 590 240 589 240 503 249 487 242 485 242 484 242 483 242 467 250 468 284"/></Shape>
+	    <String CONTENT="premier dialogue."
+                    HPOS="467"
+                    VPOS="225"
+                    WIDTH="433"
+                    HEIGHT="84"
+                    WC="0.982627577641431"></String>
+          </TextLine>
         </TextBlock>
         <TextBlock HPOS="168.0"
                    VPOS="433.0"
@@ -66,21 +81,6 @@
                     WIDTH="853"
                     HEIGHT="90"
                     WC="0.9940558640580428"></String>
-          </TextLine>
-          <TextLine ID="line_5"
-                    TAGREFS="LT9"
-                    BASELINE="225 631 321 626" 
-                    HPOS="221"
-                    VPOS="571"
-                    WIDTH="99"
-                    HEIGHT="77">
-            <Shape><Polygon POINTS="223 637 261 648 263 648 265 648 267 648 267 646 277 635 279 635 318 635 320 625 312 571 259 601 221 601 223 629"/></Shape>
-	    <String CONTENT="ᗅ"
-                    HPOS="221"
-                    VPOS="571"
-                    WIDTH="99"
-                    HEIGHT="77"
-                    WC="0.9886526449730522"></String>
           </TextLine>
           <TextLine ID="eSc_line_756ade97"
                     TAGREFS="LT8"
@@ -344,6 +344,21 @@
                    ID="eSc_textblock_d1db44db"
                    TAGREFS="BT10">
           <Shape><Polygon POINTS="227 567 227 664 326 664 328 567"/></Shape>
+          <TextLine ID="line_5"
+                    TAGREFS="LT9"
+                    BASELINE="225 631 321 626" 
+                    HPOS="221"
+                    VPOS="571"
+                    WIDTH="99"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="223 637 261 648 263 648 265 648 267 648 267 646 277 635 279 635 318 635 320 625 312 571 259 601 221 601 223 629"/></Shape>
+	    <String CONTENT="ᗅ"
+                    HPOS="221"
+                    VPOS="571"
+                    WIDTH="99"
+                    HEIGHT="77"
+                    WC="0.9886526449730522"></String>
+          </TextLine>
         </TextBlock>
         <TextBlock HPOS="544.0"
                    VPOS="2279.0"
@@ -360,23 +375,6 @@
                    ID="eSc_textblock_7734f2d5"
                    TAGREFS="BT11">
           <Shape><Polygon POINTS="612 315 612 395 734 395 734 315"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="line_3"
-                    TAGREFS="LT10"
-                    BASELINE="468 284 900 273" 
-                    HPOS="467"
-                    VPOS="225"
-                    WIDTH="433"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="468 309 492 309 492 308 493 308 495 308 496 307 522 289 554 299 555 299 556 299 740 287 756 292 789 301 790 301 791 301 825 300 826 300 828 300 849 285 852 284 858 285 884 291 885 291 887 291 900 283 900 273 897 242 803 240 789 226 789 225 787 225 786 225 758 225 756 225 755 225 754 225 754 226 746 233 736 226 735 226 734 226 689 226 688 226 687 226 685 226 685 228 668 245 648 238 646 238 645 238 644 238 620 248 591 240 590 240 589 240 503 249 487 242 485 242 484 242 483 242 467 250 468 284"/></Shape>
-	    <String CONTENT="premier dialogue."
-                    HPOS="467"
-                    VPOS="225"
-                    WIDTH="433"
-                    HEIGHT="84"
-                    WC="0.982627577641431"></String>
-          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
