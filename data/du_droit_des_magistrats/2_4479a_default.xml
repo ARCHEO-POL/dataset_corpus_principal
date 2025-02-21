@@ -555,12 +555,11 @@
                     WIDTH="166.0"
                     HEIGHT="60.0">
             <Shape><Polygon POINTS="897 384 1058 389 1062 372 1060 338 949 329 947 329 896 335 897 376"/></Shape>
-	    <String CONTENT="Vn ſeul Dier"
+	    <String CONTENT="Vn ſeul Dieu"
                     HPOS="896.0"
                     VPOS="329.0"
                     WIDTH="166.0"
-                    HEIGHT="60.0"
-                    WC="0.9696298142274221"></String>
+                    HEIGHT="60.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_11693ef9"
                     TAGREFS="LT8"
@@ -570,12 +569,11 @@
                     WIDTH="165.0"
                     HEIGHT="44.0">
             <Shape><Polygon POINTS="894 422 1055 424 1058 411 1055 390 1007 390 983 380 982 380 980 380 979 380 957 390 942 381 941 381 940 381 906 381 904 381 903 381 902 381 902 382 893 389 894 413"/></Shape>
-	    <String CONTENT="doit eſtre o"
+	    <String CONTENT="doit eſtre o¬"
                     HPOS="893.0"
                     VPOS="380.0"
                     WIDTH="165.0"
-                    HEIGHT="44.0"
-                    WC="0.9997784147659937"></String>
+                    HEIGHT="44.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_177c523e"
                     TAGREFS="LT8"
@@ -600,12 +598,11 @@
                     WIDTH="166.0"
                     HEIGHT="48.0">
             <Shape><Polygon POINTS="890 486 889 503 932 503 943 506 965 512 966 512 967 512 989 509 1015 504 1053 512 1055 492 1054 470 926 464 925 464 890 468 890 486"/></Shape>
-	    <String CONTENT="cune excep"
+	    <String CONTENT="cune excep¬"
                     HPOS="889.0"
                     VPOS="464.0"
                     WIDTH="166.0"
-                    HEIGHT="48.0"
-                    WC="0.9999059736728668"></String>
+                    HEIGHT="48.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_920e3c07"
                     TAGREFS="LT8"

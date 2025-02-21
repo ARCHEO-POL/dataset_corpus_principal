@@ -22,6 +22,29 @@
                   VPOS="0"
                   WIDTH="1132"
                   HEIGHT="1824">
+        <TextBlock HPOS="460.0"
+                   VPOS="151.0"
+                   WIDTH="48.0"
+                   HEIGHT="46.0"
+                   ID="eSc_textblock_42029a49"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="461 151 460 195 507 197 508 151"/></Shape>
+          <TextLine ID="eSc_line_b05f0cb2"
+                    TAGREFS="LT8"
+                    BASELINE="465 186 500 191" 
+                    HPOS="461.0"
+                    VPOS="136.0"
+                    WIDTH="42.0"
+                    HEIGHT="66.0">
+            <Shape><Polygon POINTS="464 185 461 202 497 197 499 190 503 144 468 136 464 185"/></Shape>
+	    <String CONTENT="31"
+                    HPOS="461.0"
+                    VPOS="136.0"
+                    WIDTH="42.0"
+                    HEIGHT="66.0"
+                    WC="0.9999924302101135"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="55.0"
                    VPOS="200.0"
                    WIDTH="839.0"
@@ -37,12 +60,11 @@
                     WIDTH="819.0"
                     HEIGHT="60.0">
             <Shape><Polygon POINTS="822 201 821 201 820 201 789 209 699 209 673 199 672 199 664 199 654 199 644 199 622 199 621 199 620 199 592 208 549 198 548 198 547 198 518 207 448 207 416 196 415 196 414 196 364 203 303 195 302 195 300 195 266 205 227 197 222 197 212 204 106 204 100 200 97 201 87 201 77 201 76 201 66 203 66 231 66 247 126 242 197 248 204 248 205 248 206 248 207 248 228 242 256 248 263 249 264 249 265 249 269 248 290 242 359 243 368 248 370 250 371 250 372 250 373 251 396 251 396 250 397 250 398 250 400 248 408 243 489 249 502 249 503 249 521 249 604 245 621 249 639 253 640 253 660 249 666 248 673 249 698 254 699 255 739 255 739 254 740 254 750 249 756 247 791 247 796 249 809 255 810 255 811 255 884 249 885 241 885 213 836 211 823 201 822 201"/></Shape>
-	    <String CONTENT="muniquer au Peuple ni au Senat. Il appert done"
+	    <String CONTENT="muniquer au Peuple ni au Senat. Il appert donc"
                     HPOS="66.0"
                     VPOS="195.0"
                     WIDTH="819.0"
-                    HEIGHT="60.0"
-                    WC="0.9892501662606779"></String>
+                    HEIGHT="60.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_c6397fb5"
                     TAGREFS="LT8"
@@ -510,29 +532,6 @@
                     WC="0.9983831234276295"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="460.0"
-                   VPOS="151.0"
-                   WIDTH="48.0"
-                   HEIGHT="46.0"
-                   ID="eSc_textblock_42029a49"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="461 151 460 195 507 197 508 151"/></Shape>
-          <TextLine ID="eSc_line_b05f0cb2"
-                    TAGREFS="LT8"
-                    BASELINE="465 186 500 191" 
-                    HPOS="461.0"
-                    VPOS="136.0"
-                    WIDTH="42.0"
-                    HEIGHT="66.0">
-            <Shape><Polygon POINTS="464 185 461 202 497 197 499 190 503 144 468 136 464 185"/></Shape>
-	    <String CONTENT="31"
-                    HPOS="461.0"
-                    VPOS="136.0"
-                    WIDTH="42.0"
-                    HEIGHT="66.0"
-                    WC="0.9999924302101135"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="878.0"
                    VPOS="1535.0"
                    WIDTH="185.0"
@@ -608,12 +607,11 @@
                     WIDTH="166.0"
                     HEIGHT="102.0">
             <Shape><Polygon POINTS="885 1728 883 1798 1046 1798 1049 1731 1048 1699 885 1696 885 1728"/></Shape>
-	    <String CONTENT="Lepublique"
+	    <String CONTENT="Republique"
                     HPOS="883.0"
                     VPOS="1696.0"
                     WIDTH="166.0"
-                    HEIGHT="102.0"
-                    WC="0.9853436946868896"></String>
+                    HEIGHT="102.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

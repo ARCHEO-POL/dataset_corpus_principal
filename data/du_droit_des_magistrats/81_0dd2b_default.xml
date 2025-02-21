@@ -22,6 +22,29 @@
                   VPOS="0"
                   WIDTH="1132"
                   HEIGHT="1824">
+        <TextBlock HPOS="633.0"
+                   VPOS="135.0"
+                   WIDTH="49.0"
+                   HEIGHT="44.0"
+                   ID="eSc_textblock_06c0f78b"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="633 135 633 179 682 179 682 135"/></Shape>
+          <TextLine ID="eSc_line_6a2ddd7f"
+                    TAGREFS="LT8"
+                    BASELINE="638 171 685 171" 
+                    HPOS="638.0"
+                    VPOS="133.0"
+                    WIDTH="47.0"
+                    HEIGHT="48.0">
+            <Shape><Polygon POINTS="681 141 664 134 658 134 648 133 638 137 638 171 638 180 684 181 685 171 685 145 681 141"/></Shape>
+	    <String CONTENT="82"
+                    HPOS="638.0"
+                    VPOS="133.0"
+                    WIDTH="47.0"
+                    HEIGHT="48.0"
+                    WC="0.9999979138374329"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="228.0"
                    VPOS="187.0"
                    WIDTH="845.0"
@@ -37,12 +60,11 @@
                     WIDTH="830.0"
                     HEIGHT="56.0">
             <Shape><Polygon POINTS="1064 193 1053 193 1043 192 1033 192 1023 192 1013 191 1003 191 993 191 983 190 978 190 962 191 959 190 958 189 952 189 942 189 932 189 922 188 912 188 901 188 891 187 887 187 883 190 881 191 860 191 857 190 851 186 841 186 831 185 820 185 810 185 800 184 790 184 780 184 776 183 761 190 757 191 751 190 732 182 729 182 719 182 715 180 685 180 684 180 683 180 682 180 669 188 647 179 646 179 645 179 644 179 623 190 621 191 504 191 502 190 482 182 476 182 466 182 456 182 445 182 435 182 425 182 415 182 405 182 395 182 385 182 374 182 373 182 360 190 359 190 344 182 344 182 334 182 333 182 316 190 314 190 310 190 279 184 278 184 277 184 276 184 268 190 266 190 244 190 244 217 244 230 465 228 488 232 496 233 497 233 498 233 502 232 515 228 558 232 576 234 577 234 593 233 636 228 678 233 697 235 698 235 722 233 766 230 814 234 832 235 833 235 844 234 889 229 909 234 911 235 912 235 913 235 914 235 915 234 927 229 1039 229 1072 235 1074 219 1073 193 1064 193"/></Shape>
-	    <String CONTENT="iets de l’Idolatrie, ou de ſuperſtition à la vraſe"
+	    <String CONTENT="iets de l’Idolatrie, ou de ſuperſtition à la vraie"
                     HPOS="244.0"
                     VPOS="179.0"
                     WIDTH="830.0"
-                    HEIGHT="56.0"
-                    WC="0.9911067310501548"></String>
+                    HEIGHT="56.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_fb0d1f56"
                     TAGREFS="LT8"
@@ -508,29 +530,6 @@
                     WIDTH="818.0"
                     HEIGHT="58.0"
                     WC="0.9872256020704905"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="633.0"
-                   VPOS="135.0"
-                   WIDTH="49.0"
-                   HEIGHT="44.0"
-                   ID="eSc_textblock_06c0f78b"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="633 135 633 179 682 179 682 135"/></Shape>
-          <TextLine ID="eSc_line_6a2ddd7f"
-                    TAGREFS="LT8"
-                    BASELINE="638 171 685 171" 
-                    HPOS="638.0"
-                    VPOS="133.0"
-                    WIDTH="47.0"
-                    HEIGHT="48.0">
-            <Shape><Polygon POINTS="681 141 664 134 658 134 648 133 638 137 638 171 638 180 684 181 685 171 685 145 681 141"/></Shape>
-	    <String CONTENT="82"
-                    HPOS="638.0"
-                    VPOS="133.0"
-                    WIDTH="47.0"
-                    HEIGHT="48.0"
-                    WC="0.9999979138374329"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

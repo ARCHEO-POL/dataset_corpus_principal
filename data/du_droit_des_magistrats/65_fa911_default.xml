@@ -22,6 +22,29 @@
                   VPOS="0"
                   WIDTH="1132"
                   HEIGHT="1824">
+        <TextBlock HPOS="667"
+                   VPOS="145"
+                   WIDTH="64"
+                   HEIGHT="41"
+                   ID="eSc_textblock_66d96ca0"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="669 145 667 186 731 185 730 145"/></Shape>
+          <TextLine ID="eSc_line_eef32b3a"
+                    TAGREFS="LT8"
+                    BASELINE="670 179 731 176" 
+                    HPOS="668"
+                    VPOS="145"
+                    WIDTH="63"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="719 145 709 145 699 145 689 145 678 145 668 153 670 179 670 188 710 190 711 190 712 190 731 183 731 176 728 149 719 145"/></Shape>
+	    <String CONTENT="66"
+                    HPOS="668"
+                    VPOS="145"
+                    WIDTH="63"
+                    HEIGHT="45"
+                    WC="0.999898761510849"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="265.0"
                    VPOS="192.0"
                    WIDTH="848.0"
@@ -367,12 +390,11 @@
                     WIDTH="813"
                     HEIGHT="54">
             <Shape><Polygon POINTS="277 1281 277 1298 314 1298 314 1297 315 1297 316 1297 327 1290 428 1290 437 1296 438 1296 439 1296 440 1296 453 1296 579 1290 600 1295 615 1297 616 1298 865 1298 865 1297 866 1297 867 1297 874 1292 875 1292 885 1292 976 1297 977 1297 1042 1292 1053 1297 1054 1297 1055 1297 1090 1289 1090 1281 1090 1256 1041 1256 1030 1249 1029 1249 1028 1249 1027 1249 1026 1249 1011 1254 1000 1247 999 1247 998 1247 997 1247 996 1247 968 1256 912 1256 895 1244 894 1244 893 1244 892 1244 891 1244 865 1251 798 1244 797 1244 796 1244 795 1244 780 1256 672 1256 637 1244 636 1244 635 1244 634 1244 616 1250 594 1244 593 1244 592 1244 591 1244 590 1244 577 1255 551 1255 526 1244 525 1244 420 1244 419 1244 418 1244 392 1254 378 1244 376 1244 375 1244 354 1244 353 1244 352 1244 351 1244 336 1256 277 1256 277 1281"/></Shape>
-	    <String CONTENT="qu’elles ſe fuſſent deſtournees à ldolatrie, &amp; tou"
+	    <String CONTENT="qu’elles ſe fuſſent deſtournees à Idolatrie, &amp; tou"
                     HPOS="277"
                     VPOS="1244"
                     WIDTH="813"
-                    HEIGHT="54"
-                    WC="0.9985626760651084"></String>
+                    HEIGHT="54"></String>
           </TextLine>
           <TextLine ID="eSc_line_97d4ae7e"
                     TAGREFS="LT8"
@@ -510,29 +532,6 @@
                     WC="0.9844222458041444"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="667"
-                   VPOS="145"
-                   WIDTH="64"
-                   HEIGHT="41"
-                   ID="eSc_textblock_66d96ca0"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="669 145 667 186 731 185 730 145"/></Shape>
-          <TextLine ID="eSc_line_eef32b3a"
-                    TAGREFS="LT8"
-                    BASELINE="670 179 731 176" 
-                    HPOS="668"
-                    VPOS="145"
-                    WIDTH="63"
-                    HEIGHT="45">
-            <Shape><Polygon POINTS="719 145 709 145 699 145 689 145 678 145 668 153 670 179 670 188 710 190 711 190 712 190 731 183 731 176 728 149 719 145"/></Shape>
-	    <String CONTENT="66"
-                    HPOS="668"
-                    VPOS="145"
-                    WIDTH="63"
-                    HEIGHT="45"
-                    WC="0.999898761510849"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="93"
                    VPOS="1072"
                    WIDTH="176"
@@ -661,12 +660,11 @@
                     WIDTH="86"
                     HEIGHT="51">
             <Shape><Polygon POINTS="159 1628 148 1624 138 1624 128 1623 118 1622 111 1622 106 1624 97 1621 88 1622 88 1647 87 1662 132 1672 133 1672 134 1672 155 1660 156 1660 172 1660 173 1648 168 1631 159 1628"/></Shape>
-	    <String CONTENT="lug.2e"
+	    <String CONTENT="Iug.20"
                     HPOS="87"
                     VPOS="1621"
                     WIDTH="86"
-                    HEIGHT="51"
-                    WC="0.9607064028580984"></String>
+                    HEIGHT="51"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

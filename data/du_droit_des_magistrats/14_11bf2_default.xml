@@ -22,6 +22,29 @@
                   VPOS="0"
                   WIDTH="1132"
                   HEIGHT="1824">
+        <TextBlock HPOS="460.0"
+                   VPOS="152.0"
+                   WIDTH="55.0"
+                   HEIGHT="47.0"
+                   ID="eSc_textblock_b97aa676"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="460 153 460 199 515 198 515 152"/></Shape>
+          <TextLine ID="eSc_line_c8044b59"
+                    TAGREFS="LT8"
+                    BASELINE="471 188 511 188" 
+                    HPOS="470.0"
+                    VPOS="165.0"
+                    WIDTH="39.0"
+                    HEIGHT="35.0">
+            <Shape><Polygon POINTS="485 185 477 165 470 165 470 186 470 200 509 200 509 186 509 168 494 167 485 185"/></Shape>
+	    <String CONTENT="15"
+                    HPOS="470.0"
+                    VPOS="165.0"
+                    WIDTH="39.0"
+                    HEIGHT="35.0"
+                    WC="0.9999924302101135"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="40.0"
                    VPOS="200.0"
                    WIDTH="895.0"
@@ -502,35 +525,11 @@
                     WIDTH="862.0"
                     HEIGHT="122.0">
             <Shape><Polygon POINTS="912 1693 702 1682 651 1682 642 1693 591 1693 582 1682 555 1691 541 1682 412 1690 401 1681 327 1690 284 1682 272 1690 237 1679 111 1688 65 1679 57 1684 56 1799 156 1801 171 1785 301 1785 322 1801 383 1790 915 1798 918 1735 912 1693"/></Shape>
-	    <String CONTENT="ſtras legitimes: à fin que fileſt poſſible, l&#x27;ennemi"
+	    <String CONTENT="ſtras legitimes: à fin que ſ&#x27;il eſt poſſible, l&#x27;ennemi"
                     HPOS="56.0"
                     VPOS="1679.0"
                     WIDTH="862.0"
-                    HEIGHT="122.0"
-                    WC="0.9380691602544965"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="460.0"
-                   VPOS="152.0"
-                   WIDTH="55.0"
-                   HEIGHT="47.0"
-                   ID="eSc_textblock_b97aa676"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="460 153 460 199 515 198 515 152"/></Shape>
-          <TextLine ID="eSc_line_c8044b59"
-                    TAGREFS="LT8"
-                    BASELINE="471 188 511 188" 
-                    HPOS="470.0"
-                    VPOS="165.0"
-                    WIDTH="39.0"
-                    HEIGHT="35.0">
-            <Shape><Polygon POINTS="485 185 477 165 470 165 470 186 470 200 509 200 509 186 509 168 494 167 485 185"/></Shape>
-	    <String CONTENT="15"
-                    HPOS="470.0"
-                    VPOS="165.0"
-                    WIDTH="39.0"
-                    HEIGHT="35.0"
-                    WC="0.9999924302101135"></String>
+                    HEIGHT="122.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

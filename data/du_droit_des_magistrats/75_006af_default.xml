@@ -22,6 +22,28 @@
                   VPOS="0"
                   WIDTH="1132"
                   HEIGHT="1824">
+        <TextBlock HPOS="636.0"
+                   VPOS="137.0"
+                   WIDTH="70.0"
+                   HEIGHT="38.0"
+                   ID="eSc_textblock_30e9216b"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="636 141 636 175 706 166 701 137"/></Shape>
+          <TextLine ID="eSc_line_e8fe02b2"
+                    TAGREFS="LT8"
+                    BASELINE="655 164 694 161" 
+                    HPOS="653.0"
+                    VPOS="131.0"
+                    WIDTH="41.0"
+                    HEIGHT="45.0">
+            <Shape><Polygon POINTS="683 131 676 131 670 131 662 134 653 138 655 164 656 176 694 172 694 161 689 135 683 131"/></Shape>
+	    <String CONTENT="76"
+                    HPOS="653.0"
+                    VPOS="131.0"
+                    WIDTH="41.0"
+                    HEIGHT="45.0"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="260.0"
                    VPOS="174.0"
                    WIDTH="834.0"
@@ -555,12 +577,11 @@
                     WIDTH="112.0"
                     HEIGHT="56.0">
             <Shape><Polygon POINTS="92 512 92 524 149 533 150 533 203 525 203 509 200 484 91 477 92 512"/></Shape>
-	    <String CONTENT="r&#x27;eſt pas"
+	    <String CONTENT="n&#x27;eſt pas"
                     HPOS="91.0"
                     VPOS="477.0"
                     WIDTH="112.0"
-                    HEIGHT="56.0"
-                    WC="0.9442564182811313"></String>
+                    HEIGHT="56.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_cae3bdf4"
                     TAGREFS="LT8"
@@ -585,35 +606,11 @@
                     WIDTH="54.0"
                     HEIGHT="58.0">
             <Shape><Polygon POINTS="95 592 97 620 146 620 144 589 141 566 92 562 95 592"/></Shape>
-	    <String CONTENT="an."
+	    <String CONTENT="ran."
                     HPOS="92.0"
                     VPOS="562.0"
                     WIDTH="54.0"
-                    HEIGHT="58.0"
-                    WC="0.9999733765920004"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="636.0"
-                   VPOS="137.0"
-                   WIDTH="70.0"
-                   HEIGHT="38.0"
-                   ID="eSc_textblock_30e9216b"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="636 141 636 175 706 166 701 137"/></Shape>
-          <TextLine ID="eSc_line_e8fe02b2"
-                    TAGREFS="LT8"
-                    BASELINE="655 164 694 161" 
-                    HPOS="653.0"
-                    VPOS="131.0"
-                    WIDTH="41.0"
-                    HEIGHT="45.0">
-            <Shape><Polygon POINTS="683 131 676 131 670 131 662 134 653 138 655 164 656 176 694 172 694 161 689 135 683 131"/></Shape>
-	    <String CONTENT="78"
-                    HPOS="653.0"
-                    VPOS="131.0"
-                    WIDTH="41.0"
-                    HEIGHT="45.0"
-                    WC="0.9867449402809143"></String>
+                    HEIGHT="58.0"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="87.0"
@@ -661,12 +658,11 @@
                     WIDTH="164.0"
                     HEIGHT="70.0">
             <Shape><Polygon POINTS="88 895 251 883 252 864 249 831 103 834 92 825 89 863 88 895"/></Shape>
-	    <String CONTENT="pas expedict"
+	    <String CONTENT="pas expediẽt"
                     HPOS="88.0"
                     VPOS="825.0"
                     WIDTH="164.0"
-                    HEIGHT="70.0"
-                    WC="0.9902241279681524"></String>
+                    HEIGHT="70.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

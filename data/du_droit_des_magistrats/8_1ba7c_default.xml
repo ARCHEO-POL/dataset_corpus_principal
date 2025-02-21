@@ -570,35 +570,19 @@
                     HEIGHT="74"
                     WC="0.981723353266716"></String>
           </TextLine>
-          <TextLine ID="eSc_line_1947abe3"
-                    TAGREFS="LT8"
-                    BASELINE="1029 1570 1070 1570" 
-                    HPOS="1028"
-                    VPOS="1538"
-                    WIDTH="41"
-                    HEIGHT="41">
-            <Shape><Polygon POINTS="1058 1568 1046 1539 1028 1538 1028 1568 1028 1579 1069 1573 1069 1568 1069 1544 1058 1541 1058 1568"/></Shape>
-	    <String CONTENT="ſo"
-                    HPOS="1028"
-                    VPOS="1538"
-                    WIDTH="41"
-                    HEIGHT="41"
-                    WC="0.9996153712272644"></String>
-          </TextLine>
           <TextLine ID="eSc_line_10c42b3e"
                     TAGREFS="LT8"
-                    BASELINE="924 1571 999 1572" 
+                    BASELINE="924 1571 1061 1574" 
                     HPOS="922"
                     VPOS="1532"
-                    WIDTH="76"
+                    WIDTH="138"
                     HEIGHT="44">
-            <Shape><Polygon POINTS="969 1532 953 1532 938 1532 923 1532 923 1570 922 1576 996 1576 998 1571 996 1533 981 1532 969 1532"/></Shape>
-	    <String CONTENT="ſtrats"
+            <Shape><Polygon POINTS="984 1532 969 1532 967 1532 953 1536 940 1532 938 1532 923 1532 923 1570 922 1576 1058 1576 1060 1573 1058 1533 1004 1538 988 1532 984 1532"/></Shape>
+	    <String CONTENT="ſtrats ſo"
                     HPOS="922"
                     VPOS="1532"
-                    WIDTH="76"
-                    HEIGHT="44"
-                    WC="0.9994066754976908"></String>
+                    WIDTH="138"
+                    HEIGHT="44"></String>
           </TextLine>
           <TextLine ID="eSc_line_17d2c43c"
                     TAGREFS="LT8"
@@ -608,12 +592,11 @@
                     WIDTH="142"
                     HEIGHT="61">
             <Shape><Polygon POINTS="1042 1570 1027 1568 1025 1565 998 1565 996 1571 981 1571 966 1571 950 1571 935 1571 926 1565 926 1565 925 1565 925 1567 920 1570 922 1612 925 1626 941 1615 1060 1623 1062 1609 1057 1570 1042 1570"/></Shape>
-	    <String CONTENT="pour les pl"
+	    <String CONTENT="pour les p"
                     HPOS="920"
                     VPOS="1565"
                     WIDTH="142"
-                    HEIGHT="61"
-                    WC="0.9417433142662048"></String>
+                    HEIGHT="61"></String>
           </TextLine>
           <TextLine ID="eSc_line_1f857d76"
                     TAGREFS="LT8"

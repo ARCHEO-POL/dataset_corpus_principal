@@ -22,6 +22,29 @@
                   VPOS="0"
                   WIDTH="1132"
                   HEIGHT="1824">
+        <TextBlock HPOS="458.0"
+                   VPOS="146.0"
+                   WIDTH="41.0"
+                   HEIGHT="41.0"
+                   ID="eSc_textblock_3a72bec7"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="458 146 458 187 499 187 499 146"/></Shape>
+          <TextLine ID="eSc_line_cfee130c"
+                    TAGREFS="LT8"
+                    BASELINE="463 174 491 174" 
+                    HPOS="463.0"
+                    VPOS="145.0"
+                    WIDTH="28.0"
+                    HEIGHT="45.0">
+            <Shape><Polygon POINTS="483 147 473 146 470 145 463 145 463 174 463 185 490 190 491 174 490 147 483 147"/></Shape>
+	    <String CONTENT="65"
+                    HPOS="463.0"
+                    VPOS="145.0"
+                    WIDTH="28.0"
+                    HEIGHT="45.0"
+                    WC="0.9999698996543884"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="42.0"
                    VPOS="183.0"
                    WIDTH="857.0"
@@ -510,27 +533,27 @@
                     WC="0.9931095534441422"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="458.0"
-                   VPOS="146.0"
-                   WIDTH="41.0"
-                   HEIGHT="41.0"
-                   ID="eSc_textblock_3a72bec7"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="458 146 458 187 499 187 499 146"/></Shape>
-          <TextLine ID="eSc_line_cfee130c"
+        <TextBlock HPOS="687.0"
+                   VPOS="1729.0"
+                   WIDTH="29.0"
+                   HEIGHT="42.0"
+                   ID="eSc_textblock_fa199515"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="687 1729 687 1771 716 1771 716 1729"/></Shape>
+          <TextLine ID="eSc_line_888208c8"
                     TAGREFS="LT8"
-                    BASELINE="463 174 491 174" 
-                    HPOS="463.0"
-                    VPOS="145.0"
-                    WIDTH="28.0"
-                    HEIGHT="45.0">
-            <Shape><Polygon POINTS="483 147 473 146 470 145 463 145 463 174 463 185 490 190 491 174 490 147 483 147"/></Shape>
-	    <String CONTENT="65"
-                    HPOS="463.0"
-                    VPOS="145.0"
-                    WIDTH="28.0"
-                    HEIGHT="45.0"
-                    WC="0.9999698996543884"></String>
+                    BASELINE="699 1763 706 1763" 
+                    HPOS="699.0"
+                    VPOS="1725.0"
+                    WIDTH="7.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="699 1763 699 1797 706 1797 706 1763 704 1725 699 1726 699 1763"/></Shape>
+	    <String CONTENT="I"
+                    HPOS="699.0"
+                    VPOS="1725.0"
+                    WIDTH="7.0"
+                    HEIGHT="72.0"
+                    WC="0.9990228414535522"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="890.0"
@@ -742,29 +765,6 @@
                     WIDTH="145.0"
                     HEIGHT="60.0"
                     WC="0.9510206580162048"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="687.0"
-                   VPOS="1729.0"
-                   WIDTH="29.0"
-                   HEIGHT="42.0"
-                   ID="eSc_textblock_fa199515"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="687 1729 687 1771 716 1771 716 1729"/></Shape>
-          <TextLine ID="eSc_line_888208c8"
-                    TAGREFS="LT8"
-                    BASELINE="699 1763 706 1763" 
-                    HPOS="699.0"
-                    VPOS="1725.0"
-                    WIDTH="7.0"
-                    HEIGHT="72.0">
-            <Shape><Polygon POINTS="699 1763 699 1797 706 1797 706 1763 704 1725 699 1726 699 1763"/></Shape>
-	    <String CONTENT="I"
-                    HPOS="699.0"
-                    VPOS="1725.0"
-                    WIDTH="7.0"
-                    HEIGHT="72.0"
-                    WC="0.9990228414535522"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -22,6 +22,28 @@
                   VPOS="0"
                   WIDTH="1132"
                   HEIGHT="1824">
+        <TextBlock HPOS="463.0"
+                   VPOS="158.0"
+                   WIDTH="49.0"
+                   HEIGHT="41.0"
+                   ID="eSc_textblock_d2e3afbb"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="463 158 463 199 512 199 512 158"/></Shape>
+          <TextLine ID="eSc_line_d4f5869d"
+                    TAGREFS="LT8"
+                    BASELINE="472 193 505 186" 
+                    HPOS="464"
+                    VPOS="158"
+                    WIDTH="41"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="496 158 479 158 464 158 471 191 473 203 505 197 503 185 496 158 496 158"/></Shape>
+	    <String CONTENT="71"
+                    HPOS="464"
+                    VPOS="158"
+                    WIDTH="41"
+                    HEIGHT="45"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="69"
                    VPOS="194"
                    WIDTH="833"
@@ -97,12 +119,11 @@
                     WIDTH="822"
                     HEIGHT="52">
             <Shape><Polygon POINTS="76 424 74 432 163 440 164 440 240 434 318 434 319 434 326 439 327 439 328 439 329 439 330 439 347 434 349 434 351 434 385 441 386 441 387 441 401 435 424 441 425 441 426 442 472 442 472 441 473 441 474 441 484 435 486 435 517 441 518 441 519 441 539 435 542 435 615 435 619 436 637 442 638 442 639 442 895 437 896 427 895 403 833 403 831 401 819 393 818 393 817 393 793 393 792 393 791 393 772 401 770 401 624 402 608 398 586 392 585 392 521 392 520 392 519 392 507 396 494 401 468 396 467 396 466 396 465 396 464 396 456 401 405 396 404 396 403 396 387 400 374 395 373 395 372 395 371 395 358 401 342 394 336 391 335 391 334 391 333 391 326 394 310 399 297 395 296 395 295 395 294 395 283 401 219 401 163 391 161 391 160 391 159 391 158 391 143 400 76 390 76 424"/></Shape>
-	    <String CONTENT="leurſerment: &amp; ne reçoi ce dire commun, Fran¬"
+	    <String CONTENT="leur ſerment: &amp; ne reçoi ce dire commun, Fran¬"
                     HPOS="74"
                     VPOS="390"
                     WIDTH="822"
-                    HEIGHT="52"
-                    WC="0.976724158162656"></String>
+                    HEIGHT="52"></String>
           </TextLine>
           <TextLine ID="eSc_line_563eb345"
                     TAGREFS="LT8"
@@ -358,29 +379,6 @@
                     WIDTH="189"
                     HEIGHT="46"
                     WC="0.9589469254016876"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="463.0"
-                   VPOS="158.0"
-                   WIDTH="49.0"
-                   HEIGHT="41.0"
-                   ID="eSc_textblock_d2e3afbb"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="463 158 463 199 512 199 512 158"/></Shape>
-          <TextLine ID="eSc_line_d4f5869d"
-                    TAGREFS="LT8"
-                    BASELINE="472 193 505 186" 
-                    HPOS="464"
-                    VPOS="158"
-                    WIDTH="41"
-                    HEIGHT="45">
-            <Shape><Polygon POINTS="496 158 479 158 464 158 471 191 473 203 505 197 503 185 496 158 496 158"/></Shape>
-	    <String CONTENT="X."
-                    HPOS="464"
-                    VPOS="158"
-                    WIDTH="41"
-                    HEIGHT="45"
-                    WC="0.6223363503813744"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="74"

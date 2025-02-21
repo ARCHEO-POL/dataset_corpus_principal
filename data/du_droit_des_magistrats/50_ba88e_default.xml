@@ -22,6 +22,28 @@
                   VPOS="0"
                   WIDTH="1132"
                   HEIGHT="1824">
+        <TextBlock HPOS="410.0"
+                   VPOS="146.0"
+                   WIDTH="61.0"
+                   HEIGHT="50.0"
+                   ID="eSc_textblock_52af8a55"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="410 146 410 196 471 196 471 146"/></Shape>
+          <TextLine ID="eSc_line_c85ea2b2"
+                    TAGREFS="LT8"
+                    BASELINE="429 195 461 186" 
+                    HPOS="426.0"
+                    VPOS="162.0"
+                    WIDTH="35.0"
+                    HEIGHT="37.0">
+            <Shape><Polygon POINTS="441 188 426 191 427 194 429 199 461 191 459 185 447 162 436 170 441 188"/></Shape>
+	    <String CONTENT="51"
+                    HPOS="426.0"
+                    VPOS="162.0"
+                    WIDTH="35.0"
+                    HEIGHT="37.0"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="21.0"
                    VPOS="195.0"
                    WIDTH="854.0"
@@ -508,29 +530,6 @@
                     WIDTH="816.0"
                     HEIGHT="59.0"
                     WC="0.9982906294365724"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="410.0"
-                   VPOS="146.0"
-                   WIDTH="61.0"
-                   HEIGHT="50.0"
-                   ID="eSc_textblock_52af8a55"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="410 146 410 196 471 196 471 146"/></Shape>
-          <TextLine ID="eSc_line_c85ea2b2"
-                    TAGREFS="LT8"
-                    BASELINE="429 195 461 186" 
-                    HPOS="426.0"
-                    VPOS="162.0"
-                    WIDTH="35.0"
-                    HEIGHT="37.0">
-            <Shape><Polygon POINTS="441 188 426 191 427 194 429 199 461 191 459 185 447 162 436 170 441 188"/></Shape>
-	    <String CONTENT="1"
-                    HPOS="426.0"
-                    VPOS="162.0"
-                    WIDTH="35.0"
-                    HEIGHT="37.0"
-                    WC="0.999336302280426"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="613.0"

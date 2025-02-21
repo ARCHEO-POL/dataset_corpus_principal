@@ -22,6 +22,29 @@
                   VPOS="0"
                   WIDTH="1132"
                   HEIGHT="1824">
+        <TextBlock HPOS="650.0"
+                   VPOS="130.0"
+                   WIDTH="75.0"
+                   HEIGHT="50.0"
+                   ID="eSc_textblock_f7c1793e"
+                   TAGREFS="BT2585">
+          <Shape><Polygon POINTS="650 130 650 180 725 180 725 130"/></Shape>
+          <TextLine ID="eSc_line_1bb685db"
+                    TAGREFS="LT8"
+                    BASELINE="657 169 717 169" 
+                    HPOS="657.0"
+                    VPOS="137.0"
+                    WIDTH="60.0"
+                    HEIGHT="51.0">
+            <Shape><Polygon POINTS="709 138 701 137 698 137 688 137 677 141 667 146 659 149 657 169 657 185 684 188 685 188 717 180 717 169 717 145 709 138"/></Shape>
+	    <String CONTENT="46"
+                    HPOS="657.0"
+                    VPOS="137.0"
+                    WIDTH="60.0"
+                    HEIGHT="51.0"
+                    WC="0.9999845623970032"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="256.0"
                    VPOS="180.0"
                    WIDTH="853.0"
@@ -508,29 +531,6 @@
                     WIDTH="823.0"
                     HEIGHT="65.0"
                     WC="0.9944864207384537"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="650.0"
-                   VPOS="130.0"
-                   WIDTH="75.0"
-                   HEIGHT="50.0"
-                   ID="eSc_textblock_f7c1793e"
-                   TAGREFS="BT2585">
-          <Shape><Polygon POINTS="650 130 650 180 725 180 725 130"/></Shape>
-          <TextLine ID="eSc_line_1bb685db"
-                    TAGREFS="LT8"
-                    BASELINE="657 169 717 169" 
-                    HPOS="657.0"
-                    VPOS="137.0"
-                    WIDTH="60.0"
-                    HEIGHT="51.0">
-            <Shape><Polygon POINTS="709 138 701 137 698 137 688 137 677 141 667 146 659 149 657 169 657 185 684 188 685 188 717 180 717 169 717 145 709 138"/></Shape>
-	    <String CONTENT="46"
-                    HPOS="657.0"
-                    VPOS="137.0"
-                    WIDTH="60.0"
-                    HEIGHT="51.0"
-                    WC="0.9999845623970032"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
