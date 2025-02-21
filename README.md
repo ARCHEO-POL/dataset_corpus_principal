@@ -137,9 +137,12 @@ This repository contains a directory called dataset_corpus_principal, which brin
 | Iunius Brutus, Stephanus | [De La Puissance Legitime du Prince] (https://doi.org/10.3931/e-rara-6435) | 1581     | Geneva   | s.n. | L. Paoli     |   |
 ```
 
-|``` | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
+```
+| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| de Coras,  Jean | Question Politique | 1569 | Berne  | s.n. | A. Bianco     | A. Bianco      |``` 
+| Jean de Coras | Question Politique | 1569    | Berne   | s.n. | A.Bianco    | A.Bianco  |
+```
+
 
 |```| Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
