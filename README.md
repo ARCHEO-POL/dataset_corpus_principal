@@ -22,12 +22,12 @@ This repository contains a directory called dataset_corpus_principal, which brin
 ```
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| Iunius Brutus, Stephanus | [De La Puissance Legitime du Prince] (https://doi.org/10.3931/e-rara-6435) | 1581     | Geneva   | s.n. | L. Paoli     |   |
+| Iunius Brutus, Stephanus | [*De La Puissance Legitime du Prince*] (https://doi.org/10.3931/e-rara-6435) | 1581     | Geneva   | s.n. | L. Paoli     |   |
 ```
 ```
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| Jean de Coras | Question Politique | 1569    | Berne   | s.n. | A.Bianco    | A.Bianco  |
+| Jean de Coras | *Question Politique* | 1569    | Berne   | s.n. | A.Bianco    | A.Bianco  |
 ```
 ```
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
@@ -37,13 +37,13 @@ This repository contains a directory called dataset_corpus_principal, which brin
 ```
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| Hotman François | [La Francogallia] (https://www.digitale-sammlungen.de/en/view/bsb10177492?page=4,5) | 1573     | Munich| Jacob Stoer | L.Paoli     |   |
+| Hotman François | [*La Francogallia*] (https://www.digitale-sammlungen.de/en/view/bsb10177492?page=4,5) | 1573     | Munich| Jacob Stoer | L.Paoli     |   |
 ```
 
 ```
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| s.n | [Le Politique. Dialogue traittant de la puissance, authorité, & du devoir des Princese] (http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ22450210X) | 1576     | s.n | Heinrich Wolf | A.Bianco     |   |
+| s.n | [Le Politique. *Dialogue traittant de la puissance, authorité, & du devoir des Princese*] (http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ22450210X) | 1576     | s.n | Heinrich Wolf | A.Bianco     |   |
 ```
 
 
