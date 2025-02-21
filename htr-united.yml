@@ -187,7 +187,7 @@ time:
 title: 'Archeo-pol : Corpus principal'
 url: https://github.com/ARCHEO-POL/dataset_corpus_principal
 volume:
-- count: 1190524
+- count: 1190539
   metric: characters
 - count: 1198
   metric: files
