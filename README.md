@@ -76,11 +76,11 @@ Le dossier dataset_corpus_principal contient les sous-dossiers suivants :
 
     du_droit_des_magistrats
         Segmenté en pages.
-        Non transcrit.
+        Transcrit.
         Pour chaque page :
             un fichier image (.jpg ou .png),
-            un fichier .xml vide ou non complété.
-
+            un fichier .xml contenant la transcription.
+            
     la_gaule_francoise
         Segmenté en pages.
         Transcrit (fichiers XML complets ou partiels).
