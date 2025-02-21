@@ -32,7 +32,7 @@ This repository contains a directory called dataset_corpus_principal, which brin
 ```
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| de Coras,  Jean | [_Question Politique_] (https://books.google.ch/books?id=7cLTKl76iJsC&pg=PA355) | 1570     | London   | Barthélemy Berton | A. Bianco     | A. Bianco      |
+| Jean de Coras | [_Question Politique_] (https://books.google.ch/books?id=7cLTKl76iJsC&pg=PA355) | 1570     | London   | Barthélemy Berton | A. Bianco     | A. Bianco      |
 ```
 
 ## How to cite
