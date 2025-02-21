@@ -21,22 +21,6 @@
                   VPOS="0"
                   WIDTH="1680"
                   HEIGHT="2408">
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="line_0"
-                    TAGREFS="LT8"
-                    BASELINE="244 2244 271 2244" 
-                    HPOS="244.0"
-                    VPOS="2180.0"
-                    WIDTH="27.0"
-                    HEIGHT="154.0">
-            <Shape><Polygon POINTS="244 2244 244 2334 271 2334 271 2244 271 2180 244 2180 244 2244"/></Shape>
-	    <String CONTENT=""
-                    HPOS="244.0"
-                    VPOS="2180.0"
-                    WIDTH="27.0"
-                    HEIGHT="154.0"></String>
-          </TextLine>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

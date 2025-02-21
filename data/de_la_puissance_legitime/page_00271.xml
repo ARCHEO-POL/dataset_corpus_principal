@@ -28,6 +28,32 @@
                    ID="block_0"
                    TAGREFS="BT2521">
           <Shape><Polygon POINTS="349 1890 349 1992 349 2177 154 2177 154 1889"/></Shape>
+          <TextLine ID="eSc_line_ef3ee4a8"
+                    TAGREFS="LT8"
+                    BASELINE="316 2016 181 2013" 
+                    HPOS="181"
+                    VPOS="2013"
+                    WIDTH="135"
+                    HEIGHT="3">
+	    <String CONTENT=""
+                    HPOS="181"
+                    VPOS="2013"
+                    WIDTH="135"
+                    HEIGHT="3"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0571a3d6"
+                    TAGREFS="LT8"
+                    BASELINE="191 2140 329 2140" 
+                    HPOS="191"
+                    VPOS="2140"
+                    WIDTH="138"
+                    HEIGHT="0">
+	    <String CONTENT=""
+                    HPOS="191"
+                    VPOS="2140"
+                    WIDTH="138"
+                    HEIGHT="0"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
