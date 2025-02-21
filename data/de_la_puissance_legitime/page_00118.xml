@@ -453,8 +453,7 @@
                     HPOS="298"
                     VPOS="1706"
                     WIDTH="213"
-                    HEIGHT="72"
-                    WC="0.9995022118091583"></String>
+                    HEIGHT="72"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="633.0"
@@ -525,12 +524,11 @@
                     WIDTH="129"
                     HEIGHT="79">
             <Shape><Polygon POINTS="129 1924 128 1954 255 1963 257 1928 256 1892 217 1896 211 1892 202 1885 200 1885 199 1885 151 1884 150 1884 149 1884 129 1891 129 1924"/></Shape>
-	    <String CONTENT="Estats."
+	    <String CONTENT="Estats avec à sa tête Lorenzo Paoli le 3ème."
                     HPOS="128"
                     VPOS="1884"
                     WIDTH="129"
-                    HEIGHT="79"
-                    WC="0.9977347765650068"></String>
+                    HEIGHT="79"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="310.0"
