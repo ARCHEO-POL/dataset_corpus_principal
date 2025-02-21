@@ -47,14 +47,7 @@ This repository contains a directory called dataset_corpus_principal, which brin
 <a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg" /></a><br /> 
 
 
-Droits
-
-Licence Creative Commons
-This work is licensed under a Creative Commons Attribution 4.0 International Licence.
-  
-
-
-Contributeurs
+## Contributeurs
 
     Alyzé Bianco
     Nicolas Champeaux    
