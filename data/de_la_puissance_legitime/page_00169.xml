@@ -517,21 +517,6 @@
                     HEIGHT="70.0"
                     WC="0.9854981316761537"></String>
           </TextLine>
-          <TextLine ID="eSc_line_f5fcd4b2"
-                    TAGREFS="LT8"
-                    BASELINE="1088 1875 1232 1876" 
-                    HPOS="1086.0"
-                    VPOS="1796.0"
-                    WIDTH="144.0"
-                    HEIGHT="123.0">
-            <Shape><Polygon POINTS="1086 1874 1086 1919 1230 1899 1230 1874 1228 1796 1086 1808 1086 1874"/></Shape>
-	    <String CONTENT="Geneſas"
-                    HPOS="1086.0"
-                    VPOS="1796.0"
-                    WIDTH="144.0"
-                    HEIGHT="123.0"
-                    WC="0.9340934412819999"></String>
-          </TextLine>
           <TextLine ID="line_31"
                     TAGREFS="LT8"
                     BASELINE="77 1934 476 1935 1073 1936" 
@@ -570,6 +555,21 @@
                    ID="eSc_textblock_d9403656"
                    TAGREFS="BT2519">
           <Shape><Polygon POINTS="1082 1827 1082 1907 1245 1907 1245 1827"/></Shape>
+          <TextLine ID="eSc_line_f5fcd4b2"
+                    TAGREFS="LT8"
+                    BASELINE="1088 1875 1232 1876" 
+                    HPOS="1086"
+                    VPOS="1796"
+                    WIDTH="144"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="1086 1919 1230 1899 1230 1874 1228 1796 1086 1808 1086 1874"/></Shape>
+	    <String CONTENT="Geneſas"
+                    HPOS="1086"
+                    VPOS="1796"
+                    WIDTH="144"
+                    HEIGHT="123"
+                    WC="0.9340934412819999"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

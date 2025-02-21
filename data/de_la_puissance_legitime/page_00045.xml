@@ -638,19 +638,19 @@
                     HEIGHT="82"
                     WC="0.998192412512643"></String>
           </TextLine>
-          <TextLine ID="eSc_line_966c5447"
+          <TextLine ID="eSc_line_24e41157"
                     TAGREFS="LT8"
-                    BASELINE="1082 1321 1100 1318 1215 1319" 
-                    HPOS="1079"
-                    VPOS="1304"
-                    WIDTH="5"
-                    HEIGHT="33">
-            <Shape><Polygon POINTS="1079 1304 1080 1319 1080 1337 1084 1337"/></Shape>
-	    <String CONTENT=""
-                    HPOS="1079"
-                    VPOS="1304"
-                    WIDTH="5"
-                    HEIGHT="33"></String>
+                    BASELINE="1086 1325 1200 1324" 
+                    HPOS="1084"
+                    VPOS="1274"
+                    WIDTH="115"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1084 1323 1084 1339 1199 1337 1199 1323 1199 1284 1160 1274 1158 1274 1156 1274 1084 1284 1084 1323"/></Shape>
+	    <String CONTENT="au I.liu."
+                    HPOS="1084"
+                    VPOS="1274"
+                    WIDTH="115"
+                    HEIGHT="65"></String>
           </TextLine>
           <TextLine ID="line_36"
                     TAGREFS="LT8"

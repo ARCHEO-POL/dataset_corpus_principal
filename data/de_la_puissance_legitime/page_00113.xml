@@ -388,36 +388,6 @@
                     HEIGHT="88.0"
                     WC="0.9995389550924301"></String>
           </TextLine>
-          <TextLine ID="eSc_line_66e7abfd"
-                    TAGREFS="LT8"
-                    BASELINE="1119 1564 1238 1562" 
-                    HPOS="1116"
-                    VPOS="1511"
-                    WIDTH="121"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="1118 1562 1118 1578 1237 1576 1237 1560 1231 1511 1116 1521 1118 1562"/></Shape>
-	    <String CONTENT="Herod."
-                    HPOS="1116"
-                    VPOS="1511"
-                    WIDTH="121"
-                    HEIGHT="67"
-                    WC="0.9999123414357504"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_941c5bcd"
-                    TAGREFS="LT8"
-                    BASELINE="1119 1616 1208 1610" 
-                    HPOS="1114"
-                    VPOS="1568"
-                    WIDTH="92"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="1118 1615 1118 1632 1206 1638 1206 1609 1202 1568 1114 1568 1118 1615"/></Shape>
-	    <String CONTENT="liu.8."
-                    HPOS="1114"
-                    VPOS="1568"
-                    WIDTH="92"
-                    HEIGHT="70"
-                    WC="0.9619106948375702"></String>
-          </TextLine>
           <TextLine ID="line_26"
                     TAGREFS="LT8"
                     BASELINE="101 1639 995 1624 1109 1617" 
@@ -578,6 +548,44 @@
                     WC="0.9757321505319505"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="1115.0"
+                   VPOS="1523.0"
+                   WIDTH="135.0"
+                   HEIGHT="105.0"
+                   ID="eSc_textblock_2c8f7581"
+                   TAGREFS="BT2519">
+          <Shape><Polygon POINTS="1115 1523 1115 1628 1250 1628 1250 1523"/></Shape>
+          <TextLine ID="eSc_line_66e7abfd"
+                    TAGREFS="LT8"
+                    BASELINE="1119 1564 1238 1562" 
+                    HPOS="1116"
+                    VPOS="1511"
+                    WIDTH="121"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1118 1578 1237 1576 1237 1560 1231 1511 1116 1521 1118 1562"/></Shape>
+	    <String CONTENT="Herod."
+                    HPOS="1116"
+                    VPOS="1511"
+                    WIDTH="121"
+                    HEIGHT="67"
+                    WC="0.9999123414357504"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_941c5bcd"
+                    TAGREFS="LT8"
+                    BASELINE="1119 1616 1208 1610" 
+                    HPOS="1114"
+                    VPOS="1568"
+                    WIDTH="92"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1118 1632 1206 1638 1206 1609 1202 1568 1114 1568 1118 1615"/></Shape>
+	    <String CONTENT="liu.8."
+                    HPOS="1114"
+                    VPOS="1568"
+                    WIDTH="92"
+                    HEIGHT="70"
+                    WC="0.9619106948375702"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="877.0"
                    VPOS="2006.0"
                    WIDTH="103.0"
@@ -600,14 +608,6 @@
                     HEIGHT="90.0"
                     WC="0.9987407922744751"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1115.0"
-                   VPOS="1523.0"
-                   WIDTH="135.0"
-                   HEIGHT="105.0"
-                   ID="eSc_textblock_2c8f7581"
-                   TAGREFS="BT2519">
-          <Shape><Polygon POINTS="1115 1523 1115 1628 1250 1628 1250 1523"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

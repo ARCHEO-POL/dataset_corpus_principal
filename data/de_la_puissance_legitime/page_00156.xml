@@ -284,20 +284,19 @@
                     HEIGHT="76"
                     WC="0.9970374834246751"></String>
           </TextLine>
-          <TextLine ID="eSc_line_2c20714c"
+          <TextLine ID="eSc_line_d6a0f936"
                     TAGREFS="LT8"
-                    BASELINE="364 994 1372 987" 
-                    HPOS="360"
-                    VPOS="935"
-                    WIDTH="1010"
-                    HEIGHT="83">
-            <Shape><Polygon POINTS="362 993 362 1009 543 1018 579 1009 610 1018 643 1007 853 1017 939 1005 1076 1015 1140 1003 1230 1003 1245 1013 1347 1003 1362 1013 1370 985 1368 944 1351 935 1187 944 1128 935 1113 946 1099 937 1011 946 1002 937 912 937 855 948 610 939 555 950 391 941 360 952 362 993"/></Shape>
-	    <String CONTENT="qui aura tué ſon fils, que le fils qui aura meur¬"
-                    HPOS="360"
-                    VPOS="935"
-                    WIDTH="1010"
-                    HEIGHT="83"
-                    WC="0.9888678658008575"></String>
+                    BASELINE="369 1005 1363 994" 
+                    HPOS="366"
+                    VPOS="933"
+                    WIDTH="996"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="368 1003 370 1022 413 1011 553 1020 569 1009 920 1017 939 1007 1076 1015 1232 1003 1358 1013 1362 993 1360 944 1323 933 1315 933 1304 944 1236 935 1187 944 1158 933 1121 946 1078 935 1021 946 965 935 898 948 697 939 668 950 598 939 469 952 391 941 366 952 368 1003"/></Shape>
+	    <String CONTENT="qui aura tué son fils, que le fils qui aura meur -"
+                    HPOS="366"
+                    VPOS="933"
+                    WIDTH="996"
+                    HEIGHT="89"></String>
           </TextLine>
           <TextLine ID="line_14"
                     TAGREFS="LT8"
@@ -666,20 +665,6 @@
                     WIDTH="78.0"
                     HEIGHT="78.0"
                     WC="0.9450996816158295"></String>
-          </TextLine>
-          <TextLine ID="line_13"
-                    TAGREFS="LT8"
-                    BASELINE="354 994 355 994" 
-                    HPOS="352"
-                    VPOS="972"
-                    WIDTH="2"
-                    HEIGHT="23">
-            <Shape><Polygon POINTS="352 993 354 995 354 993 354 972 352 972 352 993"/></Shape>
-	    <String CONTENT=""
-                    HPOS="352"
-                    VPOS="972"
-                    WIDTH="2"
-                    HEIGHT="23"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="692.0"

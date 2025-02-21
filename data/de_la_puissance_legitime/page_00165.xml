@@ -608,21 +608,6 @@
                    ID="block_2"
                    TAGREFS="BT2519">
           <Shape><Polygon POINTS="1304 1128 1294 2003 1134 2011 1127 1133"/></Shape>
-          <TextLine ID="eSc_line_56782654"
-                    TAGREFS="LT8"
-                    BASELINE="1129 1939 1150 1941 1275 1939" 
-                    HPOS="1126"
-                    VPOS="1899"
-                    WIDTH="147"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="1128 1938 1128 1969 1273 1969 1273 1938 1267 1899 1126 1903 1128 1938"/></Shape>
-	    <String CONTENT="rebus eo¬"
-                    HPOS="1126"
-                    VPOS="1899"
-                    WIDTH="147"
-                    HEIGHT="70"
-                    WC="0.9998360209994845"></String>
-          </TextLine>
           <TextLine ID="eSc_line_9ab99b29"
                     TAGREFS="LT8"
                     BASELINE="1133 1166 1290 1169" 
@@ -637,21 +622,6 @@
                     WIDTH="158"
                     HEIGHT="66"
                     WC="0.9948326945304871"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_b54300ad"
-                    TAGREFS="LT8"
-                    BASELINE="1129 1993 1215 1992" 
-                    HPOS="1128"
-                    VPOS="1961"
-                    WIDTH="86"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="1128 1991 1128 2014 1212 2022 1214 1991 1214 1961 1128 1961 1128 1991"/></Shape>
-	    <String CONTENT="rum."
-                    HPOS="1128"
-                    VPOS="1961"
-                    WIDTH="86"
-                    HEIGHT="61"
-                    WC="0.9988523870706558"></String>
           </TextLine>
           <TextLine ID="eSc_line_cc1e0b6e"
                     TAGREFS="LT8"
@@ -833,20 +803,19 @@
                     HEIGHT="74"
                     WC="0.9993103086948395"></String>
           </TextLine>
-          <TextLine ID="line_41"
+          <TextLine ID="eSc_line_35b80232"
                     TAGREFS="LT8"
-                    BASELINE="1134 1802 1171 1797 1275 1798" 
-                    HPOS="1133.0"
-                    VPOS="1765.0"
-                    WIDTH="142.0"
-                    HEIGHT="50.0">
-            <Shape><Polygon POINTS="1134 1802 1134 1813 1194 1815 1195 1815 1197 1815 1198 1815 1204 1810 1207 1809 1217 1810 1255 1815 1256 1815 1258 1815 1275 1808 1275 1798 1273 1771 1159 1765 1158 1765 1156 1765 1133 1771 1134 1802"/></Shape>
-	    <String CONTENT="viarum."
-                    HPOS="1133.0"
-                    VPOS="1765.0"
-                    WIDTH="142.0"
-                    HEIGHT="50.0"
-                    WC="0.9961017966270447"></String>
+                    BASELINE="1136 1809 1287 1809" 
+                    HPOS="1134"
+                    VPOS="1763"
+                    WIDTH="152"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1134 1821 1286 1821 1286 1808 1286 1774 1161 1763 1160 1763 1158 1763 1134 1772 1134 1808"/></Shape>
+	    <String CONTENT="viarum"
+                    HPOS="1134"
+                    VPOS="1763"
+                    WIDTH="152"
+                    HEIGHT="58"></String>
           </TextLine>
           <TextLine ID="line_42"
                     TAGREFS="LT8"
@@ -871,11 +840,41 @@
                     WIDTH="2.0"
                     HEIGHT="63.0">
             <Shape><Polygon POINTS="1128 1854 1128 1854 1129 1895 1129 1917 1130 1917"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="puto D.de"
                     HPOS="1128.0"
                     VPOS="1854.0"
                     WIDTH="2.0"
                     HEIGHT="63.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_56782654"
+                    TAGREFS="LT8"
+                    BASELINE="1129 1939 1150 1941 1275 1939" 
+                    HPOS="1126"
+                    VPOS="1899"
+                    WIDTH="147"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1128 1938 1128 1969 1273 1969 1273 1938 1267 1899 1126 1903 1128 1938"/></Shape>
+	    <String CONTENT="rebus eo¬"
+                    HPOS="1126"
+                    VPOS="1899"
+                    WIDTH="147"
+                    HEIGHT="70"
+                    WC="0.9998360209994845"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b54300ad"
+                    TAGREFS="LT8"
+                    BASELINE="1129 1993 1215 1992" 
+                    HPOS="1128"
+                    VPOS="1961"
+                    WIDTH="86"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1128 1991 1128 2014 1212 2022 1214 1991 1214 1961 1128 1961 1128 1991"/></Shape>
+	    <String CONTENT="rum."
+                    HPOS="1128"
+                    VPOS="1961"
+                    WIDTH="86"
+                    HEIGHT="61"
+                    WC="0.9988523870706558"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="876.0"

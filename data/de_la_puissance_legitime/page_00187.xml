@@ -434,21 +434,6 @@
                     HEIGHT="82.0"
                     WC="0.9956686554885492"></String>
           </TextLine>
-          <TextLine ID="eSc_line_24688fbf"
-                    TAGREFS="LT8"
-                    BASELINE="1102 1621 1258 1621" 
-                    HPOS="1101.0"
-                    VPOS="1568.0"
-                    WIDTH="156.0"
-                    HEIGHT="82.0">
-            <Shape><Polygon POINTS="1101 1619 1101 1650 1194 1638 1255 1650 1257 1619 1255 1568 1177 1580 1101 1570 1101 1619"/></Shape>
-	    <String CONTENT="Specul Sa"
-                    HPOS="1101.0"
-                    VPOS="1568.0"
-                    WIDTH="156.0"
-                    HEIGHT="82.0"
-                    WC="0.9734400510787964"></String>
-          </TextLine>
           <TextLine ID="line_27"
                     TAGREFS="LT8"
                     BASELINE="88 1695 848 1685 1084 1676" 
@@ -464,21 +449,6 @@
                     HEIGHT="78.0"
                     WC="0.9968498391764504"></String>
           </TextLine>
-          <TextLine ID="eSc_line_9d5b8811"
-                    TAGREFS="LT8"
-                    BASELINE="1105 1672 1252 1669" 
-                    HPOS="1101.0"
-                    VPOS="1632.0"
-                    WIDTH="150.0"
-                    HEIGHT="59.0">
-            <Shape><Polygon POINTS="1103 1671 1103 1691 1251 1683 1251 1667 1245 1632 1101 1638 1103 1671"/></Shape>
-	    <String CONTENT="xonic. lib."
-                    HPOS="1101.0"
-                    VPOS="1632.0"
-                    WIDTH="150.0"
-                    HEIGHT="59.0"
-                    WC="0.9952885671095415"></String>
-          </TextLine>
           <TextLine ID="line_28"
                     TAGREFS="LT8"
                     BASELINE="87 1758 1071 1741 1084 1737" 
@@ -493,21 +463,6 @@
                     WIDTH="1000.0"
                     HEIGHT="83.0"
                     WC="0.9995508426573219"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_2d6fc6cd"
-                    TAGREFS="LT8"
-                    BASELINE="1101 1725 1143 1723 1237 1722" 
-                    HPOS="1097.0"
-                    VPOS="1681.0"
-                    WIDTH="138.0"
-                    HEIGHT="64.0">
-            <Shape><Polygon POINTS="1099 1724 1099 1745 1235 1739 1235 1720 1231 1691 1175 1681 1173 1681 1097 1693 1099 1724"/></Shape>
-	    <String CONTENT="3.art.54."
-                    HPOS="1097.0"
-                    VPOS="1681.0"
-                    WIDTH="138.0"
-                    HEIGHT="64.0"
-                    WC="0.9974041647381253"></String>
           </TextLine>
           <TextLine ID="line_29"
                     TAGREFS="LT8"
@@ -600,6 +555,51 @@
                    ID="eSc_textblock_fbede991"
                    TAGREFS="BT2519">
           <Shape><Polygon POINTS="1097 1592 1097 1750 1203 1750 1259 1750 1259 1592"/></Shape>
+          <TextLine ID="eSc_line_24688fbf"
+                    TAGREFS="LT8"
+                    BASELINE="1102 1621 1258 1621" 
+                    HPOS="1101"
+                    VPOS="1568"
+                    WIDTH="156"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1101 1650 1194 1638 1255 1650 1257 1619 1255 1568 1177 1580 1101 1570 1101 1619"/></Shape>
+	    <String CONTENT="Specul Sa"
+                    HPOS="1101"
+                    VPOS="1568"
+                    WIDTH="156"
+                    HEIGHT="82"
+                    WC="0.9734400510787964"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9d5b8811"
+                    TAGREFS="LT8"
+                    BASELINE="1105 1672 1252 1669" 
+                    HPOS="1101"
+                    VPOS="1632"
+                    WIDTH="150"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1103 1691 1251 1683 1251 1667 1245 1632 1101 1638 1103 1671"/></Shape>
+	    <String CONTENT="xonic. lib."
+                    HPOS="1101"
+                    VPOS="1632"
+                    WIDTH="150"
+                    HEIGHT="59"
+                    WC="0.9952885671095415"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2d6fc6cd"
+                    TAGREFS="LT8"
+                    BASELINE="1101 1725 1143 1723 1237 1722" 
+                    HPOS="1097"
+                    VPOS="1681"
+                    WIDTH="138"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1099 1745 1235 1739 1235 1720 1231 1691 1175 1681 1173 1681 1097 1693 1099 1724"/></Shape>
+	    <String CONTENT="3.art.54."
+                    HPOS="1097"
+                    VPOS="1681"
+                    WIDTH="138"
+                    HEIGHT="64"
+                    WC="0.9974041647381253"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
