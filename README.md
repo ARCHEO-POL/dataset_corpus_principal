@@ -47,17 +47,14 @@ This repository contains a directory called dataset_corpus_principal, which brin
 
 ## How to cite
 
+If you use this dataset, please cite it as below : Bianco, A., Champeaux, N., Paoli, L. **ARCHEO Pol : la bibliothèque monarchomaque**, version 1.0 : Genève, septembre 2025.
  
 ## Licences
 
 <a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg" /></a><br /> 
 
 
-## Contributeurs
 
-    Alyzé Bianco
-    Nicolas Champeaux    
-    Lorenzo Paoli
 
 Ce dossier fait partie du projet FNS Archéo-POL de l'IHR et est disponible sur le GitHub officiel.
 
