@@ -3,7 +3,7 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-This repository contains a directory called dataset_corpus_principal, which brings together a number of digitised old books segmented into pages. These writings are Monarchomaques, written by Calvinist jurists and theologians at the end of the 16th century who justified armed resistance to the King. Each page is associated with an image (.jpg or .png) and an XML transcription file (where applicable). Some books are fully or partially transcribed, others are not.
+This repo contains the transcription of 16th c. French prints. It contains a directory called dataset_corpus_principal, which brings together a number of digitised old books segmented into pages. These writings are Monarchomaques, written by Calvinist jurists and theologians at the end of the 16th century who justified armed resistance to the King. Each page is associated with an image (.jpg or .png) and an XML transcription file (where applicable). Some books are fully or partially transcribed, others are not.
 
 
 ## Content
