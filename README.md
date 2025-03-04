@@ -47,7 +47,7 @@ This repo contains the transcription of 16th c. French prints. It contains a dir
 
 ## How to cite
 
-If you use this dataset, please cite it as below : Bianco, A., Champeaux, N., Paoli, L. **ARCHEO Pol : la bibliothèque monarchomaque**, version 1.0 : Genève, septembre 2025.
+If you use this dataset, please cite it as below : Bianco, A., Champeaux, N., Paoli, L. **ARCHÉO-Pol : la Bibliothèque des Monarchomaques**, version 1.0 : Genève, septembre 2025.
  
 ## Licences
 
