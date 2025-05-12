@@ -25,7 +25,7 @@
                    VPOS="155.0"
                    WIDTH="670.0"
                    HEIGHT="255.0"
-                   ID="61b39a42-6ad8-4d8a-8723-539197c53d18"
+                   ID="eSc_textblock_61b39a42-6ad8-4d8a-8723-539197c53d18"
                    TAGREFS="BT3009">
           <Shape><Polygon POINTS="738 155 738 410 68 410 68 155"/></Shape>
           <TextLine ID="eSc_line_fa35c490-22f8-4a7b-9d36-7ec7c3980620"
@@ -153,7 +153,7 @@
                    VPOS="100.0"
                    WIDTH="305.0"
                    HEIGHT="50.0"
-                   ID="cd23e343-914c-4384-b71c-09e56caa0b5c"
+                   ID="eSc_textblock_cd23e343-914c-4384-b71c-09e56caa0b5c"
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="536 100 536 150 231 150 231 100"/></Shape>
           <TextLine ID="eSc_line_feb07c4f-c12e-4cb3-baec-2ccdf223da2b"
@@ -176,7 +176,7 @@
                    VPOS="406.0"
                    WIDTH="678.0"
                    HEIGHT="1013.0"
-                   ID="d032dc0b-77d0-4f01-b809-4423e647eff5"
+                   ID="eSc_textblock_d032dc0b-77d0-4f01-b809-4423e647eff5"
                    TAGREFS="BT3011">
           <Shape><Polygon POINTS="84 410 750 406 750 1419 75 1419 72 409"/></Shape>
           <TextLine ID="eSc_line_1539d9f0-06d6-4a4f-98c8-eabefeb0309a"
@@ -664,7 +664,7 @@
                    VPOS="108.0"
                    WIDTH="65.0"
                    HEIGHT="49.0"
-                   ID="48e80e23-3c1a-4345-b9a5-e321bceb6835"
+                   ID="eSc_textblock_48e80e23-3c1a-4345-b9a5-e321bceb6835"
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="731 108 731 157 666 157 666 108"/></Shape>
           <TextLine ID="eSc_line_f78b28ea-2b28-4392-bbcd-38c2ec96d467"
@@ -687,7 +687,7 @@
                    VPOS="1417.0"
                    WIDTH="76.0"
                    HEIGHT="41.0"
-                   ID="85fd5229-7689-4f46-a5bc-723659dcbdd5"
+                   ID="eSc_textblock_85fd5229-7689-4f46-a5bc-723659dcbdd5"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="660 1417 660 1458 584 1458 584 1417"/></Shape>
           <TextLine ID="eSc_line_eSc_line_98a73368"

@@ -25,7 +25,7 @@
                    VPOS="90.0"
                    WIDTH="148.0"
                    HEIGHT="35.0"
-                   ID="36bb87c7-836b-4d54-af53-5314f502a674"
+                   ID="eSc_textblock_36bb87c7-836b-4d54-af53-5314f502a674"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="248 90 248 125 100 125 100 90"/></Shape>
           <TextLine ID="eSc_line_b2cab0c2-3d73-463d-947a-9034f5f665f5"
@@ -48,7 +48,7 @@
                    VPOS="144.0"
                    WIDTH="584.0"
                    HEIGHT="1079.0"
-                   ID="06f3bea2-8c52-4087-8462-1231197cc767"
+                   ID="eSc_textblock_06f3bea2-8c52-4087-8462-1231197cc767"
                    TAGREFS="BT3009">
           <Shape><Polygon POINTS="798 144 792 1207 214 1223 222 144"/></Shape>
           <TextLine ID="eSc_line_fdf16f93-d30c-4576-ada2-d0a85a2b36f6"
@@ -656,7 +656,7 @@
                    VPOS="90.0"
                    WIDTH="241.0"
                    HEIGHT="45.0"
-                   ID="b5002f1e-7c6b-4193-bb02-30913ba1a19e"
+                   ID="eSc_textblock_b5002f1e-7c6b-4193-bb02-30913ba1a19e"
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="653 90 653 135 412 135 412 90"/></Shape>
           <TextLine ID="eSc_line_e34cd766-b297-4d73-b6d4-0ca0dfcc5c5e"
@@ -679,7 +679,7 @@
                    VPOS="1212.0"
                    WIDTH="110.0"
                    HEIGHT="36.0"
-                   ID="3da07d72-8a26-467e-9a0a-4cbc1cf196a2"
+                   ID="eSc_textblock_3da07d72-8a26-467e-9a0a-4cbc1cf196a2"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="796 1212 796 1248 686 1248 686 1213"/></Shape>
           <TextLine ID="eSc_line_104fd59e-8303-48ec-b7c8-613b32fee09d"
