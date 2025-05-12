@@ -46,35 +46,35 @@ characters:
   - ’
   - y
   - f
-  - g
   - .
   - '&'
+  - g
   - b
   - ¬
   - v
   - h
   - ́
-  - ̀
   - x
   - ̃
+  - ̀
   - R
-  - E
   - ':'
+  - E
   - I
   - C
   - A
   - z
-  - P
   - D
+  - P
   - L
   - S
   - M
-  - '-'
   - '1'
+  - '-'
   - O
   - T
-  - V
   - F
+  - V
   - G
   - '2'
   - "'"
@@ -96,38 +96,42 @@ characters:
   - '0'
   - œ
   - ̈
+  - X
   - j
   - ;
   - æ
   - '!'
-  - X
   - Z
   - ̂
   - ̨
+  - Y
   - U
   - ¶
-  - Y
   - '*'
-  - K
   - J
+  - K
   - ß
-  - k
   - ι
-  - ꝰ
+  - k
   - ο
+  - ꝰ
   - Æ
-  - 
   - ς
+  - 
   - ᑕ
   - ·
+  - η
   - ⁹
   - ᗅ
   - γ
+  - υ
+  - α
   - φ
   - σ
-  - η
   - τ
   - ɇ
+  - ͂
+  - ̓
   - /
   - ω
   - ψ
@@ -135,12 +139,10 @@ characters:
   - χ
   - θ
   - ρ
-  - α
   - δ
   - π
   - ε
   - ⟦
-  - υ
   - „
   - ']'
   - ᗞ
@@ -172,13 +174,13 @@ time:
 title: 'Archeo-pol : Corpus principal'
 url: https://github.com/ARCHEO-POL/dataset_corpus_principal
 volume:
-- count: 1423996
+- count: 1704443
   metric: characters
-- count: 1198
+- count: 1346
   metric: files
-- count: 40830
+- count: 47948
   metric: lines
 - count: 800
   metric: pages
-- count: 6524
+- count: 7576
   metric: regions
