@@ -9,7 +9,6 @@ This repo contains the transcription of 16th c. French prints. It contains a dir
 ## Content
 
 
-
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
 | de Bèze,  Théodore | [_Du droit des Magistrats sur leurs subjets_] (https://doi.org/10.3931/e-rara-1064) | 1574     | Bern  | Jacob Stoer | N. Champeaux | N. Champeaux |
@@ -49,7 +48,6 @@ This repo contains the transcription of 16th c. French prints. It contains a dir
 
 
 
-
 ## How to cite
 
 If you use this dataset, please cite it as below : Bianco, A., Champeaux, N., Paoli, L. **ARCHÉO-Pol : la Bibliothèque des Monarchomaques**, version 1.0 : Genève, septembre 2025.
@@ -57,8 +55,6 @@ If you use this dataset, please cite it as below : Bianco, A., Champeaux, N., Pa
 ## Licences
 
 <a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg" /></a><br /> 
-
-
 
 
 Ce dossier fait partie du projet FNS Archéo-POL de l'IHR et est disponible sur le GitHub officiel.
