@@ -28,7 +28,7 @@
                    ID="e488ee02-5d7e-4ddc-adf3-c83aa235c66a"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="300 96 300 137 132 137 132 96"/></Shape>
-          <TextLine ID="d3ca5ed4-4cde-4bb7-bbbe-a41cba2fa94d"
+          <TextLine ID="eSc_line_d3ca5ed4-4cde-4bb7-bbbe-a41cba2fa94d"
                     TAGREFS="LT8"
                     BASELINE="134 118 296 121" 
                     HPOS="133.0"
@@ -51,7 +51,7 @@
                    ID="199943ed-31bc-4246-aa89-dfdf70038f25"
                    TAGREFS="BT3009">
           <Shape><Polygon POINTS="938 150 938 976 269 976 269 150"/></Shape>
-          <TextLine ID="59a2c9fb-1020-40e9-ab5b-ac57c1aa7e9c"
+          <TextLine ID="eSc_line_59a2c9fb-1020-40e9-ab5b-ac57c1aa7e9c"
                     TAGREFS="LT8"
                     BASELINE="273 177 931 175" 
                     HPOS="272.0"
@@ -66,7 +66,7 @@
                     HEIGHT="43.0"
                     WC="0.9903669865043075"></String>
           </TextLine>
-          <TextLine ID="8d76111e-278d-454a-ad40-35d4bf594f9c"
+          <TextLine ID="eSc_line_8d76111e-278d-454a-ad40-35d4bf594f9c"
                     TAGREFS="LT8"
                     BASELINE="272 207 932 207" 
                     HPOS="272.0"
@@ -81,7 +81,7 @@
                     HEIGHT="42.0"
                     WC="0.9903426856364844"></String>
           </TextLine>
-          <TextLine ID="ac3b149e-332c-4429-a91d-ad5ad70f88d6"
+          <TextLine ID="eSc_line_ac3b149e-332c-4429-a91d-ad5ad70f88d6"
                     TAGREFS="LT8"
                     BASELINE="271 241 932 237" 
                     HPOS="270.0"
@@ -96,7 +96,7 @@
                     HEIGHT="47.0"
                     WC="0.992280242840449"></String>
           </TextLine>
-          <TextLine ID="52f940c9-8c1c-4732-8da0-a2b4d1f9322b"
+          <TextLine ID="eSc_line_52f940c9-8c1c-4732-8da0-a2b4d1f9322b"
                     TAGREFS="LT8"
                     BASELINE="272 271 930 269" 
                     HPOS="271.0"
@@ -111,7 +111,7 @@
                     HEIGHT="42.0"
                     WC="0.9953040863786425"></String>
           </TextLine>
-          <TextLine ID="62c6e50f-dfb6-40b0-a7c2-e23208482e4f"
+          <TextLine ID="eSc_line_62c6e50f-dfb6-40b0-a7c2-e23208482e4f"
                     TAGREFS="LT8"
                     BASELINE="273 302 930 302" 
                     HPOS="273.0"
@@ -126,7 +126,7 @@
                     HEIGHT="43.0"
                     WC="0.9940361699887684"></String>
           </TextLine>
-          <TextLine ID="ee1369da-ddb2-4d0e-af6b-77ee2caefea0"
+          <TextLine ID="eSc_line_ee1369da-ddb2-4d0e-af6b-77ee2caefea0"
                     TAGREFS="LT8"
                     BASELINE="272 334 930 330" 
                     HPOS="271.0"
@@ -141,7 +141,7 @@
                     HEIGHT="42.0"
                     WC="0.9965609113375345"></String>
           </TextLine>
-          <TextLine ID="091c893b-177a-468d-bfb1-bc5be7f23612"
+          <TextLine ID="eSc_line_091c893b-177a-468d-bfb1-bc5be7f23612"
                     TAGREFS="LT8"
                     BASELINE="271 366 932 363" 
                     HPOS="270.0"
@@ -156,7 +156,7 @@
                     HEIGHT="45.0"
                     WC="0.9955308245761054"></String>
           </TextLine>
-          <TextLine ID="fc856acb-545c-4f1a-905d-59f830aefbee"
+          <TextLine ID="eSc_line_fc856acb-545c-4f1a-905d-59f830aefbee"
                     TAGREFS="LT8"
                     BASELINE="271 397 931 397" 
                     HPOS="271.0"
@@ -171,7 +171,7 @@
                     HEIGHT="41.0"
                     WC="0.9911159958158221"></String>
           </TextLine>
-          <TextLine ID="2267a714-8cbb-44a8-9ed9-278b63ce8038"
+          <TextLine ID="eSc_line_2267a714-8cbb-44a8-9ed9-278b63ce8038"
                     TAGREFS="LT8"
                     BASELINE="271 428 929 425" 
                     HPOS="270.0"
@@ -186,7 +186,7 @@
                     HEIGHT="44.0"
                     WC="0.9947445651270309"></String>
           </TextLine>
-          <TextLine ID="07009cab-8ab3-452c-9327-139319341454"
+          <TextLine ID="eSc_line_07009cab-8ab3-452c-9327-139319341454"
                     TAGREFS="LT8"
                     BASELINE="272 461 930 458" 
                     HPOS="271.0"
@@ -201,7 +201,7 @@
                     HEIGHT="43.0"
                     WC="0.9885450073008267"></String>
           </TextLine>
-          <TextLine ID="5f74f2bc-c4f6-4f7d-88f7-208743b32cd4"
+          <TextLine ID="eSc_line_5f74f2bc-c4f6-4f7d-88f7-208743b32cd4"
                     TAGREFS="LT8"
                     BASELINE="271 493 928 490" 
                     HPOS="270.0"
@@ -216,7 +216,7 @@
                     HEIGHT="42.0"
                     WC="0.993124618574425"></String>
           </TextLine>
-          <TextLine ID="09912d87-e1d5-406f-99ec-d69a6fb94ef2"
+          <TextLine ID="eSc_line_09912d87-e1d5-406f-99ec-d69a6fb94ef2"
                     TAGREFS="LT8"
                     BASELINE="272 523 930 520" 
                     HPOS="271.0"
@@ -231,7 +231,7 @@
                     HEIGHT="45.0"
                     WC="0.9806617820849184"></String>
           </TextLine>
-          <TextLine ID="069852f6-8a42-49ff-ba8b-775428b1e8e7"
+          <TextLine ID="eSc_line_069852f6-8a42-49ff-ba8b-775428b1e8e7"
                     TAGREFS="LT8"
                     BASELINE="272 557 932 553" 
                     HPOS="271.0"
@@ -246,7 +246,7 @@
                     HEIGHT="43.0"
                     WC="0.9924737030062182"></String>
           </TextLine>
-          <TextLine ID="60419d6c-7064-4d64-b3d4-a46f88444721"
+          <TextLine ID="eSc_line_60419d6c-7064-4d64-b3d4-a46f88444721"
                     TAGREFS="LT8"
                     BASELINE="272 586 932 586" 
                     HPOS="272.0"
@@ -261,7 +261,7 @@
                     HEIGHT="37.0"
                     WC="0.9991355514526368"></String>
           </TextLine>
-          <TextLine ID="a3f93855-e5ca-4fcf-bc6b-ff002b1b544e"
+          <TextLine ID="eSc_line_a3f93855-e5ca-4fcf-bc6b-ff002b1b544e"
                     TAGREFS="LT8"
                     BASELINE="272 619 933 616" 
                     HPOS="272.0"
@@ -276,7 +276,7 @@
                     HEIGHT="44.0"
                     WC="0.9918240702758401"></String>
           </TextLine>
-          <TextLine ID="4c5793a2-e940-4d38-b0fe-ef14ef7a6e22"
+          <TextLine ID="eSc_line_4c5793a2-e940-4d38-b0fe-ef14ef7a6e22"
                     TAGREFS="LT8"
                     BASELINE="271 650 932 647" 
                     HPOS="270.0"
@@ -291,7 +291,7 @@
                     HEIGHT="44.0"
                     WC="0.9782900376753374"></String>
           </TextLine>
-          <TextLine ID="6cafa663-d43e-40f2-9398-d0fe8d44fdde"
+          <TextLine ID="eSc_line_6cafa663-d43e-40f2-9398-d0fe8d44fdde"
                     TAGREFS="LT8"
                     BASELINE="270 682 932 680" 
                     HPOS="270.0"
@@ -306,7 +306,7 @@
                     HEIGHT="41.0"
                     WC="0.9927856316169102"></String>
           </TextLine>
-          <TextLine ID="c1cbf1f0-269f-478e-8d7e-c4713202f475"
+          <TextLine ID="eSc_line_c1cbf1f0-269f-478e-8d7e-c4713202f475"
                     TAGREFS="LT8"
                     BASELINE="269 712 933 711" 
                     HPOS="269.0"
@@ -321,7 +321,7 @@
                     HEIGHT="43.0"
                     WC="0.9861365751786666"></String>
           </TextLine>
-          <TextLine ID="759fde58-a6ba-44e6-aa37-edf759b1c1a1"
+          <TextLine ID="eSc_line_759fde58-a6ba-44e6-aa37-edf759b1c1a1"
                     TAGREFS="LT8"
                     BASELINE="271 745 933 743" 
                     HPOS="271.0"
@@ -336,7 +336,7 @@
                     HEIGHT="42.0"
                     WC="0.9901116919099239"></String>
           </TextLine>
-          <TextLine ID="1f9f987f-1411-4ae8-91e1-bcf1ee2c7013"
+          <TextLine ID="eSc_line_1f9f987f-1411-4ae8-91e1-bcf1ee2c7013"
                     TAGREFS="LT8"
                     BASELINE="270 777 931 774" 
                     HPOS="269.0"
@@ -351,7 +351,7 @@
                     HEIGHT="41.0"
                     WC="0.988356844375008"></String>
           </TextLine>
-          <TextLine ID="fb02a7d0-2a51-4d38-a69d-05da3e871b27"
+          <TextLine ID="eSc_line_fb02a7d0-2a51-4d38-a69d-05da3e871b27"
                     TAGREFS="LT8"
                     BASELINE="270 809 931 806" 
                     HPOS="269.0"
@@ -366,7 +366,7 @@
                     HEIGHT="42.0"
                     WC="0.9621797214661326"></String>
           </TextLine>
-          <TextLine ID="d8570ddf-9c27-4024-979d-97f039f60c4d"
+          <TextLine ID="eSc_line_d8570ddf-9c27-4024-979d-97f039f60c4d"
                     TAGREFS="LT8"
                     BASELINE="270 842 931 838" 
                     HPOS="269.0"
@@ -381,7 +381,7 @@
                     HEIGHT="40.0"
                     WC="0.9971875274767641"></String>
           </TextLine>
-          <TextLine ID="2e5d8c7d-094d-449a-b9f0-d9047e748d61"
+          <TextLine ID="eSc_line_2e5d8c7d-094d-449a-b9f0-d9047e748d61"
                     TAGREFS="LT8"
                     BASELINE="271 872 933 869" 
                     HPOS="270.0"
@@ -396,7 +396,7 @@
                     HEIGHT="42.0"
                     WC="0.9894522428512573"></String>
           </TextLine>
-          <TextLine ID="356ccf64-2495-4322-a34a-0f5711558680"
+          <TextLine ID="eSc_line_356ccf64-2495-4322-a34a-0f5711558680"
                     TAGREFS="LT8"
                     BASELINE="271 905 932 899" 
                     HPOS="270.0"
@@ -411,7 +411,7 @@
                     HEIGHT="42.0"
                     WC="0.9943388392185343"></String>
           </TextLine>
-          <TextLine ID="d9e6b002-d21a-4bd6-95e9-9a2f22ed336c"
+          <TextLine ID="eSc_line_d9e6b002-d21a-4bd6-95e9-9a2f22ed336c"
                     TAGREFS="LT8"
                     BASELINE="271 935 932 932" 
                     HPOS="270.0"
@@ -426,7 +426,7 @@
                     HEIGHT="45.0"
                     WC="0.9753141234318415"></String>
           </TextLine>
-          <TextLine ID="f26cc626-9363-4d59-ae86-1bfa016524be"
+          <TextLine ID="eSc_line_f26cc626-9363-4d59-ae86-1bfa016524be"
                     TAGREFS="LT8"
                     BASELINE="271 967 934 963" 
                     HPOS="270.0"
@@ -449,7 +449,7 @@
                    ID="3c06234b-245f-4e87-a2f2-1b4ac81b229e"
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="770 96 770 150 490 150 490 96"/></Shape>
-          <TextLine ID="a3fd4a5e-3da1-4df3-b070-c8fd49fab978"
+          <TextLine ID="eSc_line_a3fd4a5e-3da1-4df3-b070-c8fd49fab978"
                     TAGREFS="LT8"
                     BASELINE="488 136 766 136" 
                     HPOS="488.0"
@@ -472,7 +472,7 @@
                    ID="d61e18fd-a6ae-4c7d-935f-6caec512aa89"
                    TAGREFS="BT3011">
           <Shape><Polygon POINTS="942 977 942 1415 270 1427 270 977"/></Shape>
-          <TextLine ID="16606932-767a-4863-a444-631e29a15266"
+          <TextLine ID="eSc_line_16606932-767a-4863-a444-631e29a15266"
                     TAGREFS="LT8"
                     BASELINE="298 998 932 994" 
                     HPOS="298.0"
@@ -487,7 +487,7 @@
                     HEIGHT="34.0"
                     WC="0.9956595441874336"></String>
           </TextLine>
-          <TextLine ID="a3dc43e7-d0ba-4206-85e7-ec35c516ccec"
+          <TextLine ID="eSc_line_a3dc43e7-d0ba-4206-85e7-ec35c516ccec"
                     TAGREFS="LT8"
                     BASELINE="271 1030 932 1025" 
                     HPOS="271.0"
@@ -502,7 +502,7 @@
                     HEIGHT="43.0"
                     WC="0.9993326950956274"></String>
           </TextLine>
-          <TextLine ID="4c550c29-6793-4958-a519-e28467cb6fa3"
+          <TextLine ID="eSc_line_4c550c29-6793-4958-a519-e28467cb6fa3"
                     TAGREFS="LT8"
                     BASELINE="272 1061 934 1057" 
                     HPOS="271.0"
@@ -517,7 +517,7 @@
                     HEIGHT="40.0"
                     WC="0.9932683812720435"></String>
           </TextLine>
-          <TextLine ID="e6097840-6e16-4d6a-9f77-5d4e491fe537"
+          <TextLine ID="eSc_line_e6097840-6e16-4d6a-9f77-5d4e491fe537"
                     TAGREFS="LT8"
                     BASELINE="134 1114 248 1116 265 1119" 
                     HPOS="132.0"
@@ -532,7 +532,7 @@
                     HEIGHT="86.0"
                     WC="0.9266050726175308"></String>
           </TextLine>
-          <TextLine ID="66ec5eeb-dd83-4c63-80c3-f5d29c5fb1fb"
+          <TextLine ID="eSc_line_66ec5eeb-dd83-4c63-80c3-f5d29c5fb1fb"
                     TAGREFS="LT8"
                     BASELINE="272 1091 934 1088" 
                     HPOS="271.0"
@@ -547,7 +547,7 @@
                     HEIGHT="42.0"
                     WC="0.9924802947462651"></String>
           </TextLine>
-          <TextLine ID="eSc_line_b94be06e"
+          <TextLine ID="eSc_line_eSc_line_b94be06e"
                     TAGREFS="LT8"
                     BASELINE="277 1121 291 1124 933 1122" 
                     HPOS="275.0"
@@ -562,7 +562,7 @@
                     HEIGHT="48.0"
                     WC="0.9985773873329162"></String>
           </TextLine>
-          <TextLine ID="041fd4b6-281b-410a-a61f-2f61ae798b98"
+          <TextLine ID="eSc_line_041fd4b6-281b-410a-a61f-2f61ae798b98"
                     TAGREFS="LT8"
                     BASELINE="271 1155 934 1152" 
                     HPOS="271.0"
@@ -577,7 +577,7 @@
                     HEIGHT="38.0"
                     WC="0.9839891814268552"></String>
           </TextLine>
-          <TextLine ID="10a3073b-a71c-44b9-a3a9-bd5a481e484f"
+          <TextLine ID="eSc_line_10a3073b-a71c-44b9-a3a9-bd5a481e484f"
                     TAGREFS="LT8"
                     BASELINE="272 1188 935 1183" 
                     HPOS="271.0"
@@ -592,7 +592,7 @@
                     HEIGHT="44.0"
                     WC="0.9980349049233553"></String>
           </TextLine>
-          <TextLine ID="ee5aeb92-d00d-4c8f-8c0d-7900898d1a8d"
+          <TextLine ID="eSc_line_ee5aeb92-d00d-4c8f-8c0d-7900898d1a8d"
                     TAGREFS="LT8"
                     BASELINE="272 1220 935 1215" 
                     HPOS="271.0"
@@ -607,7 +607,7 @@
                     HEIGHT="45.0"
                     WC="0.9842956513166428"></String>
           </TextLine>
-          <TextLine ID="e3aea5be-cf29-40db-8915-2de465e19bfe"
+          <TextLine ID="eSc_line_e3aea5be-cf29-40db-8915-2de465e19bfe"
                     TAGREFS="LT8"
                     BASELINE="271 1250 936 1247" 
                     HPOS="271.0"
@@ -622,7 +622,7 @@
                     HEIGHT="41.0"
                     WC="0.9961797313870124"></String>
           </TextLine>
-          <TextLine ID="b9dd92f4-96cc-4a8f-a031-e418ec599e2d"
+          <TextLine ID="eSc_line_b9dd92f4-96cc-4a8f-a031-e418ec599e2d"
                     TAGREFS="LT8"
                     BASELINE="272 1282 936 1278" 
                     HPOS="272.0"
@@ -637,7 +637,7 @@
                     HEIGHT="42.0"
                     WC="0.9963890454348396"></String>
           </TextLine>
-          <TextLine ID="0cea1f58-77dc-48d4-86b5-c00ae29d7883"
+          <TextLine ID="eSc_line_0cea1f58-77dc-48d4-86b5-c00ae29d7883"
                     TAGREFS="LT8"
                     BASELINE="272 1314 936 1310" 
                     HPOS="272.0"
@@ -652,7 +652,7 @@
                     HEIGHT="41.0"
                     WC="0.9892611240936537"></String>
           </TextLine>
-          <TextLine ID="0018cd3b-0bf5-40ed-965f-698b47f85d84"
+          <TextLine ID="eSc_line_0018cd3b-0bf5-40ed-965f-698b47f85d84"
                     TAGREFS="LT8"
                     BASELINE="272 1345 937 1341" 
                     HPOS="272.0"
@@ -667,7 +667,7 @@
                     HEIGHT="43.0"
                     WC="0.9927568028370539"></String>
           </TextLine>
-          <TextLine ID="9b0007ce-4dd3-4d8a-826b-f0598f51be6f"
+          <TextLine ID="eSc_line_9b0007ce-4dd3-4d8a-826b-f0598f51be6f"
                     TAGREFS="LT8"
                     BASELINE="272 1377 936 1372" 
                     HPOS="272.0"
@@ -682,7 +682,7 @@
                     HEIGHT="43.0"
                     WC="0.9956074377586102"></String>
           </TextLine>
-          <TextLine ID="353cecc5-ea15-46fc-94da-ccfb90413d2f"
+          <TextLine ID="eSc_line_353cecc5-ea15-46fc-94da-ccfb90413d2f"
                     TAGREFS="LT8"
                     BASELINE="272 1410 938 1404" 
                     HPOS="271.0"
@@ -705,7 +705,7 @@
                    ID="002fa018-7741-4042-9a35-fe2aa05c4e1a"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="946 1415 946 1453 890 1453 890 1415"/></Shape>
-          <TextLine ID="52f14434-4153-4179-9a0e-1667c4dfab55"
+          <TextLine ID="eSc_line_52f14434-4153-4179-9a0e-1667c4dfab55"
                     TAGREFS="LT8"
                     BASELINE="893 1436 938 1437" 
                     HPOS="892.0"
