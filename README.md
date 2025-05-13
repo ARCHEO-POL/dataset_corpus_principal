@@ -44,7 +44,7 @@ This repo contains the transcription of 16th c. French prints. It contains a dir
 
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| s.n. | [_Discours politiques des diverses puissances establies de Dieu au monde_]((https://doi.org/10.3931/e-rara-29284)) | 1578     | Lausanne | Heinrich Wolf | N. Champeaux |  |
+| s.n. | [_Discours politiques des diverses puissances establies de Dieu au monde_](https://doi.org/10.3931/e-rara-29284) | 1578     | Lausanne | Heinrich Wolf | N. Champeaux |  |
 
 
 
