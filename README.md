@@ -35,7 +35,7 @@ This repo contains the transcription of 16th c. French prints. It contains a dir
 
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
-| Hotman François | [*La Francogallia*] (https://www.digitale-sammlungen.de/en/view/bsb10177492?page=4,5) | 1573     | Munich| Jacob Stoer | L.Paoli     |   |
+| Hotman François | [*La Francogallia*](https://www.digitale-sammlungen.de/en/view/bsb10177492?page=4,5) | 1573     | Munich| Jacob Stoer | L.Paoli     |   |
 
 
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
