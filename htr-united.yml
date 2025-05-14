@@ -119,10 +119,10 @@ characters:
   - ς
   - 
   - ᑕ
-  - ·
   - η
   - ⁹
   - ᗅ
+  - ·
   - γ
   - υ
   - α
@@ -142,10 +142,10 @@ characters:
   - δ
   - π
   - ε
+  - ᗞ
   - ⟦
   - „
   - ']'
-  - ᗞ
   mode: NFD
 description: >-
   Ce dépôt regroupe les données du corpus principal du projet de recherche en
@@ -176,11 +176,11 @@ url: https://github.com/ARCHEO-POL/dataset_corpus_principal
 volume:
 - count: 1704443
   metric: characters
-- count: 1347
+- count: 1346
   metric: files
-- count: 47948
+- count: 47949
   metric: lines
 - count: 800
   metric: pages
-- count: 7576
+- count: 7577
   metric: regions
