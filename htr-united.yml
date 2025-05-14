@@ -176,7 +176,7 @@ url: https://github.com/ARCHEO-POL/dataset_corpus_principal
 volume:
 - count: 1704443
   metric: characters
-- count: 1346
+- count: 1345
   metric: files
 - count: 47949
   metric: lines
