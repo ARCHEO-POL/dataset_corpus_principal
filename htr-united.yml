@@ -145,7 +145,6 @@ characters:
   - ᗞ
   - ⟦
   - „
-  - ']'
   mode: NFD
 description: >-
   Ce dépôt regroupe les données du corpus principal du projet de recherche en
@@ -174,13 +173,13 @@ time:
 title: 'Archeo-pol : Corpus principal'
 url: https://github.com/ARCHEO-POL/dataset_corpus_principal
 volume:
-- count: 1704443
+- count: 1704431
   metric: characters
 - count: 1339
   metric: files
-- count: 47949
+- count: 47947
   metric: lines
 - count: 800
   metric: pages
-- count: 7577
+- count: 7573
   metric: regions
