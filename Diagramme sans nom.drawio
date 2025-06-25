@@ -7,7 +7,7 @@
         <mxCell id="FtyBfxp5inxuuh24bvAW-27" value="Text extraction" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
           <mxGeometry x="96" y="288" width="264" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="FtyBfxp5inxuuh24bvAW-1" value="Metadata" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=none;fillColor=light-dark(#FF0080,#99004D);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#CC0066,#CC0066);" parent="1" vertex="1">
+        <mxCell id="FtyBfxp5inxuuh24bvAW-1" value="Metadata" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=none;fillColor=light-dark(#FF0080,#99004D);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" parent="1" vertex="1">
           <mxGeometry x="10" y="180" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FtyBfxp5inxuuh24bvAW-3" value="Layout" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#E1D5E7,#FFFFFF);strokeColor=light-dark(#9673A6,#000000);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
@@ -37,7 +37,7 @@
         <mxCell id="FtyBfxp5inxuuh24bvAW-10" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;TEI File&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;labelBackgroundColor=none;fillColor=light-dark(#D5E8D4,#6EC369);strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="504" y="300" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FtyBfxp5inxuuh24bvAW-11" value="Digital Facsimile" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=none;fillColor=light-dark(#FF0080,#99004D);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#CC0066,#CC0066);" parent="1" vertex="1">
+        <mxCell id="FtyBfxp5inxuuh24bvAW-11" value="Digital Facsimile" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=none;fillColor=light-dark(#FF0080,#99004D);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" parent="1" vertex="1">
           <mxGeometry x="10" y="300" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FtyBfxp5inxuuh24bvAW-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.387;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.012;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;strokeColor=light-dark(#00CC00,#00CC00);" parent="1" edge="1">
